@@ -1,0 +1,115 @@
+# ==============================================================================
+# MHD REAL ESTATE TECH • COOLIFY PRODUCTION DOCKER COMPOSE
+# Tailored for Coolify Engine (Traefik auto-proxy, dynamic domains, health checks)
+# Services: PostGIS 16 + Redis 7 + FastAPI AI Backend + Nginx/React Frontend
+# ==============================================================================
+
+services:
+  # --------------------------------------------------------------------------
+  # 1. PostGIS 16 Engine (Spatial Database for GIS & Real Estate Listings)
+  # --------------------------------------------------------------------------
+  postgis:
+    image: postgis/postgis:16-3.4
+    container_name: mhd_postgis
+    restart: always
+    environment:
+      POSTGRES_USER: ${POSTGRES_USER:-postgres}
+      POSTGRES_PASSWORD: ${POSTGRES_PASSWORD:-mhd_postgres_2026}
+      POSTGRES_DB: ${POSTGRES_DB:-mhd_valuation}
+      PGDATA: /var/lib/postgresql/data/pgdata
+    volumes:
+      - postgis_data:/var/lib/postgresql/data
+      - ./database/01_init_postgis.sql:/docker-entrypoint-initdb.d/01_init_postgis.sql:ro
+    healthcheck:
+      test: ["CMD-SHELL", "pg_isready -U ${POSTGRES_USER:-postgres} -d ${POSTGRES_DB:-mhd_valuation}"]
+      interval: 10s
+      timeout: 5s
+      retries: 5
+      start_period: 15s
+    networks:
+      - mhd_network
+
+  # --------------------------------------------------------------------------
+  # 2. Redis 7 (In-Memory Cache & Session Engine)
+  # --------------------------------------------------------------------------
+  redis:
+    image: redis:7-alpine
+    container_name: mhd_redis
+    restart: always
+    command: redis-server --appendonly yes --maxmemory 256mb --maxmemory-policy allkeys-lru
+    volumes:
+      - redis_data:/data
+    healthcheck:
+      test: ["CMD", "redis-cli", "ping"]
+      interval: 10s
+      timeout: 3s
+      retries: 5
+    networks:
+      - mhd_network
+
+  # --------------------------------------------------------------------------
+  # 3. FastAPI AI Backend (CatBoost ML + PostGIS Geo Engine)
+  # --------------------------------------------------------------------------
+  backend:
+    build:
+      context: ./backend
+      dockerfile: Dockerfile
+    container_name: mhd_backend
+    restart: always
+    environment:
+      - POSTGRES_HOST=postgis
+      - POSTGRES_PORT=5432
+      - POSTGRES_DB=${POSTGRES_DB:-mhd_valuation}
+      - POSTGRES_USER=${POSTGRES_USER:-postgres}
+      - POSTGRES_PASSWORD=${POSTGRES_PASSWORD:-mhd_postgres_2026}
+      - REDIS_HOST=redis
+      - REDIS_PORT=6379
+      - MARKET_DISCOUNT_FACTOR=${MARKET_DISCOUNT_FACTOR:-0.93}
+      - MODEL_PATH=models/mhd_smart_v2.cbm
+      - DATA_PROCESSED_FILE=data/processed/data_mhd_clean.parquet
+    depends_on:
+      postgis:
+        condition: service_healthy
+      redis:
+        condition: service_healthy
+    healthcheck:
+      test: ["CMD-SHELL", "curl -f http://localhost:8000/health || exit 1"]
+      interval: 20s
+      timeout: 5s
+      retries: 3
+      start_period: 15s
+    networks:
+      - mhd_network
+
+  # --------------------------------------------------------------------------
+  # 4. Frontend Web Application & Reverse Proxy (React + Nginx)
+  # Entrypoint for Coolify Traefik Router
+  # --------------------------------------------------------------------------
+  frontend:
+    build:
+      context: ./frontend
+      dockerfile: Dockerfile
+    container_name: mhd_frontend
+    restart: always
+    ports:
+      - "${PORT:-80}:80"
+    depends_on:
+      backend:
+        condition: service_healthy
+    healthcheck:
+      test: ["CMD-SHELL", "curl -f http://localhost:80/ || exit 1"]
+      interval: 20s
+      timeout: 5s
+      retries: 3
+    networks:
+      - mhd_network
+
+networks:
+  mhd_network:
+    driver: bridge
+
+volumes:
+  postgis_data:
+    driver: local
+  redis_data:
+    driver: local

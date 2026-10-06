@@ -1,0 +1,6608 @@
+{
+  "An Giang_Châu Đốc_Châu Phú B": {
+    "lat": 10.7069704,
+    "lng": 105.1164371,
+    "province": "An Giang",
+    "district": "Châu Đốc",
+    "ward": "Châu Phú B"
+  },
+  "An Giang_Châu Đốc_Vĩnh Mỹ": {
+    "lat": 10.68652,
+    "lng": 105.1336888,
+    "province": "An Giang",
+    "district": "Châu Đốc",
+    "ward": "Vĩnh Mỹ"
+  },
+  "An Giang_Chợ Mới_An Thạnh Trung": null,
+  "An Giang_Chợ Mới_Hội An": {
+    "lat": 10.4308565,
+    "lng": 105.5496884,
+    "province": "An Giang",
+    "district": "Chợ Mới",
+    "ward": "Hội An"
+  },
+  "An Giang_Chợ Mới_Mỹ An": {
+    "lat": 10.5210996,
+    "lng": 105.491249,
+    "province": "An Giang",
+    "district": "Chợ Mới",
+    "ward": "Mỹ An"
+  },
+  "An Giang_Long Xuyên_Bình Khánh": {
+    "lat": 10.3928438,
+    "lng": 105.4237072,
+    "province": "An Giang",
+    "district": "Long Xuyên",
+    "ward": "Bình Khánh"
+  },
+  "An Giang_Long Xuyên_Bình Đức": {
+    "lat": 10.3931306,
+    "lng": 105.4206794,
+    "province": "An Giang",
+    "district": "Long Xuyên",
+    "ward": "Bình Đức"
+  },
+  "An Giang_Long Xuyên_Mỹ Hòa": {
+    "lat": 10.3829251,
+    "lng": 105.4222713,
+    "province": "An Giang",
+    "district": "Long Xuyên",
+    "ward": "Mỹ Hòa"
+  },
+  "An Giang_Long Xuyên_Mỹ Phước": {
+    "lat": 10.373117,
+    "lng": 105.445155,
+    "province": "An Giang",
+    "district": "Long Xuyên",
+    "ward": "Mỹ Phước"
+  },
+  "An Giang_Long Xuyên_Mỹ Quý": {
+    "lat": 10.3654061,
+    "lng": 105.4475711,
+    "province": "An Giang",
+    "district": "Long Xuyên",
+    "ward": "Mỹ Quý"
+  },
+  "An Giang_Long Xuyên_Mỹ Thới": {
+    "lat": 10.3470009,
+    "lng": 105.4591799,
+    "province": "An Giang",
+    "district": "Long Xuyên",
+    "ward": "Mỹ Thới"
+  },
+  "An Giang_Long Xuyên_Mỹ Xuyên": {
+    "lat": 10.3806323,
+    "lng": 105.4376324,
+    "province": "An Giang",
+    "district": "Long Xuyên",
+    "ward": "Mỹ Xuyên"
+  },
+  "Bà Rịa - Vũng Tàu_Bà Rịa_Hòa Long": {
+    "lat": 10.4706254,
+    "lng": 107.2749318,
+    "province": "Bà Rịa - Vũng Tàu",
+    "district": "Bà Rịa",
+    "ward": "Hòa Long"
+  },
+  "Bà Rịa - Vũng Tàu_Bà Rịa_Long Hương": null,
+  "Bà Rịa - Vũng Tàu_Bà Rịa_Long Phước": {
+    "lat": 10.5972551,
+    "lng": 107.0543298,
+    "province": "Bà Rịa - Vũng Tàu",
+    "district": "Bà Rịa",
+    "ward": "Long Phước"
+  },
+  "Bà Rịa - Vũng Tàu_Bà Rịa_Long Toàn": null,
+  "Bà Rịa - Vũng Tàu_Bà Rịa_Long Tâm": {
+    "lat": 10.4698732,
+    "lng": 107.2723538,
+    "province": "Bà Rịa - Vũng Tàu",
+    "district": "Bà Rịa",
+    "ward": "Long Tâm"
+  },
+  "Bà Rịa - Vũng Tàu_Bà Rịa_Phước Hưng": null,
+  "Bà Rịa - Vũng Tàu_Bà Rịa_Phước Nguyên": null,
+  "Bà Rịa - Vũng Tàu_Bà Rịa_Phước Trung": null,
+  "Bà Rịa - Vũng Tàu_Bà Rịa_Tân Hưng": null,
+  "Bà Rịa - Vũng Tàu_Châu Đức_Bàu Chinh": null,
+  "Bà Rịa - Vũng Tàu_Châu Đức_Nghĩa Thành": null,
+  "Bà Rịa - Vũng Tàu_Châu Đức_Ngãi Giao": null,
+  "Bà Rịa - Vũng Tàu_Châu Đức_Suối Nghệ": null,
+  "Bà Rịa - Vũng Tàu_Châu Đức_Đá Bạc": null,
+  "Bà Rịa - Vũng Tàu_Long Đất_Long Tân": {
+    "lat": 10.4698732,
+    "lng": 107.2723538,
+    "province": "Bà Rịa - Vũng Tàu",
+    "district": "Long Đất",
+    "ward": "Long Tân"
+  },
+  "Bà Rịa - Vũng Tàu_Long Đất_Phước Hải": null,
+  "Bà Rịa - Vũng Tàu_Long Đất_Phước Hội": null,
+  "Bà Rịa - Vũng Tàu_Long Đất_Phước Long Thọ": null,
+  "Bà Rịa - Vũng Tàu_Long Đất_Tam An": {
+    "lat": 10.4698732,
+    "lng": 107.2723538,
+    "province": "Bà Rịa - Vũng Tàu",
+    "district": "Long Đất",
+    "ward": "Tam An"
+  },
+  "Bà Rịa - Vũng Tàu_Long Đất_Đất Đỏ": {
+    "lat": 10.4698732,
+    "lng": 107.2723538,
+    "province": "Bà Rịa - Vũng Tàu",
+    "district": "Long Đất",
+    "ward": "Đất Đỏ"
+  },
+  "Bà Rịa - Vũng Tàu_Phú Mỹ_Châu Pha": null,
+  "Bà Rịa - Vũng Tàu_Phú Mỹ_Hắc Dịch": null,
+  "Bà Rịa - Vũng Tàu_Phú Mỹ_Mỹ Xuân": {
+    "lat": 10.6231246,
+    "lng": 107.0544101,
+    "province": "Bà Rịa - Vũng Tàu",
+    "district": "Phú Mỹ",
+    "ward": "Mỹ Xuân"
+  },
+  "Bà Rịa - Vũng Tàu_Phú Mỹ_Phú Mỹ": {
+    "lat": 10.5819701,
+    "lng": 107.0628943,
+    "province": "Bà Rịa - Vũng Tàu",
+    "district": "Phú Mỹ",
+    "ward": "Phú Mỹ"
+  },
+  "Bà Rịa - Vũng Tàu_Phú Mỹ_Tân Hải": null,
+  "Bà Rịa - Vũng Tàu_Phú Mỹ_Tân Phước": null,
+  "Bà Rịa - Vũng Tàu_Vũng Tàu_1": {
+    "lat": 10.3788474,
+    "lng": 107.10917,
+    "province": "Bà Rịa - Vũng Tàu",
+    "district": "Vũng Tàu",
+    "ward": "1"
+  },
+  "Bà Rịa - Vũng Tàu_Vũng Tàu_10": {
+    "lat": 10.3788474,
+    "lng": 107.10917,
+    "province": "Bà Rịa - Vũng Tàu",
+    "district": "Vũng Tàu",
+    "ward": "10"
+  },
+  "Bà Rịa - Vũng Tàu_Vũng Tàu_11": {
+    "lat": 10.3355326,
+    "lng": 107.0865645,
+    "province": "Bà Rịa - Vũng Tàu",
+    "district": "Vũng Tàu",
+    "ward": "11"
+  },
+  "Bà Rịa - Vũng Tàu_Vũng Tàu_12": {
+    "lat": 10.3355326,
+    "lng": 107.0865645,
+    "province": "Bà Rịa - Vũng Tàu",
+    "district": "Vũng Tàu",
+    "ward": "12"
+  },
+  "Bà Rịa - Vũng Tàu_Vũng Tàu_2": {
+    "lat": 10.3425949,
+    "lng": 107.0755126,
+    "province": "Bà Rịa - Vũng Tàu",
+    "district": "Vũng Tàu",
+    "ward": "2"
+  },
+  "Bà Rịa - Vũng Tàu_Vũng Tàu_3": {
+    "lat": 10.3355326,
+    "lng": 107.0865645,
+    "province": "Bà Rịa - Vũng Tàu",
+    "district": "Vũng Tàu",
+    "ward": "3"
+  },
+  "Bà Rịa - Vũng Tàu_Vũng Tàu_4": {
+    "lat": 10.3951133,
+    "lng": 107.105454,
+    "province": "Bà Rịa - Vũng Tàu",
+    "district": "Vũng Tàu",
+    "ward": "4"
+  },
+  "Bà Rịa - Vũng Tàu_Vũng Tàu_5": {
+    "lat": 10.3355326,
+    "lng": 107.0865645,
+    "province": "Bà Rịa - Vũng Tàu",
+    "district": "Vũng Tàu",
+    "ward": "5"
+  },
+  "Bà Rịa - Vũng Tàu_Vũng Tàu_7": {
+    "lat": 10.3355326,
+    "lng": 107.0865645,
+    "province": "Bà Rịa - Vũng Tàu",
+    "district": "Vũng Tàu",
+    "ward": "7"
+  },
+  "Bà Rịa - Vũng Tàu_Vũng Tàu_8": {
+    "lat": 8.6778963,
+    "lng": 106.6011901,
+    "province": "Bà Rịa - Vũng Tàu",
+    "district": "Vũng Tàu",
+    "ward": "8"
+  },
+  "Bà Rịa - Vũng Tàu_Vũng Tàu_9": {
+    "lat": 10.3355326,
+    "lng": 107.0865645,
+    "province": "Bà Rịa - Vũng Tàu",
+    "district": "Vũng Tàu",
+    "ward": "9"
+  },
+  "Bà Rịa - Vũng Tàu_Vũng Tàu_Nguyễn An Ninh": null,
+  "Bà Rịa - Vũng Tàu_Vũng Tàu_Rạch Dừa": {
+    "lat": 10.3774141,
+    "lng": 107.1122353,
+    "province": "Bà Rịa - Vũng Tàu",
+    "district": "Vũng Tàu",
+    "ward": "Rạch Dừa"
+  },
+  "Bà Rịa - Vũng Tàu_Vũng Tàu_Thắng Nhì": null,
+  "Bà Rịa - Vũng Tàu_Vũng Tàu_Thắng Nhất": null,
+  "Bà Rịa - Vũng Tàu_Vũng Tàu_Thắng Tam": {
+    "lat": 10.3668459,
+    "lng": 107.0843152,
+    "province": "Bà Rịa - Vũng Tàu",
+    "district": "Vũng Tàu",
+    "ward": "Thắng Tam"
+  },
+  "Bà Rịa - Vũng Tàu_Xuyên Mộc_Bàu Lâm": null,
+  "Bà Rịa - Vũng Tàu_Xuyên Mộc_Bình Châu": null,
+  "Bà Rịa - Vũng Tàu_Xuyên Mộc_Bưng Riềng": null,
+  "Bà Rịa - Vũng Tàu_Xuyên Mộc_Hòa Hội": null,
+  "Bà Rịa - Vũng Tàu_Xuyên Mộc_Phước Bửu": null,
+  "Bà Rịa - Vũng Tàu_Xuyên Mộc_Phước Thuận": null,
+  "Bà Rịa - Vũng Tàu_Xuyên Mộc_Phước Tân": null,
+  "Bà Rịa - Vũng Tàu_Xuyên Mộc_Xuyên Mộc": null,
+  "Bình Dương_Bàu Bàng_Cây Trường II": null,
+  "Bình Dương_Bàu Bàng_Lai Hưng": null,
+  "Bình Dương_Bàu Bàng_Lai Uyên": {
+    "lat": 11.3247887,
+    "lng": 106.6344594,
+    "province": "Bình Dương",
+    "district": "Bàu Bàng",
+    "ward": "Lai Uyên"
+  },
+  "Bình Dương_Bàu Bàng_Long Nguyên": null,
+  "Bình Dương_Bàu Bàng_Trừ Văn Thố": null,
+  "Bình Dương_Bàu Bàng_Tân Hưng": null,
+  "Bình Dương_Bắc Tân Uyên_Tân Bình": {
+    "lat": 11.1560893,
+    "lng": 106.7047005,
+    "province": "Bình Dương",
+    "district": "Bắc Tân Uyên",
+    "ward": "Tân Bình"
+  },
+  "Bình Dương_Bắc Tân Uyên_Tân Lập": null,
+  "Bình Dương_Bắc Tân Uyên_Tân Thành": {
+    "lat": 11.119424,
+    "lng": 106.7919315,
+    "province": "Bình Dương",
+    "district": "Bắc Tân Uyên",
+    "ward": "Tân Thành"
+  },
+  "Bình Dương_Bến Cát_An Tây": null,
+  "Bình Dương_Bến Cát_An Điền": null,
+  "Bình Dương_Bến Cát_Chánh Phú Hòa": {
+    "lat": 11.0760352,
+    "lng": 106.6928575,
+    "province": "Bình Dương",
+    "district": "Bến Cát",
+    "ward": "Chánh Phú Hòa"
+  },
+  "Bình Dương_Bến Cát_Hòa Lợi": {
+    "lat": 11.0768809,
+    "lng": 106.6739549,
+    "province": "Bình Dương",
+    "district": "Bến Cát",
+    "ward": "Hòa Lợi"
+  },
+  "Bình Dương_Bến Cát_Mỹ Phước": {
+    "lat": 11.0969279,
+    "lng": 106.6380864,
+    "province": "Bình Dương",
+    "district": "Bến Cát",
+    "ward": "Mỹ Phước"
+  },
+  "Bình Dương_Bến Cát_Phú An": null,
+  "Bình Dương_Bến Cát_Thới Hòa": null,
+  "Bình Dương_Bến Cát_Tân Định": null,
+  "Bình Dương_Dĩ An_An Bình": {
+    "lat": 10.8714189,
+    "lng": 106.7551239,
+    "province": "Bình Dương",
+    "district": "Dĩ An",
+    "ward": "An Bình"
+  },
+  "Bình Dương_Dĩ An_Bình An": {
+    "lat": 10.8714189,
+    "lng": 106.7551239,
+    "province": "Bình Dương",
+    "district": "Dĩ An",
+    "ward": "Bình An"
+  },
+  "Bình Dương_Dĩ An_Bình Thắng": {
+    "lat": 10.8899594,
+    "lng": 106.8206407,
+    "province": "Bình Dương",
+    "district": "Dĩ An",
+    "ward": "Bình Thắng"
+  },
+  "Bình Dương_Dĩ An_Dĩ An": {
+    "lat": 10.8797358,
+    "lng": 106.8061911,
+    "province": "Bình Dương",
+    "district": "Dĩ An",
+    "ward": "Dĩ An"
+  },
+  "Bình Dương_Dĩ An_Tân Bình": {
+    "lat": 10.7374589,
+    "lng": 106.6163925,
+    "province": "Bình Dương",
+    "district": "Dĩ An",
+    "ward": "Tân Bình"
+  },
+  "Bình Dương_Dĩ An_Tân Đông Hiệp": null,
+  "Bình Dương_Dĩ An_Đông Hòa": {
+    "lat": 10.8906144,
+    "lng": 106.7809728,
+    "province": "Bình Dương",
+    "district": "Dĩ An",
+    "ward": "Đông Hòa"
+  },
+  "Bình Dương_Dầu Tiếng_Minh Thạnh": null,
+  "Bình Dương_Dầu Tiếng_Thanh Tuyền": null,
+  "Bình Dương_Phú Giáo_Phước Hòa": {
+    "lat": 11.306703,
+    "lng": 106.8087015,
+    "province": "Bình Dương",
+    "district": "Phú Giáo",
+    "ward": "Phước Hòa"
+  },
+  "Bình Dương_Phú Giáo_Phước Vĩnh": {
+    "lat": 11.2991406,
+    "lng": 106.8044873,
+    "province": "Bình Dương",
+    "district": "Phú Giáo",
+    "ward": "Phước Vĩnh"
+  },
+  "Bình Dương_Thuận An_An Phú": {
+    "lat": 10.9355293,
+    "lng": 106.7372572,
+    "province": "Bình Dương",
+    "district": "Thuận An",
+    "ward": "An Phú"
+  },
+  "Bình Dương_Thuận An_An Sơn": {
+    "lat": 21.0370349,
+    "lng": 106.2675362,
+    "province": "Bình Dương",
+    "district": "Thuận An",
+    "ward": "An Sơn"
+  },
+  "Bình Dương_Thuận An_An Thạnh": {
+    "lat": 10.9457287,
+    "lng": 106.6898281,
+    "province": "Bình Dương",
+    "district": "Thuận An",
+    "ward": "An Thạnh"
+  },
+  "Bình Dương_Thuận An_Bình Chuẩn": {
+    "lat": 10.9838632,
+    "lng": 106.723509,
+    "province": "Bình Dương",
+    "district": "Thuận An",
+    "ward": "Bình Chuẩn"
+  },
+  "Bình Dương_Thuận An_Bình Hòa": {
+    "lat": 10.9355293,
+    "lng": 106.7372572,
+    "province": "Bình Dương",
+    "district": "Thuận An",
+    "ward": "Bình Hòa"
+  },
+  "Bình Dương_Thuận An_Bình Nhâm": {
+    "lat": 10.9287182,
+    "lng": 106.6901916,
+    "province": "Bình Dương",
+    "district": "Thuận An",
+    "ward": "Bình Nhâm"
+  },
+  "Bình Dương_Thuận An_Hưng Định": {
+    "lat": 10.9400053,
+    "lng": 106.6916348,
+    "province": "Bình Dương",
+    "district": "Thuận An",
+    "ward": "Hưng Định"
+  },
+  "Bình Dương_Thuận An_Lái Thiêu": {
+    "lat": 10.9043731,
+    "lng": 106.6999228,
+    "province": "Bình Dương",
+    "district": "Thuận An",
+    "ward": "Lái Thiêu"
+  },
+  "Bình Dương_Thuận An_Thuận Giao": {
+    "lat": 10.9355293,
+    "lng": 106.7372572,
+    "province": "Bình Dương",
+    "district": "Thuận An",
+    "ward": "Thuận Giao"
+  },
+  "Bình Dương_Thuận An_Vĩnh Phú": {
+    "lat": 10.8827582,
+    "lng": 106.6962331,
+    "province": "Bình Dương",
+    "district": "Thuận An",
+    "ward": "Vĩnh Phú"
+  },
+  "Bình Dương_Thủ Dầu Một_Chánh Mỹ": {
+    "lat": 10.9884102,
+    "lng": 106.6436814,
+    "province": "Bình Dương",
+    "district": "Thủ Dầu Một",
+    "ward": "Chánh Mỹ"
+  },
+  "Bình Dương_Thủ Dầu Một_Chánh Nghĩa": null,
+  "Bình Dương_Thủ Dầu Một_Hiệp An": {
+    "lat": 11.0097538,
+    "lng": 106.6313711,
+    "province": "Bình Dương",
+    "district": "Thủ Dầu Một",
+    "ward": "Hiệp An"
+  },
+  "Bình Dương_Thủ Dầu Một_Hiệp Thành": {
+    "lat": 11.0097538,
+    "lng": 106.6313711,
+    "province": "Bình Dương",
+    "district": "Thủ Dầu Một",
+    "ward": "Hiệp Thành"
+  },
+  "Bình Dương_Thủ Dầu Một_Hòa Phú": {
+    "lat": 11.0750996,
+    "lng": 106.6912901,
+    "province": "Bình Dương",
+    "district": "Thủ Dầu Một",
+    "ward": "Hòa Phú"
+  },
+  "Bình Dương_Thủ Dầu Một_Phú Hòa": {
+    "lat": 11.0750996,
+    "lng": 106.6912901,
+    "province": "Bình Dương",
+    "district": "Thủ Dầu Một",
+    "ward": "Phú Hòa"
+  },
+  "Bình Dương_Thủ Dầu Một_Phú Lợi": {
+    "lat": 10.9751287,
+    "lng": 106.6761338,
+    "province": "Bình Dương",
+    "district": "Thủ Dầu Một",
+    "ward": "Phú Lợi"
+  },
+  "Bình Dương_Thủ Dầu Một_Phú Mỹ": {
+    "lat": 11.0176444,
+    "lng": 106.6756116,
+    "province": "Bình Dương",
+    "district": "Thủ Dầu Một",
+    "ward": "Phú Mỹ"
+  },
+  "Bình Dương_Thủ Dầu Một_Phú Thọ": {
+    "lat": 10.9626245,
+    "lng": 106.6742417,
+    "province": "Bình Dương",
+    "district": "Thủ Dầu Một",
+    "ward": "Phú Thọ"
+  },
+  "Bình Dương_Thủ Dầu Một_Phú Tân": {
+    "lat": 11.0396527,
+    "lng": 106.6919762,
+    "province": "Bình Dương",
+    "district": "Thủ Dầu Một",
+    "ward": "Phú Tân"
+  },
+  "Bình Dương_Thủ Dầu Một_Tân An": {
+    "lat": 11.0248412,
+    "lng": 106.7098606,
+    "province": "Bình Dương",
+    "district": "Thủ Dầu Một",
+    "ward": "Tân An"
+  },
+  "Bình Dương_Thủ Dầu Một_Tương Bình Hiệp": {
+    "lat": 11.0097538,
+    "lng": 106.6313711,
+    "province": "Bình Dương",
+    "district": "Thủ Dầu Một",
+    "ward": "Tương Bình Hiệp"
+  },
+  "Bình Dương_Thủ Dầu Một_Định Hòa": null,
+  "Bình Dương_Tân Uyên_Bạch Đằng": null,
+  "Bình Dương_Tân Uyên_Hội Nghĩa": {
+    "lat": 11.0654982,
+    "lng": 106.6879598,
+    "province": "Bình Dương",
+    "district": "Tân Uyên",
+    "ward": "Hội Nghĩa"
+  },
+  "Bình Dương_Tân Uyên_Khánh Bình": {
+    "lat": 11.050149,
+    "lng": 106.7608022,
+    "province": "Bình Dương",
+    "district": "Tân Uyên",
+    "ward": "Khánh Bình"
+  },
+  "Bình Dương_Tân Uyên_Phú Chánh": {
+    "lat": 11.0756344,
+    "lng": 106.6905322,
+    "province": "Bình Dương",
+    "district": "Tân Uyên",
+    "ward": "Phú Chánh"
+  },
+  "Bình Dương_Tân Uyên_Thái Hòa": null,
+  "Bình Dương_Tân Uyên_Tân Hiệp": {
+    "lat": 11.0337167,
+    "lng": 106.7834805,
+    "province": "Bình Dương",
+    "district": "Tân Uyên",
+    "ward": "Tân Hiệp"
+  },
+  "Bình Dương_Tân Uyên_Tân Phước Khánh": {
+    "lat": 11.0044527,
+    "lng": 106.7191344,
+    "province": "Bình Dương",
+    "district": "Tân Uyên",
+    "ward": "Tân Phước Khánh"
+  },
+  "Bình Dương_Tân Uyên_Tân Vĩnh Hiệp": null,
+  "Bình Dương_Tân Uyên_Uyên Hưng": {
+    "lat": 11.058356,
+    "lng": 106.7975505,
+    "province": "Bình Dương",
+    "district": "Tân Uyên",
+    "ward": "Uyên Hưng"
+  },
+  "Bình Dương_Tân Uyên_Vĩnh Tân": {
+    "lat": 11.119424,
+    "lng": 106.7919315,
+    "province": "Bình Dương",
+    "district": "Tân Uyên",
+    "ward": "Vĩnh Tân"
+  },
+  "Bình Phước_Bình Long_An Lộc": {
+    "lat": 10.6835827,
+    "lng": 106.4027084,
+    "province": "Bình Phước",
+    "district": "Bình Long",
+    "ward": "An Lộc"
+  },
+  "Bình Phước_Bù Đăng_Bom Bo": null,
+  "Bình Phước_Chơn Thành_Hưng Long": null,
+  "Bình Phước_Chơn Thành_Minh Hưng": null,
+  "Bình Phước_Chơn Thành_Minh Thành": null,
+  "Bình Phước_Chơn Thành_Nha Bích": null,
+  "Bình Phước_Phước Long_Phước Bình": {
+    "lat": 10.8156265,
+    "lng": 106.7693638,
+    "province": "Bình Phước",
+    "district": "Phước Long",
+    "ward": "Phước Bình"
+  },
+  "Bình Phước_Đồng Phú_Thuận Lợi": null,
+  "Bình Phước_Đồng Phú_Tân Phú": {
+    "lat": 11.4528902,
+    "lng": 106.8724467,
+    "province": "Bình Phước",
+    "district": "Đồng Phú",
+    "ward": "Tân Phú"
+  },
+  "Bình Phước_Đồng Xoài_Tiến Hưng": {
+    "lat": 11.4905169,
+    "lng": 106.8853303,
+    "province": "Bình Phước",
+    "district": "Đồng Xoài",
+    "ward": "Tiến Hưng"
+  },
+  "Bình Phước_Đồng Xoài_Tiến Thành": {
+    "lat": 11.5236119,
+    "lng": 106.8511418,
+    "province": "Bình Phước",
+    "district": "Đồng Xoài",
+    "ward": "Tiến Thành"
+  },
+  "Bình Phước_Đồng Xoài_Tân Thiện": {
+    "lat": 11.5334738,
+    "lng": 106.910491,
+    "province": "Bình Phước",
+    "district": "Đồng Xoài",
+    "ward": "Tân Thiện"
+  },
+  "Bình Thuận_Bắc Bình_Hòa Thắng": {
+    "lat": 21.0733918,
+    "lng": 106.1877429,
+    "province": "Bình Thuận",
+    "district": "Bắc Bình",
+    "ward": "Hòa Thắng"
+  },
+  "Bình Thuận_Hàm Thuận Bắc_Hàm Hiệp": null,
+  "Bình Thuận_Hàm Thuận Bắc_Hàm Liêm": null,
+  "Bình Thuận_Hàm Thuận Bắc_Phú Long": null,
+  "Bình Thuận_La Gi_Bình Tân": null,
+  "Bình Thuận_La Gi_Tân An": {
+    "lat": 10.6824444,
+    "lng": 107.7509102,
+    "province": "Bình Thuận",
+    "district": "La Gi",
+    "ward": "Tân An"
+  },
+  "Bình Thuận_La Gi_Tân Phước": null,
+  "Bình Thuận_La Gi_Tân Tiến": null,
+  "Bình Thuận_Phan Thiết_Bình Hưng": null,
+  "Bình Thuận_Phan Thiết_Hàm Tiến": null,
+  "Bình Thuận_Phan Thiết_Mũi Né": {
+    "lat": 10.9468964,
+    "lng": 108.2686757,
+    "province": "Bình Thuận",
+    "district": "Phan Thiết",
+    "ward": "Mũi Né"
+  },
+  "Bình Thuận_Phan Thiết_Phong Nẫm": null,
+  "Bình Thuận_Phan Thiết_Phú Thủy": null,
+  "Bình Thuận_Phan Thiết_Phú Trinh": {
+    "lat": 10.9351738,
+    "lng": 108.0968911,
+    "province": "Bình Thuận",
+    "district": "Phan Thiết",
+    "ward": "Phú Trinh"
+  },
+  "Bình Thuận_Phan Thiết_Phú Tài": null,
+  "Bình Thuận_Phan Thiết_Tiến Thành": null,
+  "Bình Thuận_Phan Thiết_Xuân An": {
+    "lat": 10.9468743,
+    "lng": 108.098582,
+    "province": "Bình Thuận",
+    "district": "Phan Thiết",
+    "ward": "Xuân An"
+  },
+  "Bình Thuận_Tuy Phong_Hòa Minh": null,
+  "Bình Thuận_Tuy Phong_Phan Rí Cửa": null,
+  "Bình Định_An Nhơn_Nhơn An": {
+    "lat": 13.8851953,
+    "lng": 109.1225786,
+    "province": "Bình Định",
+    "district": "An Nhơn",
+    "ward": "Nhơn An"
+  },
+  "Bình Định_An Nhơn_Nhơn Tân": {
+    "lat": 13.8889891,
+    "lng": 109.0357162,
+    "province": "Bình Định",
+    "district": "An Nhơn",
+    "ward": "Nhơn Tân"
+  },
+  "Bình Định_Phù Cát_Cát Tiến": null,
+  "Bình Định_Quy Nhơn_Bùi Thị Xuân": null,
+  "Bình Định_Quy Nhơn_Hải Cảng": null,
+  "Bình Định_Quy Nhơn_Nguyễn Văn Cừ": null,
+  "Bình Định_Quy Nhơn_Ngô Mây": null,
+  "Bình Định_Quy Nhơn_Nhơn Bình": {
+    "lat": 13.76737,
+    "lng": 109.2207551,
+    "province": "Bình Định",
+    "district": "Quy Nhơn",
+    "ward": "Nhơn Bình"
+  },
+  "Bình Định_Quy Nhơn_Nhơn Phú": {
+    "lat": 13.9522299,
+    "lng": 109.2393698,
+    "province": "Bình Định",
+    "district": "Quy Nhơn",
+    "ward": "Nhơn Phú"
+  },
+  "Bình Định_Quy Nhơn_Quang Trung": null,
+  "Bình Định_Quy Nhơn_Thị Nại": null,
+  "Bình Định_Quy Nhơn_Trần Phú": null,
+  "Bình Định_Quy Nhơn_Trần Quang Diệu": null,
+  "Bình Định_Quy Nhơn_Đống Đa": {
+    "lat": 13.7832436,
+    "lng": 109.2282884,
+    "province": "Bình Định",
+    "district": "Quy Nhơn",
+    "ward": "Đống Đa"
+  },
+  "Bình Định_Tuy Phước_Phước Sơn": null,
+  "Bình Định_Tuy Phước_Phước Thuận": null,
+  "Bạc Liêu_Bạc Liêu_1": {
+    "lat": 9.2908469,
+    "lng": 105.7240824,
+    "province": "Bạc Liêu",
+    "district": "Bạc Liêu",
+    "ward": "1"
+  },
+  "Bắc Giang_Bắc Giang_Dĩnh Trì": {
+    "lat": 21.2843724,
+    "lng": 106.2280347,
+    "province": "Bắc Giang",
+    "district": "Bắc Giang",
+    "ward": "Dĩnh Trì"
+  },
+  "Bắc Giang_Bắc Giang_Ngô Quyền": {
+    "lat": 21.2830697,
+    "lng": 106.1965765,
+    "province": "Bắc Giang",
+    "district": "Bắc Giang",
+    "ward": "Ngô Quyền"
+  },
+  "Bắc Giang_Bắc Giang_Song Mai": null,
+  "Bắc Giang_Bắc Giang_Tân Tiến": null,
+  "Bắc Giang_Bắc Giang_Đồng Sơn": {
+    "lat": 21.1406466,
+    "lng": 106.0164425,
+    "province": "Bắc Giang",
+    "district": "Bắc Giang",
+    "ward": "Đồng Sơn"
+  },
+  "Bắc Giang_Hiệp Hòa_Danh Thắng": null,
+  "Bắc Giang_Hiệp Hòa_Hoàng Vân": null,
+  "Bắc Giang_Hiệp Hòa_Thắng": null,
+  "Bắc Giang_Lạng Giang_Xuân Hương": null,
+  "Bắc Giang_Lục Nam_Bắc Lũng": null,
+  "Bắc Giang_Lục Nam_Chu Điện": null,
+  "Bắc Giang_Tân Yên_Ngọc Thiện": null,
+  "Bắc Giang_Tân Yên_Việt Lập": null,
+  "Bắc Giang_Việt Yên_Bích Động": {
+    "lat": 21.2731163,
+    "lng": 106.097511,
+    "province": "Bắc Giang",
+    "district": "Việt Yên",
+    "ward": "Bích Động"
+  },
+  "Bắc Giang_Việt Yên_Nếnh": null,
+  "Bắc Giang_Việt Yên_Quang Châu": null,
+  "Bắc Kạn_Bắc Kạn_Phùng Chí Kiên": {
+    "lat": 22.1403691,
+    "lng": 105.8299648,
+    "province": "Bắc Kạn",
+    "district": "Bắc Kạn",
+    "ward": "Phùng Chí Kiên"
+  },
+  "Bắc Kạn_Chợ Đồn_Tân Lập": null,
+  "Bắc Ninh_Bắc Ninh_Kinh Bắc": {
+    "lat": 21.2027957,
+    "lng": 106.0934543,
+    "province": "Bắc Ninh",
+    "district": "Bắc Ninh",
+    "ward": "Kinh Bắc"
+  },
+  "Bắc Ninh_Bắc Ninh_Võ Cường": {
+    "lat": 21.1770755,
+    "lng": 106.0683145,
+    "province": "Bắc Ninh",
+    "district": "Bắc Ninh",
+    "ward": "Võ Cường"
+  },
+  "Bắc Ninh_Bắc Ninh_Vạn An": {
+    "lat": 21.1664102,
+    "lng": 105.9294081,
+    "province": "Bắc Ninh",
+    "district": "Bắc Ninh",
+    "ward": "Vạn An"
+  },
+  "Bắc Ninh_Bắc Ninh_Đại Phúc": {
+    "lat": 21.1762548,
+    "lng": 106.0812004,
+    "province": "Bắc Ninh",
+    "district": "Bắc Ninh",
+    "ward": "Đại Phúc"
+  },
+  "Bắc Ninh_Gia Bình_Gia Bình": {
+    "lat": 21.0535217,
+    "lng": 106.1724431,
+    "province": "Bắc Ninh",
+    "district": "Gia Bình",
+    "ward": "Gia Bình"
+  },
+  "Bắc Ninh_Gia Bình_Nhân Thắng": null,
+  "Bắc Ninh_Gia Bình_Quỳnh Phú": {
+    "lat": 21.0286019,
+    "lng": 106.1658689,
+    "province": "Bắc Ninh",
+    "district": "Gia Bình",
+    "ward": "Quỳnh Phú"
+  },
+  "Bắc Ninh_Gia Bình_Thái Bảo": {
+    "lat": 21.0986281,
+    "lng": 106.2336355,
+    "province": "Bắc Ninh",
+    "district": "Gia Bình",
+    "ward": "Thái Bảo"
+  },
+  "Bắc Ninh_Gia Bình_Xuân Lai": {
+    "lat": 21.0736467,
+    "lng": 106.1972695,
+    "province": "Bắc Ninh",
+    "district": "Gia Bình",
+    "ward": "Xuân Lai"
+  },
+  "Bắc Ninh_Lương Tài_Phú Lương": {
+    "lat": 21.000985,
+    "lng": 106.2060468,
+    "province": "Bắc Ninh",
+    "district": "Lương Tài",
+    "ward": "Phú Lương"
+  },
+  "Bắc Ninh_Lương Tài_Quảng Phú": {
+    "lat": 21.0110414,
+    "lng": 106.1635504,
+    "province": "Bắc Ninh",
+    "district": "Lương Tài",
+    "ward": "Quảng Phú"
+  },
+  "Bắc Ninh_Lương Tài_Thứa": {
+    "lat": 21.0163736,
+    "lng": 106.2028694,
+    "province": "Bắc Ninh",
+    "district": "Lương Tài",
+    "ward": "Thứa"
+  },
+  "Bắc Ninh_Quế Võ_Bồng Lai": {
+    "lat": 21.1280628,
+    "lng": 106.1977541,
+    "province": "Bắc Ninh",
+    "district": "Quế Võ",
+    "ward": "Bồng Lai"
+  },
+  "Bắc Ninh_Quế Võ_Cách Bi": {
+    "lat": 21.1332801,
+    "lng": 106.188056,
+    "province": "Bắc Ninh",
+    "district": "Quế Võ",
+    "ward": "Cách Bi"
+  },
+  "Bắc Ninh_Quế Võ_Ngọc Xá": {
+    "lat": 21.132985,
+    "lng": 106.2303849,
+    "province": "Bắc Ninh",
+    "district": "Quế Võ",
+    "ward": "Ngọc Xá"
+  },
+  "Bắc Ninh_Quế Võ_Phù Lãng": {
+    "lat": 21.1582149,
+    "lng": 106.1995065,
+    "province": "Bắc Ninh",
+    "district": "Quế Võ",
+    "ward": "Phù Lãng"
+  },
+  "Bắc Ninh_Quế Võ_Đào Viên": {
+    "lat": 21.1280628,
+    "lng": 106.1977541,
+    "province": "Bắc Ninh",
+    "district": "Quế Võ",
+    "ward": "Đào Viên"
+  },
+  "Bắc Ninh_Quế Võ_Đại Xuân": {
+    "lat": 21.1914446,
+    "lng": 106.1286524,
+    "province": "Bắc Ninh",
+    "district": "Quế Võ",
+    "ward": "Đại Xuân"
+  },
+  "Bắc Ninh_Thuận Thành_An Bình": {
+    "lat": 21.0465078,
+    "lng": 106.11464,
+    "province": "Bắc Ninh",
+    "district": "Thuận Thành",
+    "ward": "An Bình"
+  },
+  "Bắc Ninh_Thuận Thành_Gia Đông": {
+    "lat": 21.0348703,
+    "lng": 106.0843947,
+    "province": "Bắc Ninh",
+    "district": "Thuận Thành",
+    "ward": "Gia Đông"
+  },
+  "Bắc Ninh_Thuận Thành_Hà Mãn": {
+    "lat": 21.0275256,
+    "lng": 106.0324388,
+    "province": "Bắc Ninh",
+    "district": "Thuận Thành",
+    "ward": "Hà Mãn"
+  },
+  "Bắc Ninh_Thuận Thành_Hồ": {
+    "lat": 21.0389129,
+    "lng": 106.0945755,
+    "province": "Bắc Ninh",
+    "district": "Thuận Thành",
+    "ward": "Hồ"
+  },
+  "Bắc Ninh_Thuận Thành_Nghĩa Đạo": {
+    "lat": 21.0090203,
+    "lng": 106.1174603,
+    "province": "Bắc Ninh",
+    "district": "Thuận Thành",
+    "ward": "Nghĩa Đạo"
+  },
+  "Bắc Ninh_Thuận Thành_Song Liễu": {
+    "lat": 21.0028653,
+    "lng": 106.0188336,
+    "province": "Bắc Ninh",
+    "district": "Thuận Thành",
+    "ward": "Song Liễu"
+  },
+  "Bắc Ninh_Thuận Thành_Thanh Khương": {
+    "lat": 21.0372091,
+    "lng": 106.0503306,
+    "province": "Bắc Ninh",
+    "district": "Thuận Thành",
+    "ward": "Thanh Khương"
+  },
+  "Bắc Ninh_Thuận Thành_Trí Quả": {
+    "lat": 21.0458261,
+    "lng": 106.0320439,
+    "province": "Bắc Ninh",
+    "district": "Thuận Thành",
+    "ward": "Trí Quả"
+  },
+  "Bắc Ninh_Thuận Thành_Trạm Lộ": {
+    "lat": 21.0258476,
+    "lng": 106.1029265,
+    "province": "Bắc Ninh",
+    "district": "Thuận Thành",
+    "ward": "Trạm Lộ"
+  },
+  "Bắc Ninh_Thuận Thành_Xuân Lâm": {
+    "lat": 21.0233363,
+    "lng": 106.0195237,
+    "province": "Bắc Ninh",
+    "district": "Thuận Thành",
+    "ward": "Xuân Lâm"
+  },
+  "Bắc Ninh_Thuận Thành_Đình Tổ": {
+    "lat": 21.0558841,
+    "lng": 106.0299698,
+    "province": "Bắc Ninh",
+    "district": "Thuận Thành",
+    "ward": "Đình Tổ"
+  },
+  "Bắc Ninh_Tiên Du_Hoàn Sơn": {
+    "lat": 21.1092832,
+    "lng": 105.9965251,
+    "province": "Bắc Ninh",
+    "district": "Tiên Du",
+    "ward": "Hoàn Sơn"
+  },
+  "Bắc Ninh_Tiên Du_Phật Tích": {
+    "lat": 21.0936546,
+    "lng": 106.0262578,
+    "province": "Bắc Ninh",
+    "district": "Tiên Du",
+    "ward": "Phật Tích"
+  },
+  "Bắc Ninh_Tiên Du_Tri Phương": {
+    "lat": 21.0835035,
+    "lng": 106.0068031,
+    "province": "Bắc Ninh",
+    "district": "Tiên Du",
+    "ward": "Tri Phương"
+  },
+  "Bắc Ninh_Tiên Du_Việt Đoàn": {
+    "lat": 21.109186,
+    "lng": 106.0374609,
+    "province": "Bắc Ninh",
+    "district": "Tiên Du",
+    "ward": "Việt Đoàn"
+  },
+  "Bắc Ninh_Tiên Du_Đại Đồng": {
+    "lat": 21.123363,
+    "lng": 105.9989135,
+    "province": "Bắc Ninh",
+    "district": "Tiên Du",
+    "ward": "Đại Đồng"
+  },
+  "Bắc Ninh_Từ Sơn_Hương Mạc": {
+    "lat": 21.1529062,
+    "lng": 105.9292323,
+    "province": "Bắc Ninh",
+    "district": "Từ Sơn",
+    "ward": "Hương Mạc"
+  },
+  "Bắc Ninh_Từ Sơn_Phù Chẩn": {
+    "lat": 21.093284,
+    "lng": 105.9673971,
+    "province": "Bắc Ninh",
+    "district": "Từ Sơn",
+    "ward": "Phù Chẩn"
+  },
+  "Bắc Ninh_Từ Sơn_Phù Khê": {
+    "lat": 21.1144714,
+    "lng": 105.9291967,
+    "province": "Bắc Ninh",
+    "district": "Từ Sơn",
+    "ward": "Phù Khê"
+  },
+  "Bắc Ninh_Từ Sơn_Trang Hạ": {
+    "lat": 21.0275256,
+    "lng": 106.0324388,
+    "province": "Bắc Ninh",
+    "district": "Từ Sơn",
+    "ward": "Trang Hạ"
+  },
+  "Bắc Ninh_Từ Sơn_Tân Hồng": {
+    "lat": 21.1137746,
+    "lng": 105.9661038,
+    "province": "Bắc Ninh",
+    "district": "Từ Sơn",
+    "ward": "Tân Hồng"
+  },
+  "Bắc Ninh_Từ Sơn_Đình Bảng": {
+    "lat": 21.1164418,
+    "lng": 105.9561594,
+    "province": "Bắc Ninh",
+    "district": "Từ Sơn",
+    "ward": "Đình Bảng"
+  },
+  "Bắc Ninh_Từ Sơn_Đồng Kỵ": {
+    "lat": 21.1294131,
+    "lng": 105.952698,
+    "province": "Bắc Ninh",
+    "district": "Từ Sơn",
+    "ward": "Đồng Kỵ"
+  },
+  "Bắc Ninh_Từ Sơn_Đồng Nguyên": {
+    "lat": 21.1252505,
+    "lng": 105.9736525,
+    "province": "Bắc Ninh",
+    "district": "Từ Sơn",
+    "ward": "Đồng Nguyên"
+  },
+  "Bắc Ninh_Yên Phong_Dũng Liệt": {
+    "lat": 21.2512416,
+    "lng": 106.0003025,
+    "province": "Bắc Ninh",
+    "district": "Yên Phong",
+    "ward": "Dũng Liệt"
+  },
+  "Bắc Ninh_Yên Phong_Long Châu": {
+    "lat": 21.1910882,
+    "lng": 105.9851871,
+    "province": "Bắc Ninh",
+    "district": "Yên Phong",
+    "ward": "Long Châu"
+  },
+  "Bắc Ninh_Yên Phong_Thụy Hòa": {
+    "lat": 21.2110246,
+    "lng": 106.0179764,
+    "province": "Bắc Ninh",
+    "district": "Yên Phong",
+    "ward": "Thụy Hòa"
+  },
+  "Bắc Ninh_Yên Phong_Văn Môn": {
+    "lat": 21.1664102,
+    "lng": 105.9294081,
+    "province": "Bắc Ninh",
+    "district": "Yên Phong",
+    "ward": "Văn Môn"
+  },
+  "Bắc Ninh_Yên Phong_Yên Trung": {
+    "lat": 21.2036684,
+    "lng": 105.987885,
+    "province": "Bắc Ninh",
+    "district": "Yên Phong",
+    "ward": "Yên Trung"
+  },
+  "Bắc Ninh_Yên Phong_Đông Tiến": {
+    "lat": 21.2203904,
+    "lng": 105.970983,
+    "province": "Bắc Ninh",
+    "district": "Yên Phong",
+    "ward": "Đông Tiến"
+  },
+  "Bến Tre_Bình Đại_Bình Đại": {
+    "lat": 10.2005701,
+    "lng": 106.7081258,
+    "province": "Bến Tre",
+    "district": "Bình Đại",
+    "ward": "Bình Đại"
+  },
+  "Bến Tre_Bến Tre_7": {
+    "lat": 10.2285427,
+    "lng": 106.3559049,
+    "province": "Bến Tre",
+    "district": "Bến Tre",
+    "ward": "7"
+  },
+  "Bến Tre_Bến Tre_8": {
+    "lat": 10.2236345,
+    "lng": 106.367,
+    "province": "Bến Tre",
+    "district": "Bến Tre",
+    "ward": "8"
+  },
+  "Bến Tre_Bến Tre_An Hội": {
+    "lat": 10.2362178,
+    "lng": 106.3764641,
+    "province": "Bến Tre",
+    "district": "Bến Tre",
+    "ward": "An Hội"
+  },
+  "Bến Tre_Bến Tre_Bình Phú": {
+    "lat": 10.2387842,
+    "lng": 106.3531555,
+    "province": "Bến Tre",
+    "district": "Bến Tre",
+    "ward": "Bình Phú"
+  },
+  "Bến Tre_Bến Tre_Mỹ Thạnh An": {
+    "lat": 10.2221136,
+    "lng": 106.3721647,
+    "province": "Bến Tre",
+    "district": "Bến Tre",
+    "ward": "Mỹ Thạnh An"
+  },
+  "Bến Tre_Bến Tre_Phú Hưng": {
+    "lat": 10.2343514,
+    "lng": 106.3710194,
+    "province": "Bến Tre",
+    "district": "Bến Tre",
+    "ward": "Phú Hưng"
+  },
+  "Bến Tre_Bến Tre_Phú Khương": {
+    "lat": 10.3064489,
+    "lng": 106.2570936,
+    "province": "Bến Tre",
+    "district": "Bến Tre",
+    "ward": "Phú Khương"
+  },
+  "Bến Tre_Bến Tre_Phú Nhuận": {
+    "lat": 10.203625,
+    "lng": 106.3800127,
+    "province": "Bến Tre",
+    "district": "Bến Tre",
+    "ward": "Phú Nhuận"
+  },
+  "Bến Tre_Bến Tre_Phú Tân": {
+    "lat": 10.288643,
+    "lng": 106.1665318,
+    "province": "Bến Tre",
+    "district": "Bến Tre",
+    "ward": "Phú Tân"
+  },
+  "Bến Tre_Bến Tre_Sơn Đông": null,
+  "Bến Tre_Châu Thành_Giao Long": null,
+  "Bến Tre_Châu Thành_Hữu Định": {
+    "lat": 10.25921,
+    "lng": 106.4254573,
+    "province": "Bến Tre",
+    "district": "Châu Thành",
+    "ward": "Hữu Định"
+  },
+  "Bến Tre_Châu Thành_Phú Túc": {
+    "lat": 10.3064489,
+    "lng": 106.2570936,
+    "province": "Bến Tre",
+    "district": "Châu Thành",
+    "ward": "Phú Túc"
+  },
+  "Bến Tre_Châu Thành_Tam Phước": null,
+  "Bến Tre_Mỏ Cày Nam_Hương Mỹ": null,
+  "Bến Tre_Mỏ Cày Nam_Mỏ Cày": {
+    "lat": 10.1314339,
+    "lng": 106.3306674,
+    "province": "Bến Tre",
+    "district": "Mỏ Cày Nam",
+    "ward": "Mỏ Cày"
+  },
+  "Bến Tre_Mỏ Cày Nam_Đa Phước Hội": null,
+  "Bến Tre_Thạnh Phú_Thạnh Phú": {
+    "lat": 9.8544367,
+    "lng": 106.6337843,
+    "province": "Bến Tre",
+    "district": "Thạnh Phú",
+    "ward": "Thạnh Phú"
+  },
+  "Cao Bằng_Cao Bằng_Sông Bằng": {
+    "lat": 22.6547068,
+    "lng": 106.2678598,
+    "province": "Cao Bằng",
+    "district": "Cao Bằng",
+    "ward": "Sông Bằng"
+  },
+  "Cao Bằng_Cao Bằng_Sông Hiến": {
+    "lat": 22.6265036,
+    "lng": 106.2157269,
+    "province": "Cao Bằng",
+    "district": "Cao Bằng",
+    "ward": "Sông Hiến"
+  },
+  "Cà Mau_Cà Mau_1": {
+    "lat": 9.1762003,
+    "lng": 105.1508415,
+    "province": "Cà Mau",
+    "district": "Cà Mau",
+    "ward": "1"
+  },
+  "Cà Mau_Cà Mau_8": {
+    "lat": 9.1762003,
+    "lng": 105.1508415,
+    "province": "Cà Mau",
+    "district": "Cà Mau",
+    "ward": "8"
+  },
+  "Cà Mau_Cà Mau_9": {
+    "lat": 9.1762003,
+    "lng": 105.1508415,
+    "province": "Cà Mau",
+    "district": "Cà Mau",
+    "ward": "9"
+  },
+  "Cà Mau_Cà Mau_Tân Xuyên": {
+    "lat": 9.1856342,
+    "lng": 105.1497898,
+    "province": "Cà Mau",
+    "district": "Cà Mau",
+    "ward": "Tân Xuyên"
+  },
+  "Cần Thơ_Bình Thủy_Bình Thủy": {
+    "lat": 10.0749958,
+    "lng": 105.7498401,
+    "province": "Cần Thơ",
+    "district": "Bình Thủy",
+    "ward": "Bình Thủy"
+  },
+  "Cần Thơ_Bình Thủy_Long Hòa": {
+    "lat": 10.0592084,
+    "lng": 105.7592386,
+    "province": "Cần Thơ",
+    "district": "Bình Thủy",
+    "ward": "Long Hòa"
+  },
+  "Cần Thơ_Bình Thủy_Long Tuyền": {
+    "lat": 10.0247709,
+    "lng": 105.719617,
+    "province": "Cần Thơ",
+    "district": "Bình Thủy",
+    "ward": "Long Tuyền"
+  },
+  "Cần Thơ_Cái Răng_Ba Láng": {
+    "lat": 9.9607013,
+    "lng": 105.7258057,
+    "province": "Cần Thơ",
+    "district": "Cái Răng",
+    "ward": "Ba Láng"
+  },
+  "Cần Thơ_Cái Răng_Hưng Phú": {
+    "lat": 10.0336824,
+    "lng": 105.7916746,
+    "province": "Cần Thơ",
+    "district": "Cái Răng",
+    "ward": "Hưng Phú"
+  },
+  "Cần Thơ_Cái Răng_Hưng Thạnh": {
+    "lat": 10.0047474,
+    "lng": 105.7502592,
+    "province": "Cần Thơ",
+    "district": "Cái Răng",
+    "ward": "Hưng Thạnh"
+  },
+  "Cần Thơ_Cái Răng_Lê Bình": {
+    "lat": 9.9990419,
+    "lng": 105.7519114,
+    "province": "Cần Thơ",
+    "district": "Cái Răng",
+    "ward": "Lê Bình"
+  },
+  "Cần Thơ_Cái Răng_Phú Thứ": {
+    "lat": 9.9728185,
+    "lng": 105.7404472,
+    "province": "Cần Thơ",
+    "district": "Cái Răng",
+    "ward": "Phú Thứ"
+  },
+  "Cần Thơ_Cái Răng_Thường Thạnh": {
+    "lat": 9.9705219,
+    "lng": 105.7553965,
+    "province": "Cần Thơ",
+    "district": "Cái Răng",
+    "ward": "Thường Thạnh"
+  },
+  "Cần Thơ_Cái Răng_Tân Phú": {
+    "lat": 9.980185,
+    "lng": 105.7447056,
+    "province": "Cần Thơ",
+    "district": "Cái Răng",
+    "ward": "Tân Phú"
+  },
+  "Cần Thơ_Ninh Kiều_An Bình": {
+    "lat": 10.0077006,
+    "lng": 105.7491821,
+    "province": "Cần Thơ",
+    "district": "Ninh Kiều",
+    "ward": "An Bình"
+  },
+  "Cần Thơ_Ninh Kiều_An Hòa": {
+    "lat": 10.0479661,
+    "lng": 105.7687202,
+    "province": "Cần Thơ",
+    "district": "Ninh Kiều",
+    "ward": "An Hòa"
+  },
+  "Cần Thơ_Ninh Kiều_An Khánh": {
+    "lat": 10.0369506,
+    "lng": 105.7600009,
+    "province": "Cần Thơ",
+    "district": "Ninh Kiều",
+    "ward": "An Khánh"
+  },
+  "Cần Thơ_Ninh Kiều_Cái Khế": {
+    "lat": 10.0414192,
+    "lng": 105.7813732,
+    "province": "Cần Thơ",
+    "district": "Ninh Kiều",
+    "ward": "Cái Khế"
+  },
+  "Cần Thơ_Ninh Kiều_Hưng Lợi": {
+    "lat": 10.0210749,
+    "lng": 105.7699058,
+    "province": "Cần Thơ",
+    "district": "Ninh Kiều",
+    "ward": "Hưng Lợi"
+  },
+  "Cần Thơ_Ninh Kiều_Thới Bình": {
+    "lat": 10.0476777,
+    "lng": 105.7781991,
+    "province": "Cần Thơ",
+    "district": "Ninh Kiều",
+    "ward": "Thới Bình"
+  },
+  "Cần Thơ_Ninh Kiều_Tân An": {
+    "lat": 10.0321516,
+    "lng": 105.7850196,
+    "province": "Cần Thơ",
+    "district": "Ninh Kiều",
+    "ward": "Tân An"
+  },
+  "Cần Thơ_Ninh Kiều_Xuân Khánh": {
+    "lat": 10.02597,
+    "lng": 105.7689562,
+    "province": "Cần Thơ",
+    "district": "Ninh Kiều",
+    "ward": "Xuân Khánh"
+  },
+  "Cần Thơ_Phong Điền_Nhơn Ái": {
+    "lat": 9.9963469,
+    "lng": 105.6706645,
+    "province": "Cần Thơ",
+    "district": "Phong Điền",
+    "ward": "Nhơn Ái"
+  },
+  "Cần Thơ_Thới Lai_Thới Lai": {
+    "lat": 10.0732433,
+    "lng": 105.563016,
+    "province": "Cần Thơ",
+    "district": "Thới Lai",
+    "ward": "Thới Lai"
+  },
+  "Cần Thơ_Ô Môn_Châu Văn Liêm": {
+    "lat": 10.109294,
+    "lng": 105.61924,
+    "province": "Cần Thơ",
+    "district": "Ô Môn",
+    "ward": "Châu Văn Liêm"
+  },
+  "Gia Lai_Mang Yang_Ayun": null,
+  "Gia Lai_Pleiku_Diên Hồng": {
+    "lat": 13.97251,
+    "lng": 107.9961527,
+    "province": "Gia Lai",
+    "district": "Pleiku",
+    "ward": "Diên Hồng"
+  },
+  "Gia Lai_Pleiku_Thống Nhất": {
+    "lat": 14.0298231,
+    "lng": 107.9888227,
+    "province": "Gia Lai",
+    "district": "Pleiku",
+    "ward": "Thống Nhất"
+  },
+  "Gia Lai_Pleiku_Yên Đỗ": {
+    "lat": 13.9810052,
+    "lng": 107.9906398,
+    "province": "Gia Lai",
+    "district": "Pleiku",
+    "ward": "Yên Đỗ"
+  },
+  "Huế_Hương Thủy_Phú Bài": {
+    "lat": 16.409296,
+    "lng": 107.6779818,
+    "province": "Huế",
+    "district": "Hương Thủy",
+    "ward": "Phú Bài"
+  },
+  "Huế_Hương Thủy_Thủy Châu": {
+    "lat": 16.423107,
+    "lng": 107.6686059,
+    "province": "Huế",
+    "district": "Hương Thủy",
+    "ward": "Thủy Châu"
+  },
+  "Huế_Hương Thủy_Thủy Dương": {
+    "lat": 16.4419752,
+    "lng": 107.6183917,
+    "province": "Huế",
+    "district": "Hương Thủy",
+    "ward": "Thủy Dương"
+  },
+  "Huế_Hương Thủy_Thủy Phương": {
+    "lat": 16.4308196,
+    "lng": 107.635723,
+    "province": "Huế",
+    "district": "Hương Thủy",
+    "ward": "Thủy Phương"
+  },
+  "Huế_Hương Trà_Hương Toàn": {
+    "lat": 16.5100377,
+    "lng": 107.5483658,
+    "province": "Huế",
+    "district": "Hương Trà",
+    "ward": "Hương Toàn"
+  },
+  "Huế_Phú Lộc_Lăng Cô": {
+    "lat": 16.3380494,
+    "lng": 107.9537173,
+    "province": "Huế",
+    "district": "Phú Lộc",
+    "ward": "Lăng Cô"
+  },
+  "Huế_Phú Vang_Phú Hồ": {
+    "lat": 16.44495,
+    "lng": 107.7084958,
+    "province": "Huế",
+    "district": "Phú Vang",
+    "ward": "Phú Hồ"
+  },
+  "Huế_Phú Vang_Phú Mỹ": null,
+  "Hà Giang_Hà Giang_Minh Khai": {
+    "lat": 22.8188521,
+    "lng": 104.9851929,
+    "province": "Hà Giang",
+    "district": "Hà Giang",
+    "ward": "Minh Khai"
+  },
+  "Hà Giang_Hà Giang_Nguyễn Trãi": {
+    "lat": 22.8037365,
+    "lng": 104.9782849,
+    "province": "Hà Giang",
+    "district": "Hà Giang",
+    "ward": "Nguyễn Trãi"
+  },
+  "Hà Nam_Bình Lục_An Đổ": null,
+  "Hà Nam_Bình Lục_Bình Mỹ": null,
+  "Hà Nam_Duy Tiên_Bạch Thượng": null,
+  "Hà Nam_Duy Tiên_Châu Giang": null,
+  "Hà Nam_Duy Tiên_Duy Hải": null,
+  "Hà Nam_Duy Tiên_Hoàng Đông": null,
+  "Hà Nam_Duy Tiên_Hòa Mạc": null,
+  "Hà Nam_Duy Tiên_Yên Bắc": null,
+  "Hà Nam_Duy Tiên_Đồng Văn": {
+    "lat": 20.6390143,
+    "lng": 105.9188582,
+    "province": "Hà Nam",
+    "district": "Duy Tiên",
+    "ward": "Đồng Văn"
+  },
+  "Hà Nam_Kim Bảng_Ba Sao": null,
+  "Hà Nam_Kim Bảng_Khả Phong": null,
+  "Hà Nam_Kim Bảng_Thanh Sơn": null,
+  "Hà Nam_Phủ Lý_Châu Sơn": null,
+  "Hà Nam_Phủ Lý_Lam Hạ": null,
+  "Hà Nam_Phủ Lý_Liêm Chính": {
+    "lat": 20.5436698,
+    "lng": 105.9313457,
+    "province": "Hà Nam",
+    "district": "Phủ Lý",
+    "ward": "Liêm Chính"
+  },
+  "Hà Nam_Phủ Lý_Lê Hồng Phong": null,
+  "Hà Nam_Phủ Lý_Thanh Châu": null,
+  "Hà Nam_Phủ Lý_Đinh Xá": null,
+  "Hà Nam_Thanh Liêm_Thanh Phong": {
+    "lat": 21.0276786,
+    "lng": 105.7775358,
+    "province": "Hà Nam",
+    "district": "Thanh Liêm",
+    "ward": "Thanh Phong"
+  },
+  "Hà Nội_Ba Vì_Cẩm Lĩnh": null,
+  "Hà Nội_Ba Vì_Phú Sơn": null,
+  "Hà Nội_Ba Vì_Sơn Đà": {
+    "lat": 21.1803003,
+    "lng": 105.3028056,
+    "province": "Hà Nội",
+    "district": "Ba Vì",
+    "ward": "Sơn Đà"
+  },
+  "Hà Nội_Ba Vì_Thuần Mỹ": null,
+  "Hà Nội_Ba Vì_Thụy An": null,
+  "Hà Nội_Ba Vì_Tản Lĩnh": null,
+  "Hà Nội_Ba Vì_Vân Hòa": {
+    "lat": 21.0816473,
+    "lng": 105.3294075,
+    "province": "Hà Nội",
+    "district": "Ba Vì",
+    "ward": "Vân Hòa"
+  },
+  "Hà Nội_Ba Vì_Yên Bài": {
+    "lat": 21.0399189,
+    "lng": 105.4340824,
+    "province": "Hà Nội",
+    "district": "Ba Vì",
+    "ward": "Yên Bài"
+  },
+  "Hà Nội_Ba Đình_Cống Vị": {
+    "lat": 21.03822,
+    "lng": 105.8072265,
+    "province": "Hà Nội",
+    "district": "Ba Đình",
+    "ward": "Cống Vị"
+  },
+  "Hà Nội_Ba Đình_Giảng Võ": {
+    "lat": 21.0317124,
+    "lng": 105.8272809,
+    "province": "Hà Nội",
+    "district": "Ba Đình",
+    "ward": "Giảng Võ"
+  },
+  "Hà Nội_Ba Đình_Kim Mã": {
+    "lat": 21.0306498,
+    "lng": 105.8250933,
+    "province": "Hà Nội",
+    "district": "Ba Đình",
+    "ward": "Kim Mã"
+  },
+  "Hà Nội_Ba Đình_Liễu Giai": {
+    "lat": 21.0414598,
+    "lng": 105.8143823,
+    "province": "Hà Nội",
+    "district": "Ba Đình",
+    "ward": "Liễu Giai"
+  },
+  "Hà Nội_Ba Đình_Ngọc Hà": {
+    "lat": 21.0314813,
+    "lng": 105.8161912,
+    "province": "Hà Nội",
+    "district": "Ba Đình",
+    "ward": "Ngọc Hà"
+  },
+  "Hà Nội_Ba Đình_Ngọc Khánh": {
+    "lat": 21.0314813,
+    "lng": 105.8161912,
+    "province": "Hà Nội",
+    "district": "Ba Đình",
+    "ward": "Ngọc Khánh"
+  },
+  "Hà Nội_Ba Đình_Phúc Xá": {
+    "lat": 21.1485004,
+    "lng": 105.57621,
+    "province": "Hà Nội",
+    "district": "Ba Đình",
+    "ward": "Phúc Xá"
+  },
+  "Hà Nội_Ba Đình_Quán Thánh": {
+    "lat": 21.0430059,
+    "lng": 105.8365874,
+    "province": "Hà Nội",
+    "district": "Ba Đình",
+    "ward": "Quán Thánh"
+  },
+  "Hà Nội_Ba Đình_Thành Công": {
+    "lat": 21.0225798,
+    "lng": 105.8188115,
+    "province": "Hà Nội",
+    "district": "Ba Đình",
+    "ward": "Thành Công"
+  },
+  "Hà Nội_Ba Đình_Trúc Bạch": {
+    "lat": 21.0463247,
+    "lng": 105.8384008,
+    "province": "Hà Nội",
+    "district": "Ba Đình",
+    "ward": "Trúc Bạch"
+  },
+  "Hà Nội_Ba Đình_Vĩnh Phúc": null,
+  "Hà Nội_Ba Đình_Điện Biên": {
+    "lat": 21.0336892,
+    "lng": 105.8380151,
+    "province": "Hà Nội",
+    "district": "Ba Đình",
+    "ward": "Điện Biên"
+  },
+  "Hà Nội_Ba Đình_Đội Cấn": {
+    "lat": 21.0354567,
+    "lng": 105.8279998,
+    "province": "Hà Nội",
+    "district": "Ba Đình",
+    "ward": "Đội Cấn"
+  },
+  "Hà Nội_Bắc Từ Liêm_Cổ Nhuế 1": {
+    "lat": 21.0729479,
+    "lng": 105.7728216,
+    "province": "Hà Nội",
+    "district": "Bắc Từ Liêm",
+    "ward": "Cổ Nhuế 1"
+  },
+  "Hà Nội_Bắc Từ Liêm_Cổ Nhuế 2": {
+    "lat": 21.04541,
+    "lng": 105.7860934,
+    "province": "Hà Nội",
+    "district": "Bắc Từ Liêm",
+    "ward": "Cổ Nhuế 2"
+  },
+  "Hà Nội_Bắc Từ Liêm_Liên Mạc": null,
+  "Hà Nội_Bắc Từ Liêm_Minh Khai": null,
+  "Hà Nội_Bắc Từ Liêm_Phú Diễn": {
+    "lat": 21.0525958,
+    "lng": 105.7803871,
+    "province": "Hà Nội",
+    "district": "Bắc Từ Liêm",
+    "ward": "Phú Diễn"
+  },
+  "Hà Nội_Bắc Từ Liêm_Phúc Diễn": {
+    "lat": 21.0521614,
+    "lng": 105.754968,
+    "province": "Hà Nội",
+    "district": "Bắc Từ Liêm",
+    "ward": "Phúc Diễn"
+  },
+  "Hà Nội_Bắc Từ Liêm_Thượng Cát": {
+    "lat": 21.0903607,
+    "lng": 105.7344704,
+    "province": "Hà Nội",
+    "district": "Bắc Từ Liêm",
+    "ward": "Thượng Cát"
+  },
+  "Hà Nội_Bắc Từ Liêm_Thụy Phương": {
+    "lat": 21.0783913,
+    "lng": 105.7756453,
+    "province": "Hà Nội",
+    "district": "Bắc Từ Liêm",
+    "ward": "Thụy Phương"
+  },
+  "Hà Nội_Bắc Từ Liêm_Tây Tựu": {
+    "lat": 21.0699453,
+    "lng": 105.7293247,
+    "province": "Hà Nội",
+    "district": "Bắc Từ Liêm",
+    "ward": "Tây Tựu"
+  },
+  "Hà Nội_Bắc Từ Liêm_Xuân Tảo": null,
+  "Hà Nội_Bắc Từ Liêm_Xuân Đỉnh": {
+    "lat": 21.0687481,
+    "lng": 105.786552,
+    "province": "Hà Nội",
+    "district": "Bắc Từ Liêm",
+    "ward": "Xuân Đỉnh"
+  },
+  "Hà Nội_Bắc Từ Liêm_Đông Ngạc": {
+    "lat": 21.0525958,
+    "lng": 105.7803871,
+    "province": "Hà Nội",
+    "district": "Bắc Từ Liêm",
+    "ward": "Đông Ngạc"
+  },
+  "Hà Nội_Bắc Từ Liêm_Đức Thắng": {
+    "lat": 21.0799477,
+    "lng": 105.7736253,
+    "province": "Hà Nội",
+    "district": "Bắc Từ Liêm",
+    "ward": "Đức Thắng"
+  },
+  "Hà Nội_Chương Mỹ_Chúc Sơn": {
+    "lat": 20.9244627,
+    "lng": 105.7067148,
+    "province": "Hà Nội",
+    "district": "Chương Mỹ",
+    "ward": "Chúc Sơn"
+  },
+  "Hà Nội_Chương Mỹ_Hoàng Diệu": null,
+  "Hà Nội_Chương Mỹ_Hoàng Văn Thụ": null,
+  "Hà Nội_Chương Mỹ_Hồng Phú": {
+    "lat": 20.8435243,
+    "lng": 105.6959926,
+    "province": "Hà Nội",
+    "district": "Chương Mỹ",
+    "ward": "Hồng Phú"
+  },
+  "Hà Nội_Chương Mỹ_Hợp Đồng": {
+    "lat": 20.8795993,
+    "lng": 105.6990536,
+    "province": "Hà Nội",
+    "district": "Chương Mỹ",
+    "ward": "Hợp Đồng"
+  },
+  "Hà Nội_Chương Mỹ_Hữu Văn": null,
+  "Hà Nội_Chương Mỹ_Lam Điền": {
+    "lat": 20.8950021,
+    "lng": 105.7188123,
+    "province": "Hà Nội",
+    "district": "Chương Mỹ",
+    "ward": "Lam Điền"
+  },
+  "Hà Nội_Chương Mỹ_Mỹ Lương": {
+    "lat": 20.843623,
+    "lng": 105.6242734,
+    "province": "Hà Nội",
+    "district": "Chương Mỹ",
+    "ward": "Mỹ Lương"
+  },
+  "Hà Nội_Chương Mỹ_Nam Phương Tiến": null,
+  "Hà Nội_Chương Mỹ_Ngọc Hòa": {
+    "lat": 20.9208834,
+    "lng": 105.6932531,
+    "province": "Hà Nội",
+    "district": "Chương Mỹ",
+    "ward": "Ngọc Hòa"
+  },
+  "Hà Nội_Chương Mỹ_Phú Nghĩa": {
+    "lat": 20.9287302,
+    "lng": 105.6733522,
+    "province": "Hà Nội",
+    "district": "Chương Mỹ",
+    "ward": "Phú Nghĩa"
+  },
+  "Hà Nội_Chương Mỹ_Phụng Châu": {
+    "lat": 20.9478189,
+    "lng": 105.7070544,
+    "province": "Hà Nội",
+    "district": "Chương Mỹ",
+    "ward": "Phụng Châu"
+  },
+  "Hà Nội_Chương Mỹ_Quảng Bị": {
+    "lat": 20.8647708,
+    "lng": 105.69901,
+    "province": "Hà Nội",
+    "district": "Chương Mỹ",
+    "ward": "Quảng Bị"
+  },
+  "Hà Nội_Chương Mỹ_Thanh Bình": {
+    "lat": 20.9071492,
+    "lng": 105.6242847,
+    "province": "Hà Nội",
+    "district": "Chương Mỹ",
+    "ward": "Thanh Bình"
+  },
+  "Hà Nội_Chương Mỹ_Thụy Hương": {
+    "lat": 20.9038868,
+    "lng": 105.7153002,
+    "province": "Hà Nội",
+    "district": "Chương Mỹ",
+    "ward": "Thụy Hương"
+  },
+  "Hà Nội_Chương Mỹ_Thủy Xuân Tiên": {
+    "lat": 20.9058074,
+    "lng": 105.6028591,
+    "province": "Hà Nội",
+    "district": "Chương Mỹ",
+    "ward": "Thủy Xuân Tiên"
+  },
+  "Hà Nội_Chương Mỹ_Tiên Phương": {
+    "lat": 20.9424758,
+    "lng": 105.6844693,
+    "province": "Hà Nội",
+    "district": "Chương Mỹ",
+    "ward": "Tiên Phương"
+  },
+  "Hà Nội_Chương Mỹ_Trung Hòa": {
+    "lat": 20.9015567,
+    "lng": 105.6984929,
+    "province": "Hà Nội",
+    "district": "Chương Mỹ",
+    "ward": "Trung Hòa"
+  },
+  "Hà Nội_Chương Mỹ_Trần Phú": null,
+  "Hà Nội_Chương Mỹ_Tân Tiến": null,
+  "Hà Nội_Chương Mỹ_Xuân Mai": {
+    "lat": 20.9103383,
+    "lng": 105.5750406,
+    "province": "Hà Nội",
+    "district": "Chương Mỹ",
+    "ward": "Xuân Mai"
+  },
+  "Hà Nội_Chương Mỹ_Đông Phương Yên": {
+    "lat": 20.9182485,
+    "lng": 105.6425251,
+    "province": "Hà Nội",
+    "district": "Chương Mỹ",
+    "ward": "Đông Phương Yên"
+  },
+  "Hà Nội_Chương Mỹ_Đông Sơn": {
+    "lat": 20.9261747,
+    "lng": 105.6224643,
+    "province": "Hà Nội",
+    "district": "Chương Mỹ",
+    "ward": "Đông Sơn"
+  },
+  "Hà Nội_Cầu Giấy_Dịch Vọng": {
+    "lat": 21.0351479,
+    "lng": 105.7902254,
+    "province": "Hà Nội",
+    "district": "Cầu Giấy",
+    "ward": "Dịch Vọng"
+  },
+  "Hà Nội_Cầu Giấy_Dịch Vọng Hậu": {
+    "lat": 21.0339431,
+    "lng": 105.7863353,
+    "province": "Hà Nội",
+    "district": "Cầu Giấy",
+    "ward": "Dịch Vọng Hậu"
+  },
+  "Hà Nội_Cầu Giấy_Mai Dịch": {
+    "lat": 21.0316126,
+    "lng": 105.7798035,
+    "province": "Hà Nội",
+    "district": "Cầu Giấy",
+    "ward": "Mai Dịch"
+  },
+  "Hà Nội_Cầu Giấy_Nghĩa Tân": {
+    "lat": 21.0455417,
+    "lng": 105.7919938,
+    "province": "Hà Nội",
+    "district": "Cầu Giấy",
+    "ward": "Nghĩa Tân"
+  },
+  "Hà Nội_Cầu Giấy_Nghĩa Đô": {
+    "lat": 21.0477865,
+    "lng": 105.8009131,
+    "province": "Hà Nội",
+    "district": "Cầu Giấy",
+    "ward": "Nghĩa Đô"
+  },
+  "Hà Nội_Cầu Giấy_Quan Hoa": {
+    "lat": 21.0400774,
+    "lng": 105.7988403,
+    "province": "Hà Nội",
+    "district": "Cầu Giấy",
+    "ward": "Quan Hoa"
+  },
+  "Hà Nội_Cầu Giấy_Trung Hòa": {
+    "lat": 21.0066054,
+    "lng": 105.7953667,
+    "province": "Hà Nội",
+    "district": "Cầu Giấy",
+    "ward": "Trung Hòa"
+  },
+  "Hà Nội_Cầu Giấy_Yên Hòa": {
+    "lat": 21.0300087,
+    "lng": 105.7980215,
+    "province": "Hà Nội",
+    "district": "Cầu Giấy",
+    "ward": "Yên Hòa"
+  },
+  "Hà Nội_Gia Lâm_Bát Tràng": {
+    "lat": 20.9900848,
+    "lng": 105.9130156,
+    "province": "Hà Nội",
+    "district": "Gia Lâm",
+    "ward": "Bát Tràng"
+  },
+  "Hà Nội_Gia Lâm_Cổ Bi": {
+    "lat": 21.0309348,
+    "lng": 105.9414796,
+    "province": "Hà Nội",
+    "district": "Gia Lâm",
+    "ward": "Cổ Bi"
+  },
+  "Hà Nội_Gia Lâm_Dương Xá": {
+    "lat": 21.0074294,
+    "lng": 105.9677275,
+    "province": "Hà Nội",
+    "district": "Gia Lâm",
+    "ward": "Dương Xá"
+  },
+  "Hà Nội_Gia Lâm_Kiêu Kỵ": {
+    "lat": 20.982805,
+    "lng": 105.9551683,
+    "province": "Hà Nội",
+    "district": "Gia Lâm",
+    "ward": "Kiêu Kỵ"
+  },
+  "Hà Nội_Gia Lâm_Lệ Chi": {
+    "lat": 21.0474575,
+    "lng": 106.0078618,
+    "province": "Hà Nội",
+    "district": "Gia Lâm",
+    "ward": "Lệ Chi"
+  },
+  "Hà Nội_Gia Lâm_Ninh Hiệp": {
+    "lat": 21.084107,
+    "lng": 105.9411959,
+    "province": "Hà Nội",
+    "district": "Gia Lâm",
+    "ward": "Ninh Hiệp"
+  },
+  "Hà Nội_Gia Lâm_Phù Đổng": {
+    "lat": 21.081217,
+    "lng": 105.913428,
+    "province": "Hà Nội",
+    "district": "Gia Lâm",
+    "ward": "Phù Đổng"
+  },
+  "Hà Nội_Gia Lâm_Phú Sơn": {
+    "lat": 21.0262637,
+    "lng": 105.9872381,
+    "province": "Hà Nội",
+    "district": "Gia Lâm",
+    "ward": "Phú Sơn"
+  },
+  "Hà Nội_Gia Lâm_Trâu Quỳ": {
+    "lat": 21.0076419,
+    "lng": 105.9372958,
+    "province": "Hà Nội",
+    "district": "Gia Lâm",
+    "ward": "Trâu Quỳ"
+  },
+  "Hà Nội_Gia Lâm_Yên Viên": {
+    "lat": 21.0903099,
+    "lng": 105.9225529,
+    "province": "Hà Nội",
+    "district": "Gia Lâm",
+    "ward": "Yên Viên"
+  },
+  "Hà Nội_Gia Lâm_Đa Tốn": {
+    "lat": 20.992878,
+    "lng": 105.9386763,
+    "province": "Hà Nội",
+    "district": "Gia Lâm",
+    "ward": "Đa Tốn"
+  },
+  "Hà Nội_Gia Lâm_Đặng Xá": {
+    "lat": 21.014434,
+    "lng": 105.9485708,
+    "province": "Hà Nội",
+    "district": "Gia Lâm",
+    "ward": "Đặng Xá"
+  },
+  "Hà Nội_Hai Bà Trưng_Bách Khoa": {
+    "lat": 21.0055269,
+    "lng": 105.8435926,
+    "province": "Hà Nội",
+    "district": "Hai Bà Trưng",
+    "ward": "Bách Khoa"
+  },
+  "Hà Nội_Hai Bà Trưng_Bạch Mai": {
+    "lat": 21.0008805,
+    "lng": 105.8451477,
+    "province": "Hà Nội",
+    "district": "Hai Bà Trưng",
+    "ward": "Bạch Mai"
+  },
+  "Hà Nội_Hai Bà Trưng_Bạch Đằng": {
+    "lat": 21.0141355,
+    "lng": 105.8654629,
+    "province": "Hà Nội",
+    "district": "Hai Bà Trưng",
+    "ward": "Bạch Đằng"
+  },
+  "Hà Nội_Hai Bà Trưng_Lê Đại Hành": {
+    "lat": 21.0102303,
+    "lng": 105.8509323,
+    "province": "Hà Nội",
+    "district": "Hai Bà Trưng",
+    "ward": "Lê Đại Hành"
+  },
+  "Hà Nội_Hai Bà Trưng_Minh Khai": {
+    "lat": 20.994876,
+    "lng": 105.8570014,
+    "province": "Hà Nội",
+    "district": "Hai Bà Trưng",
+    "ward": "Minh Khai"
+  },
+  "Hà Nội_Hai Bà Trưng_Nguyễn Du": {
+    "lat": 21.0175957,
+    "lng": 105.8473841,
+    "province": "Hà Nội",
+    "district": "Hai Bà Trưng",
+    "ward": "Nguyễn Du"
+  },
+  "Hà Nội_Hai Bà Trưng_Phạm Đình Hổ": {
+    "lat": 21.0156699,
+    "lng": 105.8555067,
+    "province": "Hà Nội",
+    "district": "Hai Bà Trưng",
+    "ward": "Phạm Đình Hổ"
+  },
+  "Hà Nội_Hai Bà Trưng_Phố Huế": {
+    "lat": 21.0141916,
+    "lng": 105.8516516,
+    "province": "Hà Nội",
+    "district": "Hai Bà Trưng",
+    "ward": "Phố Huế"
+  },
+  "Hà Nội_Hai Bà Trưng_Quỳnh Mai": {
+    "lat": 20.9991814,
+    "lng": 105.8615834,
+    "province": "Hà Nội",
+    "district": "Hai Bà Trưng",
+    "ward": "Quỳnh Mai"
+  },
+  "Hà Nội_Hai Bà Trưng_Thanh Lương": {
+    "lat": 21.0153173,
+    "lng": 105.8569729,
+    "province": "Hà Nội",
+    "district": "Hai Bà Trưng",
+    "ward": "Thanh Lương"
+  },
+  "Hà Nội_Hai Bà Trưng_Thanh Nhàn": {
+    "lat": 20.9991814,
+    "lng": 105.8615834,
+    "province": "Hà Nội",
+    "district": "Hai Bà Trưng",
+    "ward": "Thanh Nhàn"
+  },
+  "Hà Nội_Hai Bà Trưng_Trương Định": {
+    "lat": 21.0122384,
+    "lng": 105.8540859,
+    "province": "Hà Nội",
+    "district": "Hai Bà Trưng",
+    "ward": "Trương Định"
+  },
+  "Hà Nội_Hai Bà Trưng_Vĩnh Tuy": {
+    "lat": 21.0094511,
+    "lng": 105.8574963,
+    "province": "Hà Nội",
+    "district": "Hai Bà Trưng",
+    "ward": "Vĩnh Tuy"
+  },
+  "Hà Nội_Hai Bà Trưng_Đồng Nhân": {
+    "lat": 21.0115959,
+    "lng": 105.8568848,
+    "province": "Hà Nội",
+    "district": "Hai Bà Trưng",
+    "ward": "Đồng Nhân"
+  },
+  "Hà Nội_Hai Bà Trưng_Đồng Tâm": {
+    "lat": 20.9965696,
+    "lng": 105.8452069,
+    "province": "Hà Nội",
+    "district": "Hai Bà Trưng",
+    "ward": "Đồng Tâm"
+  },
+  "Hà Nội_Hoài Đức_An Khánh": {
+    "lat": 21.0190367,
+    "lng": 105.7114495,
+    "province": "Hà Nội",
+    "district": "Hoài Đức",
+    "ward": "An Khánh"
+  },
+  "Hà Nội_Hoài Đức_An Thượng": {
+    "lat": 21.0800274,
+    "lng": 105.6954173,
+    "province": "Hà Nội",
+    "district": "Hoài Đức",
+    "ward": "An Thượng"
+  },
+  "Hà Nội_Hoài Đức_Di Trạch": {
+    "lat": 21.0423251,
+    "lng": 105.718265,
+    "province": "Hà Nội",
+    "district": "Hoài Đức",
+    "ward": "Di Trạch"
+  },
+  "Hà Nội_Hoài Đức_Kim Chung": {
+    "lat": 21.0527214,
+    "lng": 105.7095565,
+    "province": "Hà Nội",
+    "district": "Hoài Đức",
+    "ward": "Kim Chung"
+  },
+  "Hà Nội_Hoài Đức_La Phù": null,
+  "Hà Nội_Hoài Đức_Lại Yên": {
+    "lat": 21.0602254,
+    "lng": 105.717313,
+    "province": "Hà Nội",
+    "district": "Hoài Đức",
+    "ward": "Lại Yên"
+  },
+  "Hà Nội_Hoài Đức_Song Phương": null,
+  "Hà Nội_Hoài Đức_Sơn Đồng": {
+    "lat": 21.0346219,
+    "lng": 105.7888949,
+    "province": "Hà Nội",
+    "district": "Hoài Đức",
+    "ward": "Sơn Đồng"
+  },
+  "Hà Nội_Hoài Đức_Tiền Yên": null,
+  "Hà Nội_Hoài Đức_Trạm Trôi": {
+    "lat": 21.0681821,
+    "lng": 105.7099045,
+    "province": "Hà Nội",
+    "district": "Hoài Đức",
+    "ward": "Trạm Trôi"
+  },
+  "Hà Nội_Hoài Đức_Vân Canh": {
+    "lat": 21.0294801,
+    "lng": 105.7276153,
+    "province": "Hà Nội",
+    "district": "Hoài Đức",
+    "ward": "Vân Canh"
+  },
+  "Hà Nội_Hoài Đức_Vân Côn": null,
+  "Hà Nội_Hoài Đức_Đông La": null,
+  "Hà Nội_Hoài Đức_Đức Giang": {
+    "lat": 21.0619981,
+    "lng": 105.7028272,
+    "province": "Hà Nội",
+    "district": "Hoài Đức",
+    "ward": "Đức Giang"
+  },
+  "Hà Nội_Hoài Đức_Đức Thượng": {
+    "lat": 21.0800274,
+    "lng": 105.6954173,
+    "province": "Hà Nội",
+    "district": "Hoài Đức",
+    "ward": "Đức Thượng"
+  },
+  "Hà Nội_Hoàn Kiếm_Chương Dương": {
+    "lat": 21.0350345,
+    "lng": 105.8547971,
+    "province": "Hà Nội",
+    "district": "Hoàn Kiếm",
+    "ward": "Chương Dương"
+  },
+  "Hà Nội_Hoàn Kiếm_Cửa Nam": {
+    "lat": 21.0208713,
+    "lng": 105.8577338,
+    "province": "Hà Nội",
+    "district": "Hoàn Kiếm",
+    "ward": "Cửa Nam"
+  },
+  "Hà Nội_Hoàn Kiếm_Cửa Đông": {
+    "lat": 21.0325618,
+    "lng": 105.8454043,
+    "province": "Hà Nội",
+    "district": "Hoàn Kiếm",
+    "ward": "Cửa Đông"
+  },
+  "Hà Nội_Hoàn Kiếm_Hàng Buồm": {
+    "lat": 21.0360748,
+    "lng": 105.8521793,
+    "province": "Hà Nội",
+    "district": "Hoàn Kiếm",
+    "ward": "Hàng Buồm"
+  },
+  "Hà Nội_Hoàn Kiếm_Hàng Bài": {
+    "lat": 21.0253864,
+    "lng": 105.8532162,
+    "province": "Hà Nội",
+    "district": "Hoàn Kiếm",
+    "ward": "Hàng Bài"
+  },
+  "Hà Nội_Hoàn Kiếm_Hàng Bông": {
+    "lat": 21.0269005,
+    "lng": 105.8461355,
+    "province": "Hà Nội",
+    "district": "Hoàn Kiếm",
+    "ward": "Hàng Bông"
+  },
+  "Hà Nội_Hoàn Kiếm_Hàng Bạc": {
+    "lat": 21.0328858,
+    "lng": 105.852844,
+    "province": "Hà Nội",
+    "district": "Hoàn Kiếm",
+    "ward": "Hàng Bạc"
+  },
+  "Hà Nội_Hoàn Kiếm_Hàng Bồ": {
+    "lat": 21.0348931,
+    "lng": 105.8479274,
+    "province": "Hà Nội",
+    "district": "Hoàn Kiếm",
+    "ward": "Hàng Bồ"
+  },
+  "Hà Nội_Hoàn Kiếm_Hàng Gai": {
+    "lat": 21.0320272,
+    "lng": 105.8491961,
+    "province": "Hà Nội",
+    "district": "Hoàn Kiếm",
+    "ward": "Hàng Gai"
+  },
+  "Hà Nội_Hoàn Kiếm_Hàng Mã": {
+    "lat": 21.0372907,
+    "lng": 105.8466331,
+    "province": "Hà Nội",
+    "district": "Hoàn Kiếm",
+    "ward": "Hàng Mã"
+  },
+  "Hà Nội_Hoàn Kiếm_Hàng Trống": {
+    "lat": 21.0274709,
+    "lng": 105.8495375,
+    "province": "Hà Nội",
+    "district": "Hoàn Kiếm",
+    "ward": "Hàng Trống"
+  },
+  "Hà Nội_Hoàn Kiếm_Hàng Đào": {
+    "lat": 21.033502,
+    "lng": 105.851271,
+    "province": "Hà Nội",
+    "district": "Hoàn Kiếm",
+    "ward": "Hàng Đào"
+  },
+  "Hà Nội_Hoàn Kiếm_Phan Chu Trinh": {
+    "lat": 21.0208713,
+    "lng": 105.8577338,
+    "province": "Hà Nội",
+    "district": "Hoàn Kiếm",
+    "ward": "Phan Chu Trinh"
+  },
+  "Hà Nội_Hoàn Kiếm_Phúc Tân": {
+    "lat": 21.0386118,
+    "lng": 105.8532317,
+    "province": "Hà Nội",
+    "district": "Hoàn Kiếm",
+    "ward": "Phúc Tân"
+  },
+  "Hà Nội_Hoàn Kiếm_Tràng Tiền": {
+    "lat": 21.0254935,
+    "lng": 105.8569497,
+    "province": "Hà Nội",
+    "district": "Hoàn Kiếm",
+    "ward": "Tràng Tiền"
+  },
+  "Hà Nội_Hoàn Kiếm_Trần Hưng Đạo": {
+    "lat": 21.022374,
+    "lng": 105.8442867,
+    "province": "Hà Nội",
+    "district": "Hoàn Kiếm",
+    "ward": "Trần Hưng Đạo"
+  },
+  "Hà Nội_Hoàn Kiếm_Đồng Xuân": {
+    "lat": 21.0390744,
+    "lng": 105.8497347,
+    "province": "Hà Nội",
+    "district": "Hoàn Kiếm",
+    "ward": "Đồng Xuân"
+  },
+  "Hà Nội_Hoàng Mai_Giáp Bát": {
+    "lat": 20.9914116,
+    "lng": 105.8445398,
+    "province": "Hà Nội",
+    "district": "Hoàng Mai",
+    "ward": "Giáp Bát"
+  },
+  "Hà Nội_Hoàng Mai_Hoàng Liệt": {
+    "lat": 20.957873,
+    "lng": 105.842899,
+    "province": "Hà Nội",
+    "district": "Hoàng Mai",
+    "ward": "Hoàng Liệt"
+  },
+  "Hà Nội_Hoàng Mai_Hoàng Văn Thụ": {
+    "lat": 20.980113,
+    "lng": 105.860244,
+    "province": "Hà Nội",
+    "district": "Hoàng Mai",
+    "ward": "Hoàng Văn Thụ"
+  },
+  "Hà Nội_Hoàng Mai_Lĩnh Nam": {
+    "lat": 20.9796096,
+    "lng": 105.8891349,
+    "province": "Hà Nội",
+    "district": "Hoàng Mai",
+    "ward": "Lĩnh Nam"
+  },
+  "Hà Nội_Hoàng Mai_Mai Động": {
+    "lat": 20.9910322,
+    "lng": 105.862514,
+    "province": "Hà Nội",
+    "district": "Hoàng Mai",
+    "ward": "Mai Động"
+  },
+  "Hà Nội_Hoàng Mai_Thanh Trì": {
+    "lat": 20.9787215,
+    "lng": 105.8660502,
+    "province": "Hà Nội",
+    "district": "Hoàng Mai",
+    "ward": "Thanh Trì"
+  },
+  "Hà Nội_Hoàng Mai_Thịnh Liệt": {
+    "lat": 20.9817892,
+    "lng": 105.8456817,
+    "province": "Hà Nội",
+    "district": "Hoàng Mai",
+    "ward": "Thịnh Liệt"
+  },
+  "Hà Nội_Hoàng Mai_Trần Phú": null,
+  "Hà Nội_Hoàng Mai_Tân Mai": {
+    "lat": 20.9799855,
+    "lng": 105.8473387,
+    "province": "Hà Nội",
+    "district": "Hoàng Mai",
+    "ward": "Tân Mai"
+  },
+  "Hà Nội_Hoàng Mai_Tương Mai": {
+    "lat": 20.9875925,
+    "lng": 105.8628817,
+    "province": "Hà Nội",
+    "district": "Hoàng Mai",
+    "ward": "Tương Mai"
+  },
+  "Hà Nội_Hoàng Mai_Vĩnh Hưng": {
+    "lat": 20.9806482,
+    "lng": 105.8866596,
+    "province": "Hà Nội",
+    "district": "Hoàng Mai",
+    "ward": "Vĩnh Hưng"
+  },
+  "Hà Nội_Hoàng Mai_Yên Sở": {
+    "lat": 20.9744432,
+    "lng": 105.8656371,
+    "province": "Hà Nội",
+    "district": "Hoàng Mai",
+    "ward": "Yên Sở"
+  },
+  "Hà Nội_Hoàng Mai_Đại Kim": {
+    "lat": 20.9748203,
+    "lng": 105.8336555,
+    "province": "Hà Nội",
+    "district": "Hoàng Mai",
+    "ward": "Đại Kim"
+  },
+  "Hà Nội_Hoàng Mai_Định Công": {
+    "lat": 20.9748203,
+    "lng": 105.8336555,
+    "province": "Hà Nội",
+    "district": "Hoàng Mai",
+    "ward": "Định Công"
+  },
+  "Hà Nội_Hà Đông_Biên Giang": {
+    "lat": 20.9309225,
+    "lng": 105.7169082,
+    "province": "Hà Nội",
+    "district": "Hà Đông",
+    "ward": "Biên Giang"
+  },
+  "Hà Nội_Hà Đông_Dương Nội": {
+    "lat": 20.9830443,
+    "lng": 105.7913247,
+    "province": "Hà Nội",
+    "district": "Hà Đông",
+    "ward": "Dương Nội"
+  },
+  "Hà Nội_Hà Đông_Hà Cầu": {
+    "lat": 20.9646938,
+    "lng": 105.7716584,
+    "province": "Hà Nội",
+    "district": "Hà Đông",
+    "ward": "Hà Cầu"
+  },
+  "Hà Nội_Hà Đông_Kiến Hưng": {
+    "lat": 20.9647907,
+    "lng": 105.7830401,
+    "province": "Hà Nội",
+    "district": "Hà Đông",
+    "ward": "Kiến Hưng"
+  },
+  "Hà Nội_Hà Đông_La Khê": {
+    "lat": 20.9638323,
+    "lng": 105.7668089,
+    "province": "Hà Nội",
+    "district": "Hà Đông",
+    "ward": "La Khê"
+  },
+  "Hà Nội_Hà Đông_Mộ Lao": {
+    "lat": 20.981338,
+    "lng": 105.7839611,
+    "province": "Hà Nội",
+    "district": "Hà Đông",
+    "ward": "Mộ Lao"
+  },
+  "Hà Nội_Hà Đông_Phú La": {
+    "lat": 20.93159,
+    "lng": 105.8570607,
+    "province": "Hà Nội",
+    "district": "Hà Đông",
+    "ward": "Phú La"
+  },
+  "Hà Nội_Hà Đông_Phú Lãm": {
+    "lat": 21.0582112,
+    "lng": 105.9519618,
+    "province": "Hà Nội",
+    "district": "Hà Đông",
+    "ward": "Phú Lãm"
+  },
+  "Hà Nội_Hà Đông_Phú Lương": {
+    "lat": 21.0334478,
+    "lng": 105.8500291,
+    "province": "Hà Nội",
+    "district": "Hà Đông",
+    "ward": "Phú Lương"
+  },
+  "Hà Nội_Hà Đông_Phúc La": {
+    "lat": 20.9628565,
+    "lng": 105.7951324,
+    "province": "Hà Nội",
+    "district": "Hà Đông",
+    "ward": "Phúc La"
+  },
+  "Hà Nội_Hà Đông_Quang Trung": {
+    "lat": 20.9727074,
+    "lng": 105.7777963,
+    "province": "Hà Nội",
+    "district": "Hà Đông",
+    "ward": "Quang Trung"
+  },
+  "Hà Nội_Hà Đông_Văn Quán": {
+    "lat": 20.9777315,
+    "lng": 105.7847989,
+    "province": "Hà Nội",
+    "district": "Hà Đông",
+    "ward": "Văn Quán"
+  },
+  "Hà Nội_Hà Đông_Vạn Phúc": {
+    "lat": 20.9803574,
+    "lng": 105.7756187,
+    "province": "Hà Nội",
+    "district": "Hà Đông",
+    "ward": "Vạn Phúc"
+  },
+  "Hà Nội_Hà Đông_Yên Nghĩa": {
+    "lat": 20.9499151,
+    "lng": 105.7372532,
+    "province": "Hà Nội",
+    "district": "Hà Đông",
+    "ward": "Yên Nghĩa"
+  },
+  "Hà Nội_Hà Đông_Đồng Mai": {
+    "lat": 20.9244926,
+    "lng": 105.7388876,
+    "province": "Hà Nội",
+    "district": "Hà Đông",
+    "ward": "Đồng Mai"
+  },
+  "Hà Nội_Long Biên_Bồ Đề": {
+    "lat": 21.0422333,
+    "lng": 105.8710962,
+    "province": "Hà Nội",
+    "district": "Long Biên",
+    "ward": "Bồ Đề"
+  },
+  "Hà Nội_Long Biên_Cự Khối": {
+    "lat": 21.0148162,
+    "lng": 105.9123125,
+    "province": "Hà Nội",
+    "district": "Long Biên",
+    "ward": "Cự Khối"
+  },
+  "Hà Nội_Long Biên_Gia Thụy": {
+    "lat": 21.0447291,
+    "lng": 105.8949017,
+    "province": "Hà Nội",
+    "district": "Long Biên",
+    "ward": "Gia Thụy"
+  },
+  "Hà Nội_Long Biên_Giang Biên": {
+    "lat": 21.0605798,
+    "lng": 105.8936352,
+    "province": "Hà Nội",
+    "district": "Long Biên",
+    "ward": "Giang Biên"
+  },
+  "Hà Nội_Long Biên_Long Biên": {
+    "lat": 21.0314896,
+    "lng": 105.8889215,
+    "province": "Hà Nội",
+    "district": "Long Biên",
+    "ward": "Long Biên"
+  },
+  "Hà Nội_Long Biên_Ngọc Lâm": {
+    "lat": 21.0481261,
+    "lng": 105.8759004,
+    "province": "Hà Nội",
+    "district": "Long Biên",
+    "ward": "Ngọc Lâm"
+  },
+  "Hà Nội_Long Biên_Ngọc Thụy": {
+    "lat": 21.0438263,
+    "lng": 105.86562,
+    "province": "Hà Nội",
+    "district": "Long Biên",
+    "ward": "Ngọc Thụy"
+  },
+  "Hà Nội_Long Biên_Phúc Lợi": {
+    "lat": 21.028681,
+    "lng": 105.918974,
+    "province": "Hà Nội",
+    "district": "Long Biên",
+    "ward": "Phúc Lợi"
+  },
+  "Hà Nội_Long Biên_Phúc Đồng": {
+    "lat": 21.0453967,
+    "lng": 105.8688288,
+    "province": "Hà Nội",
+    "district": "Long Biên",
+    "ward": "Phúc Đồng"
+  },
+  "Hà Nội_Long Biên_Thượng Thanh": {
+    "lat": 21.0591071,
+    "lng": 105.8896374,
+    "province": "Hà Nội",
+    "district": "Long Biên",
+    "ward": "Thượng Thanh"
+  },
+  "Hà Nội_Long Biên_Thạch Bàn": {
+    "lat": 21.0250979,
+    "lng": 105.9102468,
+    "province": "Hà Nội",
+    "district": "Long Biên",
+    "ward": "Thạch Bàn"
+  },
+  "Hà Nội_Long Biên_Việt Hưng": {
+    "lat": 21.0673331,
+    "lng": 105.8899625,
+    "province": "Hà Nội",
+    "district": "Long Biên",
+    "ward": "Việt Hưng"
+  },
+  "Hà Nội_Long Biên_Đức Giang": {
+    "lat": 21.0605798,
+    "lng": 105.8936352,
+    "province": "Hà Nội",
+    "district": "Long Biên",
+    "ward": "Đức Giang"
+  },
+  "Hà Nội_Mê Linh_Chi Đông": null,
+  "Hà Nội_Mê Linh_Chu Phan": null,
+  "Hà Nội_Mê Linh_Kim Hoa": null,
+  "Hà Nội_Mê Linh_Quang Minh": {
+    "lat": 21.1944359,
+    "lng": 105.7805467,
+    "province": "Hà Nội",
+    "district": "Mê Linh",
+    "ward": "Quang Minh"
+  },
+  "Hà Nội_Mê Linh_Tam Đồng": {
+    "lat": 21.1545335,
+    "lng": 105.7702665,
+    "province": "Hà Nội",
+    "district": "Mê Linh",
+    "ward": "Tam Đồng"
+  },
+  "Hà Nội_Mê Linh_Thanh Lâm": null,
+  "Hà Nội_Mê Linh_Thạch Đà": {
+    "lat": 21.1694067,
+    "lng": 105.6749184,
+    "province": "Hà Nội",
+    "district": "Mê Linh",
+    "ward": "Thạch Đà"
+  },
+  "Hà Nội_Mê Linh_Tiến Thắng": {
+    "lat": 21.1558323,
+    "lng": 105.7583535,
+    "province": "Hà Nội",
+    "district": "Mê Linh",
+    "ward": "Tiến Thắng"
+  },
+  "Hà Nội_Mê Linh_Tiền Phong": {
+    "lat": 21.1558323,
+    "lng": 105.7583535,
+    "province": "Hà Nội",
+    "district": "Mê Linh",
+    "ward": "Tiền Phong"
+  },
+  "Hà Nội_Mê Linh_Tráng Việt": {
+    "lat": 21.1490993,
+    "lng": 105.7409966,
+    "province": "Hà Nội",
+    "district": "Mê Linh",
+    "ward": "Tráng Việt"
+  },
+  "Hà Nội_Mê Linh_Văn Khê": {
+    "lat": 21.1646441,
+    "lng": 105.7018085,
+    "province": "Hà Nội",
+    "district": "Mê Linh",
+    "ward": "Văn Khê"
+  },
+  "Hà Nội_Mê Linh_Đại Thịnh": {
+    "lat": 21.1854352,
+    "lng": 105.7174441,
+    "province": "Hà Nội",
+    "district": "Mê Linh",
+    "ward": "Đại Thịnh"
+  },
+  "Hà Nội_Mỹ Đức_An Phú": {
+    "lat": 20.6214926,
+    "lng": 105.6807757,
+    "province": "Hà Nội",
+    "district": "Mỹ Đức",
+    "ward": "An Phú"
+  },
+  "Hà Nội_Mỹ Đức_An Tiến": {
+    "lat": 21.0202004,
+    "lng": 105.8381907,
+    "province": "Hà Nội",
+    "district": "Mỹ Đức",
+    "ward": "An Tiến"
+  },
+  "Hà Nội_Mỹ Đức_Hương Sơn": null,
+  "Hà Nội_Mỹ Đức_Hợp Thanh": {
+    "lat": 20.6713525,
+    "lng": 105.7056598,
+    "province": "Hà Nội",
+    "district": "Mỹ Đức",
+    "ward": "Hợp Thanh"
+  },
+  "Hà Nội_Mỹ Đức_Hợp Tiến": {
+    "lat": 20.686848,
+    "lng": 105.6990683,
+    "province": "Hà Nội",
+    "district": "Mỹ Đức",
+    "ward": "Hợp Tiến"
+  },
+  "Hà Nội_Mỹ Đức_Phúc Lâm": {
+    "lat": 21.0142394,
+    "lng": 105.8409103,
+    "province": "Hà Nội",
+    "district": "Mỹ Đức",
+    "ward": "Phúc Lâm"
+  },
+  "Hà Nội_Mỹ Đức_Tuy Lai": null,
+  "Hà Nội_Mỹ Đức_Xuy Xá": {
+    "lat": 20.7182396,
+    "lng": 105.7334696,
+    "province": "Hà Nội",
+    "district": "Mỹ Đức",
+    "ward": "Xuy Xá"
+  },
+  "Hà Nội_Mỹ Đức_Đại Nghĩa": {
+    "lat": 20.692349,
+    "lng": 105.739042,
+    "province": "Hà Nội",
+    "district": "Mỹ Đức",
+    "ward": "Đại Nghĩa"
+  },
+  "Hà Nội_Mỹ Đức_Đồng Tâm": null,
+  "Hà Nội_Nam Từ Liêm_Cầu Diễn": {
+    "lat": 21.0329999,
+    "lng": 105.7618325,
+    "province": "Hà Nội",
+    "district": "Nam Từ Liêm",
+    "ward": "Cầu Diễn"
+  },
+  "Hà Nội_Nam Từ Liêm_Mễ Trì": {
+    "lat": 21.0166746,
+    "lng": 105.7700653,
+    "province": "Hà Nội",
+    "district": "Nam Từ Liêm",
+    "ward": "Mễ Trì"
+  },
+  "Hà Nội_Nam Từ Liêm_Mỹ Đình 1": {
+    "lat": 21.0298004,
+    "lng": 105.763536,
+    "province": "Hà Nội",
+    "district": "Nam Từ Liêm",
+    "ward": "Mỹ Đình 1"
+  },
+  "Hà Nội_Nam Từ Liêm_Mỹ Đình 2": {
+    "lat": 21.0293213,
+    "lng": 105.7785243,
+    "province": "Hà Nội",
+    "district": "Nam Từ Liêm",
+    "ward": "Mỹ Đình 2"
+  },
+  "Hà Nội_Nam Từ Liêm_Phú Đô": {
+    "lat": 21.0166746,
+    "lng": 105.7700653,
+    "province": "Hà Nội",
+    "district": "Nam Từ Liêm",
+    "ward": "Phú Đô"
+  },
+  "Hà Nội_Nam Từ Liêm_Phương Canh": {
+    "lat": 21.0315918,
+    "lng": 105.7529955,
+    "province": "Hà Nội",
+    "district": "Nam Từ Liêm",
+    "ward": "Phương Canh"
+  },
+  "Hà Nội_Nam Từ Liêm_Trung Văn": {
+    "lat": 21.0315918,
+    "lng": 105.7529955,
+    "province": "Hà Nội",
+    "district": "Nam Từ Liêm",
+    "ward": "Trung Văn"
+  },
+  "Hà Nội_Nam Từ Liêm_Tây Mỗ": {
+    "lat": 21.0115868,
+    "lng": 105.7547059,
+    "province": "Hà Nội",
+    "district": "Nam Từ Liêm",
+    "ward": "Tây Mỗ"
+  },
+  "Hà Nội_Nam Từ Liêm_Xuân Phương": {
+    "lat": 21.0312098,
+    "lng": 105.7555266,
+    "province": "Hà Nội",
+    "district": "Nam Từ Liêm",
+    "ward": "Xuân Phương"
+  },
+  "Hà Nội_Nam Từ Liêm_Đại Mỗ": {
+    "lat": 20.9951155,
+    "lng": 105.7523059,
+    "province": "Hà Nội",
+    "district": "Nam Từ Liêm",
+    "ward": "Đại Mỗ"
+  },
+  "Hà Nội_Phú Xuyên_Bạch Hạ": null,
+  "Hà Nội_Phú Xuyên_Hồng Thái": {
+    "lat": 20.760204,
+    "lng": 105.95619,
+    "province": "Hà Nội",
+    "district": "Phú Xuyên",
+    "ward": "Hồng Thái"
+  },
+  "Hà Nội_Phú Xuyên_Khai Thái": {
+    "lat": 20.7196747,
+    "lng": 105.9577718,
+    "province": "Hà Nội",
+    "district": "Phú Xuyên",
+    "ward": "Khai Thái"
+  },
+  "Hà Nội_Phú Xuyên_Nam Phong": {
+    "lat": 20.747574,
+    "lng": 105.9323425,
+    "province": "Hà Nội",
+    "district": "Phú Xuyên",
+    "ward": "Nam Phong"
+  },
+  "Hà Nội_Phú Xuyên_Phú Túc": null,
+  "Hà Nội_Phú Xuyên_Vân Từ": {
+    "lat": 20.7853901,
+    "lng": 105.8889184,
+    "province": "Hà Nội",
+    "district": "Phú Xuyên",
+    "ward": "Vân Từ"
+  },
+  "Hà Nội_Phú Xuyên_Văn Hoàng": null,
+  "Hà Nội_Phú Xuyên_Đại Xuyên": {
+    "lat": 20.6930117,
+    "lng": 105.9839834,
+    "province": "Hà Nội",
+    "district": "Phú Xuyên",
+    "ward": "Đại Xuyên"
+  },
+  "Hà Nội_Phúc Thọ_Hiệp Thuận": {
+    "lat": 21.085505,
+    "lng": 105.6153991,
+    "province": "Hà Nội",
+    "district": "Phúc Thọ",
+    "ward": "Hiệp Thuận"
+  },
+  "Hà Nội_Phúc Thọ_Hát Môn": {
+    "lat": 21.125906,
+    "lng": 105.6181623,
+    "province": "Hà Nội",
+    "district": "Phúc Thọ",
+    "ward": "Hát Môn"
+  },
+  "Hà Nội_Phúc Thọ_Nam Hà": {
+    "lat": 21.1139935,
+    "lng": 105.5419603,
+    "province": "Hà Nội",
+    "district": "Phúc Thọ",
+    "ward": "Nam Hà"
+  },
+  "Hà Nội_Phúc Thọ_Ngọc Tảo": {
+    "lat": 21.0986555,
+    "lng": 105.6008044,
+    "province": "Hà Nội",
+    "district": "Phúc Thọ",
+    "ward": "Ngọc Tảo"
+  },
+  "Hà Nội_Phúc Thọ_Phụng Thượng": {
+    "lat": 21.0927651,
+    "lng": 105.5853434,
+    "province": "Hà Nội",
+    "district": "Phúc Thọ",
+    "ward": "Phụng Thượng"
+  },
+  "Hà Nội_Phúc Thọ_Sen Phương": {
+    "lat": 21.1430851,
+    "lng": 105.530996,
+    "province": "Hà Nội",
+    "district": "Phúc Thọ",
+    "ward": "Sen Phương"
+  },
+  "Hà Nội_Phúc Thọ_Tam Thuấn": {
+    "lat": 21.0996924,
+    "lng": 105.6231537,
+    "province": "Hà Nội",
+    "district": "Phúc Thọ",
+    "ward": "Tam Thuấn"
+  },
+  "Hà Nội_Phúc Thọ_Trạch Mỹ Lộc": {
+    "lat": 21.1022763,
+    "lng": 105.5274935,
+    "province": "Hà Nội",
+    "district": "Phúc Thọ",
+    "ward": "Trạch Mỹ Lộc"
+  },
+  "Hà Nội_Phúc Thọ_Võng Xuyên": {
+    "lat": 21.1320485,
+    "lng": 105.5606712,
+    "province": "Hà Nội",
+    "district": "Phúc Thọ",
+    "ward": "Võng Xuyên"
+  },
+  "Hà Nội_Quốc Oai_Cấn Hữu": null,
+  "Hà Nội_Quốc Oai_Hòa Thạch": {
+    "lat": 20.9887376,
+    "lng": 105.6343732,
+    "province": "Hà Nội",
+    "district": "Quốc Oai",
+    "ward": "Hòa Thạch"
+  },
+  "Hà Nội_Quốc Oai_Hưng Đạo": null,
+  "Hà Nội_Quốc Oai_Ngọc Mỹ": {
+    "lat": 20.9885853,
+    "lng": 105.6298325,
+    "province": "Hà Nội",
+    "district": "Quốc Oai",
+    "ward": "Ngọc Mỹ"
+  },
+  "Hà Nội_Quốc Oai_Phú Cát": null,
+  "Hà Nội_Quốc Oai_Phú Mãn": null,
+  "Hà Nội_Quốc Oai_Quốc Oai": {
+    "lat": 21.0093935,
+    "lng": 105.6329208,
+    "province": "Hà Nội",
+    "district": "Quốc Oai",
+    "ward": "Quốc Oai"
+  },
+  "Hà Nội_Quốc Oai_Sài Sơn": {
+    "lat": 21.003185,
+    "lng": 105.6531233,
+    "province": "Hà Nội",
+    "district": "Quốc Oai",
+    "ward": "Sài Sơn"
+  },
+  "Hà Nội_Quốc Oai_Đông Xuân": null,
+  "Hà Nội_Quốc Oai_Đông Yên": {
+    "lat": 20.9828314,
+    "lng": 105.6489662,
+    "province": "Hà Nội",
+    "district": "Quốc Oai",
+    "ward": "Đông Yên"
+  },
+  "Hà Nội_Quốc Oai_Đồng Quang": {
+    "lat": 21.1777331,
+    "lng": 105.4487346,
+    "province": "Hà Nội",
+    "district": "Quốc Oai",
+    "ward": "Đồng Quang"
+  },
+  "Hà Nội_Sóc Sơn_Bắc Phú": {
+    "lat": 21.2585668,
+    "lng": 105.8490173,
+    "province": "Hà Nội",
+    "district": "Sóc Sơn",
+    "ward": "Bắc Phú"
+  },
+  "Hà Nội_Sóc Sơn_Bắc Sơn": {
+    "lat": 21.2585668,
+    "lng": 105.8490173,
+    "province": "Hà Nội",
+    "district": "Sóc Sơn",
+    "ward": "Bắc Sơn"
+  },
+  "Hà Nội_Sóc Sơn_Hiền Ninh": null,
+  "Hà Nội_Sóc Sơn_Hồng Kỳ": {
+    "lat": 21.2891136,
+    "lng": 105.8611953,
+    "province": "Hà Nội",
+    "district": "Sóc Sơn",
+    "ward": "Hồng Kỳ"
+  },
+  "Hà Nội_Sóc Sơn_Mai Đình": {
+    "lat": 21.2413924,
+    "lng": 105.8218095,
+    "province": "Hà Nội",
+    "district": "Sóc Sơn",
+    "ward": "Mai Đình"
+  },
+  "Hà Nội_Sóc Sơn_Minh Phú": {
+    "lat": 21.2024572,
+    "lng": 105.8135718,
+    "province": "Hà Nội",
+    "district": "Sóc Sơn",
+    "ward": "Minh Phú"
+  },
+  "Hà Nội_Sóc Sơn_Minh Trí": null,
+  "Hà Nội_Sóc Sơn_Phù Linh": {
+    "lat": 21.2860431,
+    "lng": 105.8321105,
+    "province": "Hà Nội",
+    "district": "Sóc Sơn",
+    "ward": "Phù Linh"
+  },
+  "Hà Nội_Sóc Sơn_Phù Lỗ": {
+    "lat": 21.268097,
+    "lng": 105.8540988,
+    "province": "Hà Nội",
+    "district": "Sóc Sơn",
+    "ward": "Phù Lỗ"
+  },
+  "Hà Nội_Sóc Sơn_Phú Cường": null,
+  "Hà Nội_Sóc Sơn_Phú Minh": {
+    "lat": 21.2024572,
+    "lng": 105.8135718,
+    "province": "Hà Nội",
+    "district": "Sóc Sơn",
+    "ward": "Phú Minh"
+  },
+  "Hà Nội_Sóc Sơn_Quang Tiến": {
+    "lat": 21.2384391,
+    "lng": 105.8062253,
+    "province": "Hà Nội",
+    "district": "Sóc Sơn",
+    "ward": "Quang Tiến"
+  },
+  "Hà Nội_Sóc Sơn_Sóc Sơn": {
+    "lat": 21.2860431,
+    "lng": 105.8321105,
+    "province": "Hà Nội",
+    "district": "Sóc Sơn",
+    "ward": "Sóc Sơn"
+  },
+  "Hà Nội_Sóc Sơn_Thanh Xuân": {
+    "lat": 21.2195194,
+    "lng": 105.861891,
+    "province": "Hà Nội",
+    "district": "Sóc Sơn",
+    "ward": "Thanh Xuân"
+  },
+  "Hà Nội_Sóc Sơn_Tiên Dược": {
+    "lat": 21.2311227,
+    "lng": 105.849213,
+    "province": "Hà Nội",
+    "district": "Sóc Sơn",
+    "ward": "Tiên Dược"
+  },
+  "Hà Nội_Sóc Sơn_Trung Giã": {
+    "lat": 21.3000817,
+    "lng": 105.8647647,
+    "province": "Hà Nội",
+    "district": "Sóc Sơn",
+    "ward": "Trung Giã"
+  },
+  "Hà Nội_Sóc Sơn_Tân Dân": null,
+  "Hà Nội_Sóc Sơn_Tân Minh": {
+    "lat": 21.2834294,
+    "lng": 105.859678,
+    "province": "Hà Nội",
+    "district": "Sóc Sơn",
+    "ward": "Tân Minh"
+  },
+  "Hà Nội_Sơn Tây_Cổ Đông": {
+    "lat": 21.0111284,
+    "lng": 105.8236945,
+    "province": "Hà Nội",
+    "district": "Sơn Tây",
+    "ward": "Cổ Đông"
+  },
+  "Hà Nội_Sơn Tây_Kim Sơn": {
+    "lat": 21.0414477,
+    "lng": 105.5880842,
+    "province": "Hà Nội",
+    "district": "Sơn Tây",
+    "ward": "Kim Sơn"
+  },
+  "Hà Nội_Sơn Tây_Sơn Lộc": {
+    "lat": 21.1209864,
+    "lng": 105.50131,
+    "province": "Hà Nội",
+    "district": "Sơn Tây",
+    "ward": "Sơn Lộc"
+  },
+  "Hà Nội_Sơn Tây_Sơn Đông": {
+    "lat": 21.1369999,
+    "lng": 105.5013602,
+    "province": "Hà Nội",
+    "district": "Sơn Tây",
+    "ward": "Sơn Đông"
+  },
+  "Hà Nội_Sơn Tây_Viên Sơn": {
+    "lat": 21.1460373,
+    "lng": 105.5052868,
+    "province": "Hà Nội",
+    "district": "Sơn Tây",
+    "ward": "Viên Sơn"
+  },
+  "Hà Nội_Sơn Tây_Xuân Khanh": null,
+  "Hà Nội_Sơn Tây_Xuân Sơn": {
+    "lat": 21.1329908,
+    "lng": 105.5095084,
+    "province": "Hà Nội",
+    "district": "Sơn Tây",
+    "ward": "Xuân Sơn"
+  },
+  "Hà Nội_Thanh Oai_Bình Minh": {
+    "lat": 20.9497929,
+    "lng": 105.7891238,
+    "province": "Hà Nội",
+    "district": "Thanh Oai",
+    "ward": "Bình Minh"
+  },
+  "Hà Nội_Thanh Oai_Bích Hòa": null,
+  "Hà Nội_Thanh Oai_Cao Viên": null,
+  "Hà Nội_Thanh Oai_Cao Xuân Dương": {
+    "lat": 21.1627057,
+    "lng": 105.4207628,
+    "province": "Hà Nội",
+    "district": "Thanh Oai",
+    "ward": "Cao Xuân Dương"
+  },
+  "Hà Nội_Thanh Oai_Cự Khê": null,
+  "Hà Nội_Thanh Oai_Kim An": {
+    "lat": 20.8496043,
+    "lng": 105.7576081,
+    "province": "Hà Nội",
+    "district": "Thanh Oai",
+    "ward": "Kim An"
+  },
+  "Hà Nội_Thanh Oai_Kim Bài": {
+    "lat": 20.8537232,
+    "lng": 105.7682192,
+    "province": "Hà Nội",
+    "district": "Thanh Oai",
+    "ward": "Kim Bài"
+  },
+  "Hà Nội_Thanh Oai_Thanh Cao": {
+    "lat": 10.8554804,
+    "lng": 106.7857199,
+    "province": "Hà Nội",
+    "district": "Thanh Oai",
+    "ward": "Thanh Cao"
+  },
+  "Hà Nội_Thanh Oai_Thanh Mai": {
+    "lat": 20.8612516,
+    "lng": 105.7463121,
+    "province": "Hà Nội",
+    "district": "Thanh Oai",
+    "ward": "Thanh Mai"
+  },
+  "Hà Nội_Thanh Trì_Hữu Hòa": null,
+  "Hà Nội_Thanh Trì_Liên Ninh": null,
+  "Hà Nội_Thanh Trì_Ngũ Hiệp": {
+    "lat": 20.9271383,
+    "lng": 105.851973,
+    "province": "Hà Nội",
+    "district": "Thanh Trì",
+    "ward": "Ngũ Hiệp"
+  },
+  "Hà Nội_Thanh Trì_Ngọc Hồi": {
+    "lat": 20.9297847,
+    "lng": 105.8479501,
+    "province": "Hà Nội",
+    "district": "Thanh Trì",
+    "ward": "Ngọc Hồi"
+  },
+  "Hà Nội_Thanh Trì_Tam Hiệp": {
+    "lat": 20.9546528,
+    "lng": 105.8323397,
+    "province": "Hà Nội",
+    "district": "Thanh Trì",
+    "ward": "Tam Hiệp"
+  },
+  "Hà Nội_Thanh Trì_Thanh Liệt": {
+    "lat": 20.9634112,
+    "lng": 105.7992438,
+    "province": "Hà Nội",
+    "district": "Thanh Trì",
+    "ward": "Thanh Liệt"
+  },
+  "Hà Nội_Thanh Trì_Tân Triều": {
+    "lat": 20.9634112,
+    "lng": 105.7992438,
+    "province": "Hà Nội",
+    "district": "Thanh Trì",
+    "ward": "Tân Triều"
+  },
+  "Hà Nội_Thanh Trì_Tả Thanh Oai": null,
+  "Hà Nội_Thanh Trì_Tứ Hiệp": {
+    "lat": 20.942592,
+    "lng": 105.8679099,
+    "province": "Hà Nội",
+    "district": "Thanh Trì",
+    "ward": "Tứ Hiệp"
+  },
+  "Hà Nội_Thanh Trì_Văn Điển": {
+    "lat": 20.9444423,
+    "lng": 105.8441372,
+    "province": "Hà Nội",
+    "district": "Thanh Trì",
+    "ward": "Văn Điển"
+  },
+  "Hà Nội_Thanh Trì_Vĩnh Quỳnh": {
+    "lat": 20.9376284,
+    "lng": 105.839828,
+    "province": "Hà Nội",
+    "district": "Thanh Trì",
+    "ward": "Vĩnh Quỳnh"
+  },
+  "Hà Nội_Thanh Trì_Vạn Phúc": {
+    "lat": 20.9242537,
+    "lng": 105.8915718,
+    "province": "Hà Nội",
+    "district": "Thanh Trì",
+    "ward": "Vạn Phúc"
+  },
+  "Hà Nội_Thanh Trì_Yên Mỹ": {
+    "lat": 20.9505279,
+    "lng": 105.8741798,
+    "province": "Hà Nội",
+    "district": "Thanh Trì",
+    "ward": "Yên Mỹ"
+  },
+  "Hà Nội_Thanh Trì_Đông Mỹ": {
+    "lat": 20.9124781,
+    "lng": 105.8706627,
+    "province": "Hà Nội",
+    "district": "Thanh Trì",
+    "ward": "Đông Mỹ"
+  },
+  "Hà Nội_Thanh Trì_Đại áng": null,
+  "Hà Nội_Thanh Xuân_Hạ Đình": {
+    "lat": 20.9847469,
+    "lng": 105.809321,
+    "province": "Hà Nội",
+    "district": "Thanh Xuân",
+    "ward": "Hạ Đình"
+  },
+  "Hà Nội_Thanh Xuân_Khương Mai": {
+    "lat": 20.9987224,
+    "lng": 105.825213,
+    "province": "Hà Nội",
+    "district": "Thanh Xuân",
+    "ward": "Khương Mai"
+  },
+  "Hà Nội_Thanh Xuân_Khương Trung": {
+    "lat": 20.9999984,
+    "lng": 105.8279102,
+    "province": "Hà Nội",
+    "district": "Thanh Xuân",
+    "ward": "Khương Trung"
+  },
+  "Hà Nội_Thanh Xuân_Khương Đình": {
+    "lat": 20.9980968,
+    "lng": 105.821632,
+    "province": "Hà Nội",
+    "district": "Thanh Xuân",
+    "ward": "Khương Đình"
+  },
+  "Hà Nội_Thanh Xuân_Nhân Chính": {
+    "lat": 21.0046149,
+    "lng": 105.8048772,
+    "province": "Hà Nội",
+    "district": "Thanh Xuân",
+    "ward": "Nhân Chính"
+  },
+  "Hà Nội_Thanh Xuân_Phương Liệt": {
+    "lat": 20.9999984,
+    "lng": 105.8279102,
+    "province": "Hà Nội",
+    "district": "Thanh Xuân",
+    "ward": "Phương Liệt"
+  },
+  "Hà Nội_Thanh Xuân_Thanh Xuân Bắc": {
+    "lat": 20.9942876,
+    "lng": 105.7987271,
+    "province": "Hà Nội",
+    "district": "Thanh Xuân",
+    "ward": "Thanh Xuân Bắc"
+  },
+  "Hà Nội_Thanh Xuân_Thanh Xuân Trung": {
+    "lat": 20.9999984,
+    "lng": 105.8279102,
+    "province": "Hà Nội",
+    "district": "Thanh Xuân",
+    "ward": "Thanh Xuân Trung"
+  },
+  "Hà Nội_Thanh Xuân_Thượng Đình": {
+    "lat": 20.9976814,
+    "lng": 105.8122488,
+    "province": "Hà Nội",
+    "district": "Thanh Xuân",
+    "ward": "Thượng Đình"
+  },
+  "Hà Nội_Thường Tín_Chương Dương": null,
+  "Hà Nội_Thường Tín_Duyên Thái": null,
+  "Hà Nội_Thường Tín_Dũng Tiến": null,
+  "Hà Nội_Thường Tín_Hà Hồi": {
+    "lat": 20.8681462,
+    "lng": 105.8740491,
+    "province": "Hà Nội",
+    "district": "Thường Tín",
+    "ward": "Hà Hồi"
+  },
+  "Hà Nội_Thường Tín_Hồng Vân": {
+    "lat": 20.8988806,
+    "lng": 105.8480354,
+    "province": "Hà Nội",
+    "district": "Thường Tín",
+    "ward": "Hồng Vân"
+  },
+  "Hà Nội_Thường Tín_Khánh Hà": {
+    "lat": 20.8927882,
+    "lng": 105.8250512,
+    "province": "Hà Nội",
+    "district": "Thường Tín",
+    "ward": "Khánh Hà"
+  },
+  "Hà Nội_Thường Tín_Liên Phương": null,
+  "Hà Nội_Thường Tín_Nhị Khê": {
+    "lat": 20.89621,
+    "lng": 105.8379955,
+    "province": "Hà Nội",
+    "district": "Thường Tín",
+    "ward": "Nhị Khê"
+  },
+  "Hà Nội_Thường Tín_Ninh Sở": null,
+  "Hà Nội_Thường Tín_Thường Tín": {
+    "lat": 20.8713287,
+    "lng": 105.8644324,
+    "province": "Hà Nội",
+    "district": "Thường Tín",
+    "ward": "Thường Tín"
+  },
+  "Hà Nội_Thường Tín_Tiền Phong": {
+    "lat": 20.8512906,
+    "lng": 105.8295549,
+    "province": "Hà Nội",
+    "district": "Thường Tín",
+    "ward": "Tiền Phong"
+  },
+  "Hà Nội_Thường Tín_Tự Nhiên": null,
+  "Hà Nội_Thường Tín_Vân Tảo": null,
+  "Hà Nội_Thường Tín_Văn Phú": {
+    "lat": 20.8678914,
+    "lng": 105.8513852,
+    "province": "Hà Nội",
+    "district": "Thường Tín",
+    "ward": "Văn Phú"
+  },
+  "Hà Nội_Thạch Thất_Bình Yên": null,
+  "Hà Nội_Thạch Thất_Hạ Bằng": null,
+  "Hà Nội_Thạch Thất_Liên Quan": {
+    "lat": 21.054742,
+    "lng": 105.5762987,
+    "province": "Hà Nội",
+    "district": "Thạch Thất",
+    "ward": "Liên Quan"
+  },
+  "Hà Nội_Thạch Thất_Lại Thượng": {
+    "lat": 21.0685408,
+    "lng": 105.5455333,
+    "province": "Hà Nội",
+    "district": "Thạch Thất",
+    "ward": "Lại Thượng"
+  },
+  "Hà Nội_Thạch Thất_Phùng Xá": {
+    "lat": 21.0927651,
+    "lng": 105.5853434,
+    "province": "Hà Nội",
+    "district": "Thạch Thất",
+    "ward": "Phùng Xá"
+  },
+  "Hà Nội_Thạch Thất_Phú Kim": {
+    "lat": 21.069385,
+    "lng": 105.5779273,
+    "province": "Hà Nội",
+    "district": "Thạch Thất",
+    "ward": "Phú Kim"
+  },
+  "Hà Nội_Thạch Thất_Thạch Hòa": {
+    "lat": 21.0564462,
+    "lng": 105.5807397,
+    "province": "Hà Nội",
+    "district": "Thạch Thất",
+    "ward": "Thạch Hòa"
+  },
+  "Hà Nội_Thạch Thất_Tiến Xuân": null,
+  "Hà Nội_Thạch Thất_Tân Xã": {
+    "lat": 21.0310464,
+    "lng": 105.5575494,
+    "province": "Hà Nội",
+    "district": "Thạch Thất",
+    "ward": "Tân Xã"
+  },
+  "Hà Nội_Thạch Thất_Yên Bình": null,
+  "Hà Nội_Thạch Thất_Yên Trung": {
+    "lat": 21.0869391,
+    "lng": 105.5423717,
+    "province": "Hà Nội",
+    "district": "Thạch Thất",
+    "ward": "Yên Trung"
+  },
+  "Hà Nội_Thạch Thất_Đại Đồng": {
+    "lat": 21.0837768,
+    "lng": 105.5583028,
+    "province": "Hà Nội",
+    "district": "Thạch Thất",
+    "ward": "Đại Đồng"
+  },
+  "Hà Nội_Thạch Thất_Đồng Trúc": null,
+  "Hà Nội_Tây Hồ_Bưởi": {
+    "lat": 21.0431266,
+    "lng": 105.8320072,
+    "province": "Hà Nội",
+    "district": "Tây Hồ",
+    "ward": "Bưởi"
+  },
+  "Hà Nội_Tây Hồ_Nhật Tân": {
+    "lat": 21.0761208,
+    "lng": 105.8153644,
+    "province": "Hà Nội",
+    "district": "Tây Hồ",
+    "ward": "Nhật Tân"
+  },
+  "Hà Nội_Tây Hồ_Phú Thượng": {
+    "lat": 21.0814583,
+    "lng": 105.81481,
+    "province": "Hà Nội",
+    "district": "Tây Hồ",
+    "ward": "Phú Thượng"
+  },
+  "Hà Nội_Tây Hồ_Quảng An": {
+    "lat": 21.0706432,
+    "lng": 105.8244956,
+    "province": "Hà Nội",
+    "district": "Tây Hồ",
+    "ward": "Quảng An"
+  },
+  "Hà Nội_Tây Hồ_Thụy Khuê": {
+    "lat": 21.0430646,
+    "lng": 105.8218397,
+    "province": "Hà Nội",
+    "district": "Tây Hồ",
+    "ward": "Thụy Khuê"
+  },
+  "Hà Nội_Tây Hồ_Tứ Liên": {
+    "lat": 21.0590914,
+    "lng": 105.8342164,
+    "province": "Hà Nội",
+    "district": "Tây Hồ",
+    "ward": "Tứ Liên"
+  },
+  "Hà Nội_Tây Hồ_Xuân La": {
+    "lat": 21.0630528,
+    "lng": 105.8075255,
+    "province": "Hà Nội",
+    "district": "Tây Hồ",
+    "ward": "Xuân La"
+  },
+  "Hà Nội_Tây Hồ_Yên Phụ": {
+    "lat": 21.0530089,
+    "lng": 105.83616,
+    "province": "Hà Nội",
+    "district": "Tây Hồ",
+    "ward": "Yên Phụ"
+  },
+  "Hà Nội_Đan Phượng_Hồng Hà": {
+    "lat": 20.7959441,
+    "lng": 105.7837649,
+    "province": "Hà Nội",
+    "district": "Đan Phượng",
+    "ward": "Hồng Hà"
+  },
+  "Hà Nội_Đan Phượng_Liên Trung": {
+    "lat": 21.0094305,
+    "lng": 105.8378355,
+    "province": "Hà Nội",
+    "district": "Đan Phượng",
+    "ward": "Liên Trung"
+  },
+  "Hà Nội_Đan Phượng_Phùng": {
+    "lat": 21.0911256,
+    "lng": 105.676439,
+    "province": "Hà Nội",
+    "district": "Đan Phượng",
+    "ward": "Phùng"
+  },
+  "Hà Nội_Đan Phượng_Phương Đình": {
+    "lat": 21.1136496,
+    "lng": 105.6632644,
+    "province": "Hà Nội",
+    "district": "Đan Phượng",
+    "ward": "Phương Đình"
+  },
+  "Hà Nội_Đan Phượng_Song Phượng": {
+    "lat": 21.0766174,
+    "lng": 105.672688,
+    "province": "Hà Nội",
+    "district": "Đan Phượng",
+    "ward": "Song Phượng"
+  },
+  "Hà Nội_Đan Phượng_Trung Châu": null,
+  "Hà Nội_Đan Phượng_Tân Hội": {
+    "lat": 21.0903497,
+    "lng": 105.6847287,
+    "province": "Hà Nội",
+    "district": "Đan Phượng",
+    "ward": "Tân Hội"
+  },
+  "Hà Nội_Đan Phượng_Tân Lập": {
+    "lat": 21.088061,
+    "lng": 105.7162577,
+    "province": "Hà Nội",
+    "district": "Đan Phượng",
+    "ward": "Tân Lập"
+  },
+  "Hà Nội_Đan Phượng_Đan Phượng": {
+    "lat": 21.0966474,
+    "lng": 105.6727591,
+    "province": "Hà Nội",
+    "district": "Đan Phượng",
+    "ward": "Đan Phượng"
+  },
+  "Hà Nội_Đan Phượng_Đồng Tháp": {
+    "lat": 21.0835467,
+    "lng": 105.6517374,
+    "province": "Hà Nội",
+    "district": "Đan Phượng",
+    "ward": "Đồng Tháp"
+  },
+  "Hà Nội_Đông Anh_Bắc Hồng": null,
+  "Hà Nội_Đông Anh_Cổ Loa": {
+    "lat": 21.1333403,
+    "lng": 105.8734367,
+    "province": "Hà Nội",
+    "district": "Đông Anh",
+    "ward": "Cổ Loa"
+  },
+  "Hà Nội_Đông Anh_Dục Tú": {
+    "lat": 21.1117148,
+    "lng": 105.8767858,
+    "province": "Hà Nội",
+    "district": "Đông Anh",
+    "ward": "Dục Tú"
+  },
+  "Hà Nội_Đông Anh_Hải Bối": null,
+  "Hà Nội_Đông Anh_Kim Chung": {
+    "lat": 21.11569,
+    "lng": 105.779028,
+    "province": "Hà Nội",
+    "district": "Đông Anh",
+    "ward": "Kim Chung"
+  },
+  "Hà Nội_Đông Anh_Kim Nỗ": {
+    "lat": 21.11569,
+    "lng": 105.779028,
+    "province": "Hà Nội",
+    "district": "Đông Anh",
+    "ward": "Kim Nỗ"
+  },
+  "Hà Nội_Đông Anh_Liên Hà": {
+    "lat": 21.1446763,
+    "lng": 105.896924,
+    "province": "Hà Nội",
+    "district": "Đông Anh",
+    "ward": "Liên Hà"
+  },
+  "Hà Nội_Đông Anh_Mai Lâm": {
+    "lat": 21.091525,
+    "lng": 105.897001,
+    "province": "Hà Nội",
+    "district": "Đông Anh",
+    "ward": "Mai Lâm"
+  },
+  "Hà Nội_Đông Anh_Nam Hồng": null,
+  "Hà Nội_Đông Anh_Nguyên Khê": {
+    "lat": 21.1702673,
+    "lng": 105.8332871,
+    "province": "Hà Nội",
+    "district": "Đông Anh",
+    "ward": "Nguyên Khê"
+  },
+  "Hà Nội_Đông Anh_Thụy Lâm": null,
+  "Hà Nội_Đông Anh_Tiên Dương": null,
+  "Hà Nội_Đông Anh_Tàm Xá": {
+    "lat": 21.0972061,
+    "lng": 105.8336595,
+    "province": "Hà Nội",
+    "district": "Đông Anh",
+    "ward": "Tàm Xá"
+  },
+  "Hà Nội_Đông Anh_Uy Nỗ": {
+    "lat": 21.1404601,
+    "lng": 105.8478194,
+    "province": "Hà Nội",
+    "district": "Đông Anh",
+    "ward": "Uy Nỗ"
+  },
+  "Hà Nội_Đông Anh_Việt Hùng": {
+    "lat": 21.171026,
+    "lng": 105.8468758,
+    "province": "Hà Nội",
+    "district": "Đông Anh",
+    "ward": "Việt Hùng"
+  },
+  "Hà Nội_Đông Anh_Vân Hà": {
+    "lat": 21.1475157,
+    "lng": 105.8748728,
+    "province": "Hà Nội",
+    "district": "Đông Anh",
+    "ward": "Vân Hà"
+  },
+  "Hà Nội_Đông Anh_Vân Nội": {
+    "lat": 21.1475157,
+    "lng": 105.8748728,
+    "province": "Hà Nội",
+    "district": "Đông Anh",
+    "ward": "Vân Nội"
+  },
+  "Hà Nội_Đông Anh_Võng La": {
+    "lat": 21.11569,
+    "lng": 105.779028,
+    "province": "Hà Nội",
+    "district": "Đông Anh",
+    "ward": "Võng La"
+  },
+  "Hà Nội_Đông Anh_Vĩnh Ngọc": {
+    "lat": 21.1152806,
+    "lng": 105.8251653,
+    "province": "Hà Nội",
+    "district": "Đông Anh",
+    "ward": "Vĩnh Ngọc"
+  },
+  "Hà Nội_Đông Anh_Xuân Canh": {
+    "lat": 21.0933099,
+    "lng": 105.8521265,
+    "province": "Hà Nội",
+    "district": "Đông Anh",
+    "ward": "Xuân Canh"
+  },
+  "Hà Nội_Đông Anh_Xuân Nộn": {
+    "lat": 21.087664,
+    "lng": 105.8508686,
+    "province": "Hà Nội",
+    "district": "Đông Anh",
+    "ward": "Xuân Nộn"
+  },
+  "Hà Nội_Đông Anh_Đông Anh": {
+    "lat": 21.091525,
+    "lng": 105.897001,
+    "province": "Hà Nội",
+    "district": "Đông Anh",
+    "ward": "Đông Anh"
+  },
+  "Hà Nội_Đông Anh_Đông Hội": {
+    "lat": 21.0820006,
+    "lng": 105.873245,
+    "province": "Hà Nội",
+    "district": "Đông Anh",
+    "ward": "Đông Hội"
+  },
+  "Hà Nội_Đông Anh_Đại Mạch": {
+    "lat": 21.11569,
+    "lng": 105.779028,
+    "province": "Hà Nội",
+    "district": "Đông Anh",
+    "ward": "Đại Mạch"
+  },
+  "Hà Nội_Đống Đa_Cát Linh": {
+    "lat": 21.0283804,
+    "lng": 105.8272765,
+    "province": "Hà Nội",
+    "district": "Đống Đa",
+    "ward": "Cát Linh"
+  },
+  "Hà Nội_Đống Đa_Hàng Bột": {
+    "lat": 21.0246146,
+    "lng": 105.8322359,
+    "province": "Hà Nội",
+    "district": "Đống Đa",
+    "ward": "Hàng Bột"
+  },
+  "Hà Nội_Đống Đa_Khâm Thiên": {
+    "lat": 21.0188114,
+    "lng": 105.8344813,
+    "province": "Hà Nội",
+    "district": "Đống Đa",
+    "ward": "Khâm Thiên"
+  },
+  "Hà Nội_Đống Đa_Khương Thượng": {
+    "lat": 21.0002272,
+    "lng": 105.8330423,
+    "province": "Hà Nội",
+    "district": "Đống Đa",
+    "ward": "Khương Thượng"
+  },
+  "Hà Nội_Đống Đa_Kim Liên": {
+    "lat": 21.0002272,
+    "lng": 105.8330423,
+    "province": "Hà Nội",
+    "district": "Đống Đa",
+    "ward": "Kim Liên"
+  },
+  "Hà Nội_Đống Đa_Láng Hạ": {
+    "lat": 21.0195344,
+    "lng": 105.8074078,
+    "province": "Hà Nội",
+    "district": "Đống Đa",
+    "ward": "Láng Hạ"
+  },
+  "Hà Nội_Đống Đa_Láng Thượng": {
+    "lat": 21.0225728,
+    "lng": 105.8062739,
+    "province": "Hà Nội",
+    "district": "Đống Đa",
+    "ward": "Láng Thượng"
+  },
+  "Hà Nội_Đống Đa_Nam Đồng": {
+    "lat": 21.017466,
+    "lng": 105.8267601,
+    "province": "Hà Nội",
+    "district": "Đống Đa",
+    "ward": "Nam Đồng"
+  },
+  "Hà Nội_Đống Đa_Phương Liên - Trung Tự": {
+    "lat": 21.0094305,
+    "lng": 105.8378355,
+    "province": "Hà Nội",
+    "district": "Đống Đa",
+    "ward": "Phương Liên - Trung Tự"
+  },
+  "Hà Nội_Đống Đa_Phương Mai": {
+    "lat": 21.003356,
+    "lng": 105.8366179,
+    "province": "Hà Nội",
+    "district": "Đống Đa",
+    "ward": "Phương Mai"
+  },
+  "Hà Nội_Đống Đa_Quang Trung": {
+    "lat": 21.0075604,
+    "lng": 105.8290798,
+    "province": "Hà Nội",
+    "district": "Đống Đa",
+    "ward": "Quang Trung"
+  },
+  "Hà Nội_Đống Đa_Thịnh Quang": {
+    "lat": 21.0108598,
+    "lng": 105.8134958,
+    "province": "Hà Nội",
+    "district": "Đống Đa",
+    "ward": "Thịnh Quang"
+  },
+  "Hà Nội_Đống Đa_Thổ Quan": {
+    "lat": 21.0154565,
+    "lng": 105.8333708,
+    "province": "Hà Nội",
+    "district": "Đống Đa",
+    "ward": "Thổ Quan"
+  },
+  "Hà Nội_Đống Đa_Trung Liệt": {
+    "lat": 21.0113796,
+    "lng": 105.82232,
+    "province": "Hà Nội",
+    "district": "Đống Đa",
+    "ward": "Trung Liệt"
+  },
+  "Hà Nội_Đống Đa_Văn Chương": null,
+  "Hà Nội_Đống Đa_Ô Chợ Dừa": {
+    "lat": 21.0228123,
+    "lng": 105.8260657,
+    "province": "Hà Nội",
+    "district": "Đống Đa",
+    "ward": "Ô Chợ Dừa"
+  },
+  "Hà Nội_Ứng Hòa_Phương Tú": null,
+  "Hà Nội_Ứng Hòa_Vân Đình": {
+    "lat": 20.7255813,
+    "lng": 105.7740191,
+    "province": "Hà Nội",
+    "district": "Ứng Hòa",
+    "ward": "Vân Đình"
+  },
+  "Hà Tĩnh_Hà Tĩnh_Hà Huy Tập": {
+    "lat": 18.3087358,
+    "lng": 105.8849118,
+    "province": "Hà Tĩnh",
+    "district": "Hà Tĩnh",
+    "ward": "Hà Huy Tập"
+  },
+  "Hà Tĩnh_Hà Tĩnh_Thạch Trung": {
+    "lat": 18.3610819,
+    "lng": 105.8867912,
+    "province": "Hà Tĩnh",
+    "district": "Hà Tĩnh",
+    "ward": "Thạch Trung"
+  },
+  "Hà Tĩnh_Hà Tĩnh_Đại Nài": {
+    "lat": 18.3235531,
+    "lng": 105.9146084,
+    "province": "Hà Tĩnh",
+    "district": "Hà Tĩnh",
+    "ward": "Đại Nài"
+  },
+  "Hà Tĩnh_Kỳ Anh_Kỳ Xuân": null,
+  "Hà Tĩnh_Nghi Xuân_Xuân Hồng": null,
+  "Hà Tĩnh_Nghi Xuân_Xuân Thành": null,
+  "Hà Tĩnh_Thạch Hà_Thạch Xuân": {
+    "lat": 18.3040384,
+    "lng": 105.8615944,
+    "province": "Hà Tĩnh",
+    "district": "Thạch Hà",
+    "ward": "Thạch Xuân"
+  },
+  "Hòa Bình_Cao Phong_Thu Phong": null,
+  "Hòa Bình_Hòa Bình_Dân Chủ": {
+    "lat": 11.0852921,
+    "lng": 106.6775476,
+    "province": "Hòa Bình",
+    "district": "Hòa Bình",
+    "ward": "Dân Chủ"
+  },
+  "Hòa Bình_Hòa Bình_Kỳ Sơn": {
+    "lat": 20.8897817,
+    "lng": 105.3522867,
+    "province": "Hòa Bình",
+    "district": "Hòa Bình",
+    "ward": "Kỳ Sơn"
+  },
+  "Hòa Bình_Kim Bôi_Bình Sơn": null,
+  "Hòa Bình_Kim Bôi_Kim Bôi": null,
+  "Hòa Bình_Kim Bôi_Mi Hòa": null,
+  "Hòa Bình_Kim Bôi_Nam Thượng": null,
+  "Hòa Bình_Kim Bôi_Vĩnh Đồng": null,
+  "Hòa Bình_Lương Sơn_Cao Sơn": {
+    "lat": 20.9592186,
+    "lng": 105.7391236,
+    "province": "Hòa Bình",
+    "district": "Lương Sơn",
+    "ward": "Cao Sơn"
+  },
+  "Hòa Bình_Lương Sơn_Cư Yên": null,
+  "Hòa Bình_Lương Sơn_Hòa Sơn": null,
+  "Hòa Bình_Lương Sơn_Liên Sơn": null,
+  "Hòa Bình_Lương Sơn_Lâm Sơn": null,
+  "Hòa Bình_Lương Sơn_Lương Sơn": null,
+  "Hòa Bình_Lương Sơn_Nhuận Trạch": null,
+  "Hòa Bình_Lương Sơn_Thanh Sơn": null,
+  "Hòa Bình_Lương Sơn_Tân Vinh": null,
+  "Hòa Bình_Lạc Thủy_Ba Hàng Đồi": null,
+  "Hòa Bình_Lạc Thủy_Chi Nê": null,
+  "Hòa Bình_Lạc Thủy_Phú Nghĩa": null,
+  "Hòa Bình_Lạc Thủy_Phú Thành": null,
+  "Hòa Bình_Lạc Thủy_Đồng Tâm": null,
+  "Hòa Bình_Yên Thủy_Hàng Trạm": null,
+  "Hòa Bình_Đà Bắc_Đà Bắc": null,
+  "Hưng Yên_Hưng Yên_An Tảo": {
+    "lat": 20.6676445,
+    "lng": 106.0580705,
+    "province": "Hưng Yên",
+    "district": "Hưng Yên",
+    "ward": "An Tảo"
+  },
+  "Hưng Yên_Hưng Yên_Minh Khai": {
+    "lat": 20.6487682,
+    "lng": 106.0497379,
+    "province": "Hưng Yên",
+    "district": "Hưng Yên",
+    "ward": "Minh Khai"
+  },
+  "Hưng Yên_Hưng Yên_Quảng Châu": {
+    "lat": 20.6276434,
+    "lng": 106.060295,
+    "province": "Hưng Yên",
+    "district": "Hưng Yên",
+    "ward": "Quảng Châu"
+  },
+  "Hưng Yên_Khoái Châu_Tân Dân": null,
+  "Hưng Yên_Khoái Châu_Đông Ninh": {
+    "lat": 20.82215,
+    "lng": 105.9369532,
+    "province": "Hưng Yên",
+    "district": "Khoái Châu",
+    "ward": "Đông Ninh"
+  },
+  "Hưng Yên_Khoái Châu_Đông Tảo": null,
+  "Hưng Yên_Kim Động_Mai Động": null,
+  "Hưng Yên_Kim Động_Vĩnh Xá": {
+    "lat": 20.7541319,
+    "lng": 105.9878878,
+    "province": "Hưng Yên",
+    "district": "Kim Động",
+    "ward": "Vĩnh Xá"
+  },
+  "Hưng Yên_Mỹ Hào_Dương Quang": null,
+  "Hưng Yên_Mỹ Hào_Hòa Phong": null,
+  "Hưng Yên_Mỹ Hào_Minh Đức": null,
+  "Hưng Yên_Mỹ Hào_Nhân Hòa": null,
+  "Hưng Yên_Phù Cừ_Minh Tân": null,
+  "Hưng Yên_Phù Cừ_Nguyên Hòa": null,
+  "Hưng Yên_Phù Cừ_Phan Sào Nam": null,
+  "Hưng Yên_Phù Cừ_Đình Cao": null,
+  "Hưng Yên_Văn Giang_Cửu Cao": {
+    "lat": 20.9573166,
+    "lng": 105.9513785,
+    "province": "Hưng Yên",
+    "district": "Văn Giang",
+    "ward": "Cửu Cao"
+  },
+  "Hưng Yên_Văn Giang_Liên Nghĩa": {
+    "lat": 20.9102713,
+    "lng": 105.9307552,
+    "province": "Hưng Yên",
+    "district": "Văn Giang",
+    "ward": "Liên Nghĩa"
+  },
+  "Hưng Yên_Văn Giang_Long Hưng": {
+    "lat": 20.940745,
+    "lng": 105.9583584,
+    "province": "Hưng Yên",
+    "district": "Văn Giang",
+    "ward": "Long Hưng"
+  },
+  "Hưng Yên_Văn Giang_Mễ Sở": null,
+  "Hưng Yên_Văn Giang_Nghĩa Trụ": {
+    "lat": 20.940745,
+    "lng": 105.9583584,
+    "province": "Hưng Yên",
+    "district": "Văn Giang",
+    "ward": "Nghĩa Trụ"
+  },
+  "Hưng Yên_Văn Giang_Phụng Công": {
+    "lat": 20.9465169,
+    "lng": 105.927172,
+    "province": "Hưng Yên",
+    "district": "Văn Giang",
+    "ward": "Phụng Công"
+  },
+  "Hưng Yên_Văn Giang_Thắng Lợi": null,
+  "Hưng Yên_Văn Giang_Tân Tiến": {
+    "lat": 20.9223065,
+    "lng": 105.9626265,
+    "province": "Hưng Yên",
+    "district": "Văn Giang",
+    "ward": "Tân Tiến"
+  },
+  "Hưng Yên_Văn Giang_Văn Giang": {
+    "lat": 20.9465169,
+    "lng": 105.927172,
+    "province": "Hưng Yên",
+    "district": "Văn Giang",
+    "ward": "Văn Giang"
+  },
+  "Hưng Yên_Văn Giang_Vĩnh Khúc": null,
+  "Hưng Yên_Văn Giang_Xuân Quan": null,
+  "Hưng Yên_Văn Lâm_Chỉ Đạo": null,
+  "Hưng Yên_Văn Lâm_Trưng Trắc": null,
+  "Hưng Yên_Văn Lâm_Tân Quang": null,
+  "Hưng Yên_Văn Lâm_Việt Hưng": {
+    "lat": 20.6742439,
+    "lng": 106.0586695,
+    "province": "Hưng Yên",
+    "district": "Văn Lâm",
+    "ward": "Việt Hưng"
+  },
+  "Hưng Yên_Yên Mỹ_Liêu Xá": {
+    "lat": 20.9117428,
+    "lng": 106.0645058,
+    "province": "Hưng Yên",
+    "district": "Yên Mỹ",
+    "ward": "Liêu Xá"
+  },
+  "Hưng Yên_Yên Mỹ_Trung Hòa": {
+    "lat": 22.3393483,
+    "lng": 104.875181,
+    "province": "Hưng Yên",
+    "district": "Yên Mỹ",
+    "ward": "Trung Hòa"
+  },
+  "Hưng Yên_Yên Mỹ_Đồng Than": null,
+  "Hưng Yên_Ân Thi_Bãi Sậy": {
+    "lat": 20.8500863,
+    "lng": 106.1206611,
+    "province": "Hưng Yên",
+    "district": "Ân Thi",
+    "ward": "Bãi Sậy"
+  },
+  "Hưng Yên_Ân Thi_Cẩm Ninh": null,
+  "Hưng Yên_Ân Thi_Ân Thi": {
+    "lat": 20.8162285,
+    "lng": 106.0895516,
+    "province": "Hưng Yên",
+    "district": "Ân Thi",
+    "ward": "Ân Thi"
+  },
+  "Hải Dương_Chí Linh_Sao Đỏ": {
+    "lat": 21.106905,
+    "lng": 106.3841418,
+    "province": "Hải Dương",
+    "district": "Chí Linh",
+    "ward": "Sao Đỏ"
+  },
+  "Hải Dương_Cẩm Giàng_Đức Chính": null,
+  "Hải Dương_Hải Dương_Cẩm Thượng": {
+    "lat": 20.9502984,
+    "lng": 106.3183021,
+    "province": "Hải Dương",
+    "district": "Hải Dương",
+    "ward": "Cẩm Thượng"
+  },
+  "Hải Dương_Hải Dương_Ngọc Châu": {
+    "lat": 20.9369116,
+    "lng": 106.3475703,
+    "province": "Hải Dương",
+    "district": "Hải Dương",
+    "ward": "Ngọc Châu"
+  },
+  "Hải Dương_Hải Dương_Thanh Bình": {
+    "lat": 20.9325827,
+    "lng": 106.3035392,
+    "province": "Hải Dương",
+    "district": "Hải Dương",
+    "ward": "Thanh Bình"
+  },
+  "Hải Dương_Hải Dương_Tân Bình": {
+    "lat": 20.9252073,
+    "lng": 106.3138389,
+    "province": "Hải Dương",
+    "district": "Hải Dương",
+    "ward": "Tân Bình"
+  },
+  "Hải Dương_Hải Dương_Tân Hưng": {
+    "lat": 20.9316514,
+    "lng": 106.3385955,
+    "province": "Hải Dương",
+    "district": "Hải Dương",
+    "ward": "Tân Hưng"
+  },
+  "Hải Dương_Hải Dương_Việt Hòa": {
+    "lat": 20.9491561,
+    "lng": 106.2603634,
+    "province": "Hải Dương",
+    "district": "Hải Dương",
+    "ward": "Việt Hòa"
+  },
+  "Hải Dương_Kim Thành_Kim Anh": null,
+  "Hải Dương_Kinh Môn_An Lưu": {
+    "lat": 20.9749511,
+    "lng": 106.5281887,
+    "province": "Hải Dương",
+    "district": "Kinh Môn",
+    "ward": "An Lưu"
+  },
+  "Hải Dương_Nam Sách_Quốc Tuấn": null,
+  "Hải Dương_Tứ Kỳ_Quang Trung": null,
+  "Hải Phòng_An Dương_An Hải": {
+    "lat": 20.8750768,
+    "lng": 106.5776592,
+    "province": "Hải Phòng",
+    "district": "An Dương",
+    "ward": "An Hải"
+  },
+  "Hải Phòng_An Dương_An Đồng": {
+    "lat": 20.832584,
+    "lng": 106.6805654,
+    "province": "Hải Phòng",
+    "district": "An Dương",
+    "ward": "An Đồng"
+  },
+  "Hải Phòng_An Dương_Hồng Thái": {
+    "lat": 21.1129177,
+    "lng": 106.3928488,
+    "province": "Hải Phòng",
+    "district": "An Dương",
+    "ward": "Hồng Thái"
+  },
+  "Hải Phòng_An Dương_Lê Lợi": {
+    "lat": 20.8637803,
+    "lng": 106.5911339,
+    "province": "Hải Phòng",
+    "district": "An Dương",
+    "ward": "Lê Lợi"
+  },
+  "Hải Phòng_An Dương_Nam Sơn": {
+    "lat": 20.8777602,
+    "lng": 106.6129398,
+    "province": "Hải Phòng",
+    "district": "An Dương",
+    "ward": "Nam Sơn"
+  },
+  "Hải Phòng_An Dương_Tân Tiến": {
+    "lat": 20.8975372,
+    "lng": 106.5771324,
+    "province": "Hải Phòng",
+    "district": "An Dương",
+    "ward": "Tân Tiến"
+  },
+  "Hải Phòng_An Dương_Đồng Thái": {
+    "lat": 20.8498411,
+    "lng": 106.6278953,
+    "province": "Hải Phòng",
+    "district": "An Dương",
+    "ward": "Đồng Thái"
+  },
+  "Hải Phòng_An Lão_An Lão": {
+    "lat": 20.8228135,
+    "lng": 106.5511435,
+    "province": "Hải Phòng",
+    "district": "An Lão",
+    "ward": "An Lão"
+  },
+  "Hải Phòng_An Lão_An Thắng": {
+    "lat": 20.8198386,
+    "lng": 106.5787,
+    "province": "Hải Phòng",
+    "district": "An Lão",
+    "ward": "An Thắng"
+  },
+  "Hải Phòng_An Lão_An Tiến": {
+    "lat": 20.830978,
+    "lng": 106.5560531,
+    "province": "Hải Phòng",
+    "district": "An Lão",
+    "ward": "An Tiến"
+  },
+  "Hải Phòng_An Lão_Bát Trang": null,
+  "Hải Phòng_An Lão_Chiến Thắng": null,
+  "Hải Phòng_An Lão_Mỹ Đức": null,
+  "Hải Phòng_An Lão_Quang Hưng": null,
+  "Hải Phòng_An Lão_Quang Trung": null,
+  "Hải Phòng_An Lão_Quốc Tuấn": null,
+  "Hải Phòng_An Lão_Thái Sơn": {
+    "lat": 20.7918227,
+    "lng": 106.5963575,
+    "province": "Hải Phòng",
+    "district": "An Lão",
+    "ward": "Thái Sơn"
+  },
+  "Hải Phòng_An Lão_Trường Sơn": {
+    "lat": 20.813484,
+    "lng": 106.597514,
+    "province": "Hải Phòng",
+    "district": "An Lão",
+    "ward": "Trường Sơn"
+  },
+  "Hải Phòng_An Lão_Trường Thọ": {
+    "lat": 20.5914305,
+    "lng": 106.0683988,
+    "province": "Hải Phòng",
+    "district": "An Lão",
+    "ward": "Trường Thọ"
+  },
+  "Hải Phòng_An Lão_Tân Dân": {
+    "lat": 20.8019355,
+    "lng": 106.5774249,
+    "province": "Hải Phòng",
+    "district": "An Lão",
+    "ward": "Tân Dân"
+  },
+  "Hải Phòng_Cát Hải_Cát Bà": {
+    "lat": 20.7239613,
+    "lng": 107.0497823,
+    "province": "Hải Phòng",
+    "district": "Cát Hải",
+    "ward": "Cát Bà"
+  },
+  "Hải Phòng_Cát Hải_Nghĩa Lộ": null,
+  "Hải Phòng_Dương Kinh_Anh Dũng": null,
+  "Hải Phòng_Dương Kinh_Hòa Nghĩa": {
+    "lat": 20.7770914,
+    "lng": 106.7194967,
+    "province": "Hải Phòng",
+    "district": "Dương Kinh",
+    "ward": "Hòa Nghĩa"
+  },
+  "Hải Phòng_Dương Kinh_Hưng Đạo": null,
+  "Hải Phòng_Dương Kinh_Hải Thành": {
+    "lat": 20.7941148,
+    "lng": 106.7218155,
+    "province": "Hải Phòng",
+    "district": "Dương Kinh",
+    "ward": "Hải Thành"
+  },
+  "Hải Phòng_Dương Kinh_Tân Thành": {
+    "lat": 20.7525338,
+    "lng": 106.757971,
+    "province": "Hải Phòng",
+    "district": "Dương Kinh",
+    "ward": "Tân Thành"
+  },
+  "Hải Phòng_Dương Kinh_Đa Phúc": null,
+  "Hải Phòng_Hải An_Cát Bi": {
+    "lat": 20.8219685,
+    "lng": 106.717861,
+    "province": "Hải Phòng",
+    "district": "Hải An",
+    "ward": "Cát Bi"
+  },
+  "Hải Phòng_Hải An_Nam Hải": {
+    "lat": 20.8297733,
+    "lng": 106.7340073,
+    "province": "Hải Phòng",
+    "district": "Hải An",
+    "ward": "Nam Hải"
+  },
+  "Hải Phòng_Hải An_Thành Tô": {
+    "lat": 20.8230121,
+    "lng": 106.7381893,
+    "province": "Hải Phòng",
+    "district": "Hải An",
+    "ward": "Thành Tô"
+  },
+  "Hải Phòng_Hải An_Tràng Cát": {
+    "lat": 20.7979831,
+    "lng": 106.7530641,
+    "province": "Hải Phòng",
+    "district": "Hải An",
+    "ward": "Tràng Cát"
+  },
+  "Hải Phòng_Hải An_Đông Hải 1": {
+    "lat": 20.8444279,
+    "lng": 106.7270256,
+    "province": "Hải Phòng",
+    "district": "Hải An",
+    "ward": "Đông Hải 1"
+  },
+  "Hải Phòng_Hải An_Đông Hải 2": {
+    "lat": 20.8444279,
+    "lng": 106.7270256,
+    "province": "Hải Phòng",
+    "district": "Hải An",
+    "ward": "Đông Hải 2"
+  },
+  "Hải Phòng_Hải An_Đằng Hải": {
+    "lat": 20.8369385,
+    "lng": 106.7221488,
+    "province": "Hải Phòng",
+    "district": "Hải An",
+    "ward": "Đằng Hải"
+  },
+  "Hải Phòng_Hải An_Đằng Lâm": {
+    "lat": 20.8376254,
+    "lng": 106.7085308,
+    "province": "Hải Phòng",
+    "district": "Hải An",
+    "ward": "Đằng Lâm"
+  },
+  "Hải Phòng_Hồng Bàng_An Hồng": {
+    "lat": 20.8626908,
+    "lng": 106.6803016,
+    "province": "Hải Phòng",
+    "district": "Hồng Bàng",
+    "ward": "An Hồng"
+  },
+  "Hải Phòng_Hồng Bàng_Hoàng Văn Thụ": {
+    "lat": 20.85952,
+    "lng": 106.681922,
+    "province": "Hải Phòng",
+    "district": "Hồng Bàng",
+    "ward": "Hoàng Văn Thụ"
+  },
+  "Hải Phòng_Hồng Bàng_Hùng Vương": {
+    "lat": 20.8737471,
+    "lng": 106.6366708,
+    "province": "Hải Phòng",
+    "district": "Hồng Bàng",
+    "ward": "Hùng Vương"
+  },
+  "Hải Phòng_Hồng Bàng_Minh Khai": {
+    "lat": 20.8617937,
+    "lng": 106.6846102,
+    "province": "Hải Phòng",
+    "district": "Hồng Bàng",
+    "ward": "Minh Khai"
+  },
+  "Hải Phòng_Hồng Bàng_Phan Bội Châu": {
+    "lat": 20.8561735,
+    "lng": 106.6753175,
+    "province": "Hải Phòng",
+    "district": "Hồng Bàng",
+    "ward": "Phan Bội Châu"
+  },
+  "Hải Phòng_Hồng Bàng_Quán Toan": null,
+  "Hải Phòng_Hồng Bàng_Sở Dầu": {
+    "lat": 20.8712678,
+    "lng": 106.6554568,
+    "province": "Hải Phòng",
+    "district": "Hồng Bàng",
+    "ward": "Sở Dầu"
+  },
+  "Hải Phòng_Hồng Bàng_Thượng Lý": {
+    "lat": 20.8639905,
+    "lng": 106.6660979,
+    "province": "Hải Phòng",
+    "district": "Hồng Bàng",
+    "ward": "Thượng Lý"
+  },
+  "Hải Phòng_Kiến An_Bắc Sơn": {
+    "lat": 20.8236987,
+    "lng": 106.6430534,
+    "province": "Hải Phòng",
+    "district": "Kiến An",
+    "ward": "Bắc Sơn"
+  },
+  "Hải Phòng_Kiến An_Nam Sơn": null,
+  "Hải Phòng_Kiến An_Trần Thành Ngọ": {
+    "lat": 20.8088203,
+    "lng": 106.6245678,
+    "province": "Hải Phòng",
+    "district": "Kiến An",
+    "ward": "Trần Thành Ngọ"
+  },
+  "Hải Phòng_Kiến An_Văn Đẩu": null,
+  "Hải Phòng_Kiến An_Đồng Hòa": {
+    "lat": 20.8184048,
+    "lng": 106.6630467,
+    "province": "Hải Phòng",
+    "district": "Kiến An",
+    "ward": "Đồng Hòa"
+  },
+  "Hải Phòng_Kiến Thụy_Hữu Bằng": {
+    "lat": 20.7584841,
+    "lng": 106.6692571,
+    "province": "Hải Phòng",
+    "district": "Kiến Thụy",
+    "ward": "Hữu Bằng"
+  },
+  "Hải Phòng_Kiến Thụy_Minh Tân": null,
+  "Hải Phòng_Kiến Thụy_Ngũ Phúc": null,
+  "Hải Phòng_Kiến Thụy_Thanh Sơn": {
+    "lat": 20.7470896,
+    "lng": 106.6661202,
+    "province": "Hải Phòng",
+    "district": "Kiến Thụy",
+    "ward": "Thanh Sơn"
+  },
+  "Hải Phòng_Kiến Thụy_Thuận Thiên": null,
+  "Hải Phòng_Kiến Thụy_Tân Phong": null,
+  "Hải Phòng_Kiến Thụy_Tân Trào": null,
+  "Hải Phòng_Kiến Thụy_Tú Sơn": null,
+  "Hải Phòng_Kiến Thụy_Đoàn Xá": null,
+  "Hải Phòng_Kiến Thụy_Đông Phương": null,
+  "Hải Phòng_Kiến Thụy_Đại Hợp": null,
+  "Hải Phòng_Kiến Thụy_Đại Đồng": null,
+  "Hải Phòng_Lê Chân_An Biên": {
+    "lat": 20.8532392,
+    "lng": 106.6794384,
+    "province": "Hải Phòng",
+    "district": "Lê Chân",
+    "ward": "An Biên"
+  },
+  "Hải Phòng_Lê Chân_An Dương": {
+    "lat": 20.8493658,
+    "lng": 106.6712672,
+    "province": "Hải Phòng",
+    "district": "Lê Chân",
+    "ward": "An Dương"
+  },
+  "Hải Phòng_Lê Chân_Dư Hàng Kênh": {
+    "lat": 20.8401101,
+    "lng": 106.6803737,
+    "province": "Hải Phòng",
+    "district": "Lê Chân",
+    "ward": "Dư Hàng Kênh"
+  },
+  "Hải Phòng_Lê Chân_Hàng Kênh": {
+    "lat": 20.8505452,
+    "lng": 106.6852714,
+    "province": "Hải Phòng",
+    "district": "Lê Chân",
+    "ward": "Hàng Kênh"
+  },
+  "Hải Phòng_Lê Chân_Kênh Dương": {
+    "lat": 20.8328057,
+    "lng": 106.6877583,
+    "province": "Hải Phòng",
+    "district": "Lê Chân",
+    "ward": "Kênh Dương"
+  },
+  "Hải Phòng_Lê Chân_Trần Nguyên Hãn": {
+    "lat": 20.849018,
+    "lng": 106.671559,
+    "province": "Hải Phòng",
+    "district": "Lê Chân",
+    "ward": "Trần Nguyên Hãn"
+  },
+  "Hải Phòng_Lê Chân_Vĩnh Niệm": {
+    "lat": 20.8315814,
+    "lng": 106.6767957,
+    "province": "Hải Phòng",
+    "district": "Lê Chân",
+    "ward": "Vĩnh Niệm"
+  },
+  "Hải Phòng_Ngô Quyền_Cầu Tre": {
+    "lat": 20.861049,
+    "lng": 106.704976,
+    "province": "Hải Phòng",
+    "district": "Ngô Quyền",
+    "ward": "Cầu Tre"
+  },
+  "Hải Phòng_Ngô Quyền_Cầu Đất": {
+    "lat": 20.861049,
+    "lng": 106.704976,
+    "province": "Hải Phòng",
+    "district": "Ngô Quyền",
+    "ward": "Cầu Đất"
+  },
+  "Hải Phòng_Ngô Quyền_Gia Viên": {
+    "lat": 20.8339165,
+    "lng": 106.6976458,
+    "province": "Hải Phòng",
+    "district": "Ngô Quyền",
+    "ward": "Gia Viên"
+  },
+  "Hải Phòng_Ngô Quyền_Lạch Tray": {
+    "lat": 20.8517678,
+    "lng": 106.6887489,
+    "province": "Hải Phòng",
+    "district": "Ngô Quyền",
+    "ward": "Lạch Tray"
+  },
+  "Hải Phòng_Ngô Quyền_Máy Chai": {
+    "lat": 20.8712249,
+    "lng": 106.7032706,
+    "province": "Hải Phòng",
+    "district": "Ngô Quyền",
+    "ward": "Máy Chai"
+  },
+  "Hải Phòng_Ngô Quyền_Vạn Mỹ": {
+    "lat": 20.8610422,
+    "lng": 106.7102831,
+    "province": "Hải Phòng",
+    "district": "Ngô Quyền",
+    "ward": "Vạn Mỹ"
+  },
+  "Hải Phòng_Ngô Quyền_Đông Khê": {
+    "lat": 20.8568368,
+    "lng": 106.7079162,
+    "province": "Hải Phòng",
+    "district": "Ngô Quyền",
+    "ward": "Đông Khê"
+  },
+  "Hải Phòng_Ngô Quyền_Đằng Giang": null,
+  "Hải Phòng_Thủy Nguyên_An Lư": {
+    "lat": 20.8856025,
+    "lng": 106.7076024,
+    "province": "Hải Phòng",
+    "district": "Thủy Nguyên",
+    "ward": "An Lư"
+  },
+  "Hải Phòng_Thủy Nguyên_Dương Quan": {
+    "lat": 20.8997224,
+    "lng": 106.6906847,
+    "province": "Hải Phòng",
+    "district": "Thủy Nguyên",
+    "ward": "Dương Quan"
+  },
+  "Hải Phòng_Thủy Nguyên_Hoa Động": {
+    "lat": 20.8927305,
+    "lng": 106.665663,
+    "province": "Hải Phòng",
+    "district": "Thủy Nguyên",
+    "ward": "Hoa Động"
+  },
+  "Hải Phòng_Thủy Nguyên_Hoàng Lâm": null,
+  "Hải Phòng_Thủy Nguyên_Hòa Bình": {
+    "lat": 20.8889893,
+    "lng": 106.6652926,
+    "province": "Hải Phòng",
+    "district": "Thủy Nguyên",
+    "ward": "Hòa Bình"
+  },
+  "Hải Phòng_Thủy Nguyên_Liên Xuân": null,
+  "Hải Phòng_Thủy Nguyên_Lưu Kiếm": null,
+  "Hải Phòng_Thủy Nguyên_Lập Lễ": null,
+  "Hải Phòng_Thủy Nguyên_Ninh Sơn": null,
+  "Hải Phòng_Thủy Nguyên_Phạm Ngũ Lão": null,
+  "Hải Phòng_Thủy Nguyên_Quang Trung": {
+    "lat": 20.8805049,
+    "lng": 106.6817469,
+    "province": "Hải Phòng",
+    "district": "Thủy Nguyên",
+    "ward": "Quang Trung"
+  },
+  "Hải Phòng_Thủy Nguyên_Tam Hưng": null,
+  "Hải Phòng_Thủy Nguyên_Thiên Hương": null,
+  "Hải Phòng_Thủy Nguyên_Thủy Hà": {
+    "lat": 20.915622,
+    "lng": 106.6748219,
+    "province": "Hải Phòng",
+    "district": "Thủy Nguyên",
+    "ward": "Thủy Hà"
+  },
+  "Hải Phòng_Thủy Nguyên_Thủy Đường": {
+    "lat": 20.9209768,
+    "lng": 106.6657456,
+    "province": "Hải Phòng",
+    "district": "Thủy Nguyên",
+    "ward": "Thủy Đường"
+  },
+  "Hải Phòng_Tiên Lãng_Tiên Thanh": {
+    "lat": 20.7249698,
+    "lng": 106.5309905,
+    "province": "Hải Phòng",
+    "district": "Tiên Lãng",
+    "ward": "Tiên Thanh"
+  },
+  "Hải Phòng_Vĩnh Bảo_Tân Hưng": {
+    "lat": 20.6770372,
+    "lng": 106.4620685,
+    "province": "Hải Phòng",
+    "district": "Vĩnh Bảo",
+    "ward": "Tân Hưng"
+  },
+  "Hải Phòng_Vĩnh Bảo_Vĩnh Bảo": {
+    "lat": 20.6918415,
+    "lng": 106.479352,
+    "province": "Hải Phòng",
+    "district": "Vĩnh Bảo",
+    "ward": "Vĩnh Bảo"
+  },
+  "Hải Phòng_Đồ Sơn_Bàng La": {
+    "lat": 20.7116285,
+    "lng": 106.7406596,
+    "province": "Hải Phòng",
+    "district": "Đồ Sơn",
+    "ward": "Bàng La"
+  },
+  "Hải Phòng_Đồ Sơn_Hải Sơn": {
+    "lat": 20.7161786,
+    "lng": 106.7888184,
+    "province": "Hải Phòng",
+    "district": "Đồ Sơn",
+    "ward": "Hải Sơn"
+  },
+  "Hải Phòng_Đồ Sơn_Hợp Đức": {
+    "lat": 20.7494563,
+    "lng": 106.7431683,
+    "province": "Hải Phòng",
+    "district": "Đồ Sơn",
+    "ward": "Hợp Đức"
+  },
+  "Hải Phòng_Đồ Sơn_Minh Đức": {
+    "lat": 20.736215,
+    "lng": 106.7514536,
+    "province": "Hải Phòng",
+    "district": "Đồ Sơn",
+    "ward": "Minh Đức"
+  },
+  "Hải Phòng_Đồ Sơn_Ngọc Xuyên": {
+    "lat": 20.7228648,
+    "lng": 106.7811582,
+    "province": "Hải Phòng",
+    "district": "Đồ Sơn",
+    "ward": "Ngọc Xuyên"
+  },
+  "Hải Phòng_Đồ Sơn_Vạn Hương": {
+    "lat": 20.6976082,
+    "lng": 106.7906743,
+    "province": "Hải Phòng",
+    "district": "Đồ Sơn",
+    "ward": "Vạn Hương"
+  },
+  "Hậu Giang_Châu Thành_Mái Dầm": null,
+  "Hậu Giang_Châu Thành A_Một Ngàn": null,
+  "Hậu Giang_Châu Thành A_Tân Phú Thạnh": null,
+  "Hồ Chí Minh_Bình Chánh_An Phú Tây": {
+    "lat": 10.6868002,
+    "lng": 106.5937502,
+    "province": "Hồ Chí Minh",
+    "district": "Bình Chánh",
+    "ward": "An Phú Tây"
+  },
+  "Hồ Chí Minh_Bình Chánh_Bình Chánh": {
+    "lat": 10.6637774,
+    "lng": 106.5563529,
+    "province": "Hồ Chí Minh",
+    "district": "Bình Chánh",
+    "ward": "Bình Chánh"
+  },
+  "Hồ Chí Minh_Bình Chánh_Bình Hưng": {
+    "lat": 10.7266354,
+    "lng": 106.6527599,
+    "province": "Hồ Chí Minh",
+    "district": "Bình Chánh",
+    "ward": "Bình Hưng"
+  },
+  "Hồ Chí Minh_Bình Chánh_Bình Lợi": {
+    "lat": 10.7634466,
+    "lng": 106.4947064,
+    "province": "Hồ Chí Minh",
+    "district": "Bình Chánh",
+    "ward": "Bình Lợi"
+  },
+  "Hồ Chí Minh_Bình Chánh_Hưng Long": {
+    "lat": 10.682368,
+    "lng": 106.6084538,
+    "province": "Hồ Chí Minh",
+    "district": "Bình Chánh",
+    "ward": "Hưng Long"
+  },
+  "Hồ Chí Minh_Bình Chánh_Lê Minh Xuân": {
+    "lat": 10.7693288,
+    "lng": 106.5458486,
+    "province": "Hồ Chí Minh",
+    "district": "Bình Chánh",
+    "ward": "Lê Minh Xuân"
+  },
+  "Hồ Chí Minh_Bình Chánh_Phong Phú": {
+    "lat": 10.6914498,
+    "lng": 106.6463123,
+    "province": "Hồ Chí Minh",
+    "district": "Bình Chánh",
+    "ward": "Phong Phú"
+  },
+  "Hồ Chí Minh_Bình Chánh_Phạm Văn Hai": null,
+  "Hồ Chí Minh_Bình Chánh_Tân Kiên": {
+    "lat": 10.7132485,
+    "lng": 106.5948404,
+    "province": "Hồ Chí Minh",
+    "district": "Bình Chánh",
+    "ward": "Tân Kiên"
+  },
+  "Hồ Chí Minh_Bình Chánh_Tân Nhựt": {
+    "lat": 10.68881,
+    "lng": 106.5840247,
+    "province": "Hồ Chí Minh",
+    "district": "Bình Chánh",
+    "ward": "Tân Nhựt"
+  },
+  "Hồ Chí Minh_Bình Chánh_Tân Quý Tây": {
+    "lat": 10.6591015,
+    "lng": 106.605086,
+    "province": "Hồ Chí Minh",
+    "district": "Bình Chánh",
+    "ward": "Tân Quý Tây"
+  },
+  "Hồ Chí Minh_Bình Chánh_Tân Túc": {
+    "lat": 10.6924537,
+    "lng": 106.5795023,
+    "province": "Hồ Chí Minh",
+    "district": "Bình Chánh",
+    "ward": "Tân Túc"
+  },
+  "Hồ Chí Minh_Bình Chánh_Vĩnh Lộc A": {
+    "lat": 10.8126364,
+    "lng": 106.5772559,
+    "province": "Hồ Chí Minh",
+    "district": "Bình Chánh",
+    "ward": "Vĩnh Lộc A"
+  },
+  "Hồ Chí Minh_Bình Chánh_Vĩnh Lộc B": {
+    "lat": 10.7683524,
+    "lng": 106.5651154,
+    "province": "Hồ Chí Minh",
+    "district": "Bình Chánh",
+    "ward": "Vĩnh Lộc B"
+  },
+  "Hồ Chí Minh_Bình Chánh_Đa Phước": {
+    "lat": 10.9907591,
+    "lng": 106.6649586,
+    "province": "Hồ Chí Minh",
+    "district": "Bình Chánh",
+    "ward": "Đa Phước"
+  },
+  "Hồ Chí Minh_Bình Thạnh_1": {
+    "lat": 10.7918494,
+    "lng": 106.7089907,
+    "province": "Hồ Chí Minh",
+    "district": "Bình Thạnh",
+    "ward": "1"
+  },
+  "Hồ Chí Minh_Bình Thạnh_11": {
+    "lat": 10.7927523,
+    "lng": 106.7070243,
+    "province": "Hồ Chí Minh",
+    "district": "Bình Thạnh",
+    "ward": "11"
+  },
+  "Hồ Chí Minh_Bình Thạnh_12": {
+    "lat": 10.7663942,
+    "lng": 106.6819835,
+    "province": "Hồ Chí Minh",
+    "district": "Bình Thạnh",
+    "ward": "12"
+  },
+  "Hồ Chí Minh_Bình Thạnh_13": {
+    "lat": 10.8054463,
+    "lng": 106.6990707,
+    "province": "Hồ Chí Minh",
+    "district": "Bình Thạnh",
+    "ward": "13"
+  },
+  "Hồ Chí Minh_Bình Thạnh_14": {
+    "lat": 10.7905799,
+    "lng": 106.7115903,
+    "province": "Hồ Chí Minh",
+    "district": "Bình Thạnh",
+    "ward": "14"
+  },
+  "Hồ Chí Minh_Bình Thạnh_17": {
+    "lat": 10.8111809,
+    "lng": 106.7033938,
+    "province": "Hồ Chí Minh",
+    "district": "Bình Thạnh",
+    "ward": "17"
+  },
+  "Hồ Chí Minh_Bình Thạnh_19": {
+    "lat": 10.8111809,
+    "lng": 106.7033938,
+    "province": "Hồ Chí Minh",
+    "district": "Bình Thạnh",
+    "ward": "19"
+  },
+  "Hồ Chí Minh_Bình Thạnh_2": {
+    "lat": 10.8125516,
+    "lng": 106.7059532,
+    "province": "Hồ Chí Minh",
+    "district": "Bình Thạnh",
+    "ward": "2"
+  },
+  "Hồ Chí Minh_Bình Thạnh_22": {
+    "lat": 10.8111809,
+    "lng": 106.7033938,
+    "province": "Hồ Chí Minh",
+    "district": "Bình Thạnh",
+    "ward": "22"
+  },
+  "Hồ Chí Minh_Bình Thạnh_25": {
+    "lat": 10.8111809,
+    "lng": 106.7033938,
+    "province": "Hồ Chí Minh",
+    "district": "Bình Thạnh",
+    "ward": "25"
+  },
+  "Hồ Chí Minh_Bình Thạnh_26": {
+    "lat": 10.8095607,
+    "lng": 106.712852,
+    "province": "Hồ Chí Minh",
+    "district": "Bình Thạnh",
+    "ward": "26"
+  },
+  "Hồ Chí Minh_Bình Thạnh_27": {
+    "lat": 10.8111809,
+    "lng": 106.7033938,
+    "province": "Hồ Chí Minh",
+    "district": "Bình Thạnh",
+    "ward": "27"
+  },
+  "Hồ Chí Minh_Bình Thạnh_28": {
+    "lat": 10.8049204,
+    "lng": 106.6884288,
+    "province": "Hồ Chí Minh",
+    "district": "Bình Thạnh",
+    "ward": "28"
+  },
+  "Hồ Chí Minh_Bình Thạnh_5": {
+    "lat": 10.8111809,
+    "lng": 106.7033938,
+    "province": "Hồ Chí Minh",
+    "district": "Bình Thạnh",
+    "ward": "5"
+  },
+  "Hồ Chí Minh_Bình Thạnh_7": {
+    "lat": 10.8024055,
+    "lng": 106.6940522,
+    "province": "Hồ Chí Minh",
+    "district": "Bình Thạnh",
+    "ward": "7"
+  },
+  "Hồ Chí Minh_Bình Tân_An Lạc": {
+    "lat": 10.7433415,
+    "lng": 106.6131469,
+    "province": "Hồ Chí Minh",
+    "district": "Bình Tân",
+    "ward": "An Lạc"
+  },
+  "Hồ Chí Minh_Bình Tân_An Lạc A": {
+    "lat": 10.7506817,
+    "lng": 106.6224516,
+    "province": "Hồ Chí Minh",
+    "district": "Bình Tân",
+    "ward": "An Lạc A"
+  },
+  "Hồ Chí Minh_Bình Tân_Bình Hưng Hòa": {
+    "lat": 10.8172133,
+    "lng": 106.6001321,
+    "province": "Hồ Chí Minh",
+    "district": "Bình Tân",
+    "ward": "Bình Hưng Hòa"
+  },
+  "Hồ Chí Minh_Bình Tân_Bình Hưng Hòa A": {
+    "lat": 10.7937905,
+    "lng": 106.6101592,
+    "province": "Hồ Chí Minh",
+    "district": "Bình Tân",
+    "ward": "Bình Hưng Hòa A"
+  },
+  "Hồ Chí Minh_Bình Tân_Bình Hưng Hòa B": {
+    "lat": 10.8142798,
+    "lng": 106.5938643,
+    "province": "Hồ Chí Minh",
+    "district": "Bình Tân",
+    "ward": "Bình Hưng Hòa B"
+  },
+  "Hồ Chí Minh_Bình Tân_Bình Trị Đông": {
+    "lat": 10.7533939,
+    "lng": 106.6089862,
+    "province": "Hồ Chí Minh",
+    "district": "Bình Tân",
+    "ward": "Bình Trị Đông"
+  },
+  "Hồ Chí Minh_Bình Tân_Bình Trị Đông A": {
+    "lat": 10.7645001,
+    "lng": 106.6053709,
+    "province": "Hồ Chí Minh",
+    "district": "Bình Tân",
+    "ward": "Bình Trị Đông A"
+  },
+  "Hồ Chí Minh_Bình Tân_Bình Trị Đông B": {
+    "lat": 10.7433415,
+    "lng": 106.6131469,
+    "province": "Hồ Chí Minh",
+    "district": "Bình Tân",
+    "ward": "Bình Trị Đông B"
+  },
+  "Hồ Chí Minh_Bình Tân_Tân Tạo": {
+    "lat": 10.7642774,
+    "lng": 106.5793098,
+    "province": "Hồ Chí Minh",
+    "district": "Bình Tân",
+    "ward": "Tân Tạo"
+  },
+  "Hồ Chí Minh_Bình Tân_Tân Tạo A": {
+    "lat": 10.7510514,
+    "lng": 106.5895031,
+    "province": "Hồ Chí Minh",
+    "district": "Bình Tân",
+    "ward": "Tân Tạo A"
+  },
+  "Hồ Chí Minh_Cần Giờ_An Thới Đông": {
+    "lat": 10.5900472,
+    "lng": 106.7923865,
+    "province": "Hồ Chí Minh",
+    "district": "Cần Giờ",
+    "ward": "An Thới Đông"
+  },
+  "Hồ Chí Minh_Cần Giờ_Bình Khánh": {
+    "lat": 10.6425882,
+    "lng": 106.7870104,
+    "province": "Hồ Chí Minh",
+    "district": "Cần Giờ",
+    "ward": "Bình Khánh"
+  },
+  "Hồ Chí Minh_Cần Giờ_Cần Thạnh": {
+    "lat": 10.4153494,
+    "lng": 106.9726639,
+    "province": "Hồ Chí Minh",
+    "district": "Cần Giờ",
+    "ward": "Cần Thạnh"
+  },
+  "Hồ Chí Minh_Cần Giờ_Long Hòa": {
+    "lat": 10.3846228,
+    "lng": 106.9108308,
+    "province": "Hồ Chí Minh",
+    "district": "Cần Giờ",
+    "ward": "Long Hòa"
+  },
+  "Hồ Chí Minh_Cần Giờ_Tam Thôn Hiệp": null,
+  "Hồ Chí Minh_Củ Chi_An Nhơn Tây": {
+    "lat": 11.0893496,
+    "lng": 106.5124245,
+    "province": "Hồ Chí Minh",
+    "district": "Củ Chi",
+    "ward": "An Nhơn Tây"
+  },
+  "Hồ Chí Minh_Củ Chi_Bình Mỹ": {
+    "lat": 10.9569123,
+    "lng": 106.6383782,
+    "province": "Hồ Chí Minh",
+    "district": "Củ Chi",
+    "ward": "Bình Mỹ"
+  },
+  "Hồ Chí Minh_Củ Chi_Củ Chi": {
+    "lat": 10.9693068,
+    "lng": 106.4866956,
+    "province": "Hồ Chí Minh",
+    "district": "Củ Chi",
+    "ward": "Củ Chi"
+  },
+  "Hồ Chí Minh_Củ Chi_Hòa Phú": {
+    "lat": 10.7535802,
+    "lng": 106.6299885,
+    "province": "Hồ Chí Minh",
+    "district": "Củ Chi",
+    "ward": "Hòa Phú"
+  },
+  "Hồ Chí Minh_Củ Chi_Nhuận Đức": {
+    "lat": 11.0595848,
+    "lng": 106.4762317,
+    "province": "Hồ Chí Minh",
+    "district": "Củ Chi",
+    "ward": "Nhuận Đức"
+  },
+  "Hồ Chí Minh_Củ Chi_Phú Hòa Đông": {
+    "lat": 10.9705775,
+    "lng": 106.5624359,
+    "province": "Hồ Chí Minh",
+    "district": "Củ Chi",
+    "ward": "Phú Hòa Đông"
+  },
+  "Hồ Chí Minh_Củ Chi_Phước Hiệp": {
+    "lat": 10.861158,
+    "lng": 106.7234836,
+    "province": "Hồ Chí Minh",
+    "district": "Củ Chi",
+    "ward": "Phước Hiệp"
+  },
+  "Hồ Chí Minh_Củ Chi_Phước Thạnh": {
+    "lat": 11.0249796,
+    "lng": 106.5070704,
+    "province": "Hồ Chí Minh",
+    "district": "Củ Chi",
+    "ward": "Phước Thạnh"
+  },
+  "Hồ Chí Minh_Củ Chi_Phước Vĩnh An": {
+    "lat": 10.9850415,
+    "lng": 106.5212957,
+    "province": "Hồ Chí Minh",
+    "district": "Củ Chi",
+    "ward": "Phước Vĩnh An"
+  },
+  "Hồ Chí Minh_Củ Chi_Thái Mỹ": null,
+  "Hồ Chí Minh_Củ Chi_Trung An": {
+    "lat": 11.0824826,
+    "lng": 106.5088471,
+    "province": "Hồ Chí Minh",
+    "district": "Củ Chi",
+    "ward": "Trung An"
+  },
+  "Hồ Chí Minh_Củ Chi_Trung Lập Hạ": {
+    "lat": 10.9665384,
+    "lng": 106.5058856,
+    "province": "Hồ Chí Minh",
+    "district": "Củ Chi",
+    "ward": "Trung Lập Hạ"
+  },
+  "Hồ Chí Minh_Củ Chi_Trung Lập Thượng": null,
+  "Hồ Chí Minh_Củ Chi_Tân An Hội": {
+    "lat": 10.9732745,
+    "lng": 106.4941505,
+    "province": "Hồ Chí Minh",
+    "district": "Củ Chi",
+    "ward": "Tân An Hội"
+  },
+  "Hồ Chí Minh_Củ Chi_Tân Phú Trung": {
+    "lat": 10.969859,
+    "lng": 106.549182,
+    "province": "Hồ Chí Minh",
+    "district": "Củ Chi",
+    "ward": "Tân Phú Trung"
+  },
+  "Hồ Chí Minh_Củ Chi_Tân Thông Hội": {
+    "lat": 10.9634514,
+    "lng": 106.5125519,
+    "province": "Hồ Chí Minh",
+    "district": "Củ Chi",
+    "ward": "Tân Thông Hội"
+  },
+  "Hồ Chí Minh_Củ Chi_Tân Thạnh Tây": null,
+  "Hồ Chí Minh_Củ Chi_Tân Thạnh Đông": {
+    "lat": 10.9500906,
+    "lng": 106.5444196,
+    "province": "Hồ Chí Minh",
+    "district": "Củ Chi",
+    "ward": "Tân Thạnh Đông"
+  },
+  "Hồ Chí Minh_Gò Vấp_1": {
+    "lat": 10.8504779,
+    "lng": 106.6522688,
+    "province": "Hồ Chí Minh",
+    "district": "Gò Vấp",
+    "ward": "1"
+  },
+  "Hồ Chí Minh_Gò Vấp_10": {
+    "lat": 10.8384167,
+    "lng": 106.6753431,
+    "province": "Hồ Chí Minh",
+    "district": "Gò Vấp",
+    "ward": "10"
+  },
+  "Hồ Chí Minh_Gò Vấp_11": {
+    "lat": 10.8384167,
+    "lng": 106.6753431,
+    "province": "Hồ Chí Minh",
+    "district": "Gò Vấp",
+    "ward": "11"
+  },
+  "Hồ Chí Minh_Gò Vấp_12": {
+    "lat": 10.8384167,
+    "lng": 106.6753431,
+    "province": "Hồ Chí Minh",
+    "district": "Gò Vấp",
+    "ward": "12"
+  },
+  "Hồ Chí Minh_Gò Vấp_14": {
+    "lat": 10.8384167,
+    "lng": 106.6753431,
+    "province": "Hồ Chí Minh",
+    "district": "Gò Vấp",
+    "ward": "14"
+  },
+  "Hồ Chí Minh_Gò Vấp_15": {
+    "lat": 10.8384167,
+    "lng": 106.6753431,
+    "province": "Hồ Chí Minh",
+    "district": "Gò Vấp",
+    "ward": "15"
+  },
+  "Hồ Chí Minh_Gò Vấp_16": {
+    "lat": 10.8384167,
+    "lng": 106.6753431,
+    "province": "Hồ Chí Minh",
+    "district": "Gò Vấp",
+    "ward": "16"
+  },
+  "Hồ Chí Minh_Gò Vấp_17": {
+    "lat": 10.8371646,
+    "lng": 106.6580629,
+    "province": "Hồ Chí Minh",
+    "district": "Gò Vấp",
+    "ward": "17"
+  },
+  "Hồ Chí Minh_Gò Vấp_3": {
+    "lat": 10.8213688,
+    "lng": 106.6882802,
+    "province": "Hồ Chí Minh",
+    "district": "Gò Vấp",
+    "ward": "3"
+  },
+  "Hồ Chí Minh_Gò Vấp_5": {
+    "lat": 10.8374115,
+    "lng": 106.66991,
+    "province": "Hồ Chí Minh",
+    "district": "Gò Vấp",
+    "ward": "5"
+  },
+  "Hồ Chí Minh_Gò Vấp_6": {
+    "lat": 10.8518997,
+    "lng": 106.6793736,
+    "province": "Hồ Chí Minh",
+    "district": "Gò Vấp",
+    "ward": "6"
+  },
+  "Hồ Chí Minh_Gò Vấp_8": {
+    "lat": 10.8554027,
+    "lng": 106.6531649,
+    "province": "Hồ Chí Minh",
+    "district": "Gò Vấp",
+    "ward": "8"
+  },
+  "Hồ Chí Minh_Hóc Môn_Bà Điểm": {
+    "lat": 10.8402679,
+    "lng": 106.6001017,
+    "province": "Hồ Chí Minh",
+    "district": "Hóc Môn",
+    "ward": "Bà Điểm"
+  },
+  "Hồ Chí Minh_Hóc Môn_Hóc Môn": {
+    "lat": 10.9000354,
+    "lng": 106.6017946,
+    "province": "Hồ Chí Minh",
+    "district": "Hóc Môn",
+    "ward": "Hóc Môn"
+  },
+  "Hồ Chí Minh_Hóc Môn_Nhị Bình": {
+    "lat": 10.9108085,
+    "lng": 106.6837212,
+    "province": "Hồ Chí Minh",
+    "district": "Hóc Môn",
+    "ward": "Nhị Bình"
+  },
+  "Hồ Chí Minh_Hóc Môn_Thới Tam Thôn": {
+    "lat": 10.8837405,
+    "lng": 106.6086761,
+    "province": "Hồ Chí Minh",
+    "district": "Hóc Môn",
+    "ward": "Thới Tam Thôn"
+  },
+  "Hồ Chí Minh_Hóc Môn_Trung Chánh": {
+    "lat": 10.8734956,
+    "lng": 106.6065861,
+    "province": "Hồ Chí Minh",
+    "district": "Hóc Môn",
+    "ward": "Trung Chánh"
+  },
+  "Hồ Chí Minh_Hóc Môn_Tân Hiệp": {
+    "lat": 10.9111987,
+    "lng": 106.5987468,
+    "province": "Hồ Chí Minh",
+    "district": "Hóc Môn",
+    "ward": "Tân Hiệp"
+  },
+  "Hồ Chí Minh_Hóc Môn_Tân Thới Nhì": {
+    "lat": 10.8887879,
+    "lng": 106.5953465,
+    "province": "Hồ Chí Minh",
+    "district": "Hóc Môn",
+    "ward": "Tân Thới Nhì"
+  },
+  "Hồ Chí Minh_Hóc Môn_Tân Xuân": {
+    "lat": 10.8664959,
+    "lng": 106.6007234,
+    "province": "Hồ Chí Minh",
+    "district": "Hóc Môn",
+    "ward": "Tân Xuân"
+  },
+  "Hồ Chí Minh_Hóc Môn_Xuân Thới Sơn": null,
+  "Hồ Chí Minh_Hóc Môn_Xuân Thới Thượng": null,
+  "Hồ Chí Minh_Hóc Môn_Xuân Thới Đông": null,
+  "Hồ Chí Minh_Hóc Môn_Đông Thạnh": {
+    "lat": 10.9044227,
+    "lng": 106.6368108,
+    "province": "Hồ Chí Minh",
+    "district": "Hóc Môn",
+    "ward": "Đông Thạnh"
+  },
+  "Hồ Chí Minh_Nhà Bè_Hiệp Phước": {
+    "lat": 10.6481703,
+    "lng": 106.74044,
+    "province": "Hồ Chí Minh",
+    "district": "Nhà Bè",
+    "ward": "Hiệp Phước"
+  },
+  "Hồ Chí Minh_Nhà Bè_Long Thới": {
+    "lat": 10.656406,
+    "lng": 106.7276232,
+    "province": "Hồ Chí Minh",
+    "district": "Nhà Bè",
+    "ward": "Long Thới"
+  },
+  "Hồ Chí Minh_Nhà Bè_Nhà Bè": {
+    "lat": 10.6899187,
+    "lng": 106.7325434,
+    "province": "Hồ Chí Minh",
+    "district": "Nhà Bè",
+    "ward": "Nhà Bè"
+  },
+  "Hồ Chí Minh_Nhà Bè_Nhơn Đức": {
+    "lat": 10.6746765,
+    "lng": 106.6903919,
+    "province": "Hồ Chí Minh",
+    "district": "Nhà Bè",
+    "ward": "Nhơn Đức"
+  },
+  "Hồ Chí Minh_Nhà Bè_Phú Xuân": {
+    "lat": 10.7009549,
+    "lng": 106.7336308,
+    "province": "Hồ Chí Minh",
+    "district": "Nhà Bè",
+    "ward": "Phú Xuân"
+  },
+  "Hồ Chí Minh_Nhà Bè_Phước Kiển": {
+    "lat": 10.7026181,
+    "lng": 106.7050901,
+    "province": "Hồ Chí Minh",
+    "district": "Nhà Bè",
+    "ward": "Phước Kiển"
+  },
+  "Hồ Chí Minh_Nhà Bè_Phước Lộc": {
+    "lat": 10.7159188,
+    "lng": 106.7044507,
+    "province": "Hồ Chí Minh",
+    "district": "Nhà Bè",
+    "ward": "Phước Lộc"
+  },
+  "Hồ Chí Minh_Phú Nhuận_1": {
+    "lat": 10.7961774,
+    "lng": 106.687231,
+    "province": "Hồ Chí Minh",
+    "district": "Phú Nhuận",
+    "ward": "1"
+  },
+  "Hồ Chí Minh_Phú Nhuận_10": {
+    "lat": 10.7912742,
+    "lng": 106.6784875,
+    "province": "Hồ Chí Minh",
+    "district": "Phú Nhuận",
+    "ward": "10"
+  },
+  "Hồ Chí Minh_Phú Nhuận_11": {
+    "lat": 10.7954498,
+    "lng": 106.6754705,
+    "province": "Hồ Chí Minh",
+    "district": "Phú Nhuận",
+    "ward": "11"
+  },
+  "Hồ Chí Minh_Phú Nhuận_13": {
+    "lat": 10.7954498,
+    "lng": 106.6754705,
+    "province": "Hồ Chí Minh",
+    "district": "Phú Nhuận",
+    "ward": "13"
+  },
+  "Hồ Chí Minh_Phú Nhuận_15": {
+    "lat": 10.798957,
+    "lng": 106.6798809,
+    "province": "Hồ Chí Minh",
+    "district": "Phú Nhuận",
+    "ward": "15"
+  },
+  "Hồ Chí Minh_Phú Nhuận_2": {
+    "lat": 10.7995089,
+    "lng": 106.6797169,
+    "province": "Hồ Chí Minh",
+    "district": "Phú Nhuận",
+    "ward": "2"
+  },
+  "Hồ Chí Minh_Phú Nhuận_4": {
+    "lat": 10.7954498,
+    "lng": 106.6754705,
+    "province": "Hồ Chí Minh",
+    "district": "Phú Nhuận",
+    "ward": "4"
+  },
+  "Hồ Chí Minh_Phú Nhuận_5": {
+    "lat": 10.7954498,
+    "lng": 106.6754705,
+    "province": "Hồ Chí Minh",
+    "district": "Phú Nhuận",
+    "ward": "5"
+  },
+  "Hồ Chí Minh_Phú Nhuận_7": {
+    "lat": 10.7954498,
+    "lng": 106.6754705,
+    "province": "Hồ Chí Minh",
+    "district": "Phú Nhuận",
+    "ward": "7"
+  },
+  "Hồ Chí Minh_Phú Nhuận_8": {
+    "lat": 10.7954498,
+    "lng": 106.6754705,
+    "province": "Hồ Chí Minh",
+    "district": "Phú Nhuận",
+    "ward": "8"
+  },
+  "Hồ Chí Minh_Phú Nhuận_9": {
+    "lat": 10.8085766,
+    "lng": 106.674305,
+    "province": "Hồ Chí Minh",
+    "district": "Phú Nhuận",
+    "ward": "9"
+  },
+  "Hồ Chí Minh_Quận 1_Bến Nghé": {
+    "lat": 10.7803088,
+    "lng": 106.7054885,
+    "province": "Hồ Chí Minh",
+    "district": "Quận 1",
+    "ward": "Bến Nghé"
+  },
+  "Hồ Chí Minh_Quận 1_Bến Thành": {
+    "lat": 10.780845,
+    "lng": 106.6984862,
+    "province": "Hồ Chí Minh",
+    "district": "Quận 1",
+    "ward": "Bến Thành"
+  },
+  "Hồ Chí Minh_Quận 1_Cô Giang": {
+    "lat": 10.7618339,
+    "lng": 106.6950654,
+    "province": "Hồ Chí Minh",
+    "district": "Quận 1",
+    "ward": "Cô Giang"
+  },
+  "Hồ Chí Minh_Quận 1_Cầu Kho": null,
+  "Hồ Chí Minh_Quận 1_Cầu Ông Lãnh": {
+    "lat": 10.7543963,
+    "lng": 106.6876473,
+    "province": "Hồ Chí Minh",
+    "district": "Quận 1",
+    "ward": "Cầu Ông Lãnh"
+  },
+  "Hồ Chí Minh_Quận 1_Nguyễn Cư Trinh": null,
+  "Hồ Chí Minh_Quận 1_Nguyễn Thái Bình": null,
+  "Hồ Chí Minh_Quận 1_Phạm Ngũ Lão": null,
+  "Hồ Chí Minh_Quận 1_Tân Định": {
+    "lat": 10.7898998,
+    "lng": 106.6900513,
+    "province": "Hồ Chí Minh",
+    "district": "Quận 1",
+    "ward": "Tân Định"
+  },
+  "Hồ Chí Minh_Quận 1_Đa Kao": null,
+  "Hồ Chí Minh_Quận 10_1": {
+    "lat": 10.7632257,
+    "lng": 106.6777149,
+    "province": "Hồ Chí Minh",
+    "district": "Quận 10",
+    "ward": "1"
+  },
+  "Hồ Chí Minh_Quận 10_10": {
+    "lat": 10.7716986,
+    "lng": 106.6469957,
+    "province": "Hồ Chí Minh",
+    "district": "Quận 10",
+    "ward": "10"
+  },
+  "Hồ Chí Minh_Quận 10_12": {
+    "lat": 10.7461271,
+    "lng": 106.7106601,
+    "province": "Hồ Chí Minh",
+    "district": "Quận 10",
+    "ward": "12"
+  },
+  "Hồ Chí Minh_Quận 10_13": {
+    "lat": 10.7667536,
+    "lng": 106.6752422,
+    "province": "Hồ Chí Minh",
+    "district": "Quận 10",
+    "ward": "13"
+  },
+  "Hồ Chí Minh_Quận 10_14": {
+    "lat": 10.7716986,
+    "lng": 106.6469957,
+    "province": "Hồ Chí Minh",
+    "district": "Quận 10",
+    "ward": "14"
+  },
+  "Hồ Chí Minh_Quận 10_15": {
+    "lat": 10.766766,
+    "lng": 106.6752862,
+    "province": "Hồ Chí Minh",
+    "district": "Quận 10",
+    "ward": "15"
+  },
+  "Hồ Chí Minh_Quận 10_2": {
+    "lat": 10.7359972,
+    "lng": 106.626503,
+    "province": "Hồ Chí Minh",
+    "district": "Quận 10",
+    "ward": "2"
+  },
+  "Hồ Chí Minh_Quận 10_4": {
+    "lat": 10.8305173,
+    "lng": 106.6157456,
+    "province": "Hồ Chí Minh",
+    "district": "Quận 10",
+    "ward": "4"
+  },
+  "Hồ Chí Minh_Quận 10_6": {
+    "lat": 10.7545571,
+    "lng": 106.6336213,
+    "province": "Hồ Chí Minh",
+    "district": "Quận 10",
+    "ward": "6"
+  },
+  "Hồ Chí Minh_Quận 10_8": {
+    "lat": 10.7716986,
+    "lng": 106.6469957,
+    "province": "Hồ Chí Minh",
+    "district": "Quận 10",
+    "ward": "8"
+  },
+  "Hồ Chí Minh_Quận 10_9": {
+    "lat": 10.7665006,
+    "lng": 106.6757207,
+    "province": "Hồ Chí Minh",
+    "district": "Quận 10",
+    "ward": "9"
+  },
+  "Hồ Chí Minh_Quận 11_1": {
+    "lat": 10.7444857,
+    "lng": 106.6298582,
+    "province": "Hồ Chí Minh",
+    "district": "Quận 11",
+    "ward": "1"
+  },
+  "Hồ Chí Minh_Quận 11_10": {
+    "lat": 10.7587129,
+    "lng": 106.6595204,
+    "province": "Hồ Chí Minh",
+    "district": "Quận 11",
+    "ward": "10"
+  },
+  "Hồ Chí Minh_Quận 11_11": {
+    "lat": 10.7875575,
+    "lng": 106.6508226,
+    "province": "Hồ Chí Minh",
+    "district": "Quận 11",
+    "ward": "11"
+  },
+  "Hồ Chí Minh_Quận 11_14": {
+    "lat": 10.7875575,
+    "lng": 106.6508226,
+    "province": "Hồ Chí Minh",
+    "district": "Quận 11",
+    "ward": "14"
+  },
+  "Hồ Chí Minh_Quận 11_15": {
+    "lat": 10.7818011,
+    "lng": 106.6521361,
+    "province": "Hồ Chí Minh",
+    "district": "Quận 11",
+    "ward": "15"
+  },
+  "Hồ Chí Minh_Quận 11_16": {
+    "lat": 10.7818011,
+    "lng": 106.6521361,
+    "province": "Hồ Chí Minh",
+    "district": "Quận 11",
+    "ward": "16"
+  },
+  "Hồ Chí Minh_Quận 11_3": {
+    "lat": 10.7681426,
+    "lng": 106.6363015,
+    "province": "Hồ Chí Minh",
+    "district": "Quận 11",
+    "ward": "3"
+  },
+  "Hồ Chí Minh_Quận 11_5": {
+    "lat": 10.7818011,
+    "lng": 106.6521361,
+    "province": "Hồ Chí Minh",
+    "district": "Quận 11",
+    "ward": "5"
+  },
+  "Hồ Chí Minh_Quận 11_7": {
+    "lat": 10.7901958,
+    "lng": 106.688399,
+    "province": "Hồ Chí Minh",
+    "district": "Quận 11",
+    "ward": "7"
+  },
+  "Hồ Chí Minh_Quận 11_8": {
+    "lat": 10.8564039,
+    "lng": 106.6237648,
+    "province": "Hồ Chí Minh",
+    "district": "Quận 11",
+    "ward": "8"
+  },
+  "Hồ Chí Minh_Quận 12_An Phú Đông": {
+    "lat": 10.8570791,
+    "lng": 106.6208792,
+    "province": "Hồ Chí Minh",
+    "district": "Quận 12",
+    "ward": "An Phú Đông"
+  },
+  "Hồ Chí Minh_Quận 12_Hiệp Thành": {
+    "lat": 10.8797978,
+    "lng": 106.6480111,
+    "province": "Hồ Chí Minh",
+    "district": "Quận 12",
+    "ward": "Hiệp Thành"
+  },
+  "Hồ Chí Minh_Quận 12_Thạnh Lộc": null,
+  "Hồ Chí Minh_Quận 12_Thạnh Xuân": null,
+  "Hồ Chí Minh_Quận 12_Thới An": {
+    "lat": 10.8706159,
+    "lng": 106.6501697,
+    "province": "Hồ Chí Minh",
+    "district": "Quận 12",
+    "ward": "Thới An"
+  },
+  "Hồ Chí Minh_Quận 12_Trung Mỹ Tây": {
+    "lat": 10.8556114,
+    "lng": 106.6256344,
+    "province": "Hồ Chí Minh",
+    "district": "Quận 12",
+    "ward": "Trung Mỹ Tây"
+  },
+  "Hồ Chí Minh_Quận 12_Tân Chánh Hiệp": {
+    "lat": 10.8556272,
+    "lng": 106.6238217,
+    "province": "Hồ Chí Minh",
+    "district": "Quận 12",
+    "ward": "Tân Chánh Hiệp"
+  },
+  "Hồ Chí Minh_Quận 12_Tân Hưng Thuận": {
+    "lat": 10.8252269,
+    "lng": 106.6247797,
+    "province": "Hồ Chí Minh",
+    "district": "Quận 12",
+    "ward": "Tân Hưng Thuận"
+  },
+  "Hồ Chí Minh_Quận 12_Tân Thới Hiệp": {
+    "lat": 10.8706159,
+    "lng": 106.6501697,
+    "province": "Hồ Chí Minh",
+    "district": "Quận 12",
+    "ward": "Tân Thới Hiệp"
+  },
+  "Hồ Chí Minh_Quận 12_Tân Thới Nhất": {
+    "lat": 10.8252269,
+    "lng": 106.6247797,
+    "province": "Hồ Chí Minh",
+    "district": "Quận 12",
+    "ward": "Tân Thới Nhất"
+  },
+  "Hồ Chí Minh_Quận 12_Đông Hưng Thuận": {
+    "lat": 10.8430984,
+    "lng": 106.625859,
+    "province": "Hồ Chí Minh",
+    "district": "Quận 12",
+    "ward": "Đông Hưng Thuận"
+  },
+  "Hồ Chí Minh_Quận 3_1": {
+    "lat": 10.7933512,
+    "lng": 106.6832206,
+    "province": "Hồ Chí Minh",
+    "district": "Quận 3",
+    "ward": "1"
+  },
+  "Hồ Chí Minh_Quận 3_11": {
+    "lat": 10.7151044,
+    "lng": 106.7291321,
+    "province": "Hồ Chí Minh",
+    "district": "Quận 3",
+    "ward": "11"
+  },
+  "Hồ Chí Minh_Quận 3_12": {
+    "lat": 10.7766343,
+    "lng": 106.69135,
+    "province": "Hồ Chí Minh",
+    "district": "Quận 3",
+    "ward": "12"
+  },
+  "Hồ Chí Minh_Quận 3_14": {
+    "lat": 10.7766983,
+    "lng": 106.6912637,
+    "province": "Hồ Chí Minh",
+    "district": "Quận 3",
+    "ward": "14"
+  },
+  "Hồ Chí Minh_Quận 3_2": {
+    "lat": 10.7819863,
+    "lng": 106.6912377,
+    "province": "Hồ Chí Minh",
+    "district": "Quận 3",
+    "ward": "2"
+  },
+  "Hồ Chí Minh_Quận 3_3": {
+    "lat": 10.7763982,
+    "lng": 106.6854039,
+    "province": "Hồ Chí Minh",
+    "district": "Quận 3",
+    "ward": "3"
+  },
+  "Hồ Chí Minh_Quận 3_4": {
+    "lat": 10.7790996,
+    "lng": 106.6914967,
+    "province": "Hồ Chí Minh",
+    "district": "Quận 3",
+    "ward": "4"
+  },
+  "Hồ Chí Minh_Quận 3_5": {
+    "lat": 10.7824457,
+    "lng": 106.6497871,
+    "province": "Hồ Chí Minh",
+    "district": "Quận 3",
+    "ward": "5"
+  },
+  "Hồ Chí Minh_Quận 3_9": {
+    "lat": 10.7824457,
+    "lng": 106.6497871,
+    "province": "Hồ Chí Minh",
+    "district": "Quận 3",
+    "ward": "9"
+  },
+  "Hồ Chí Minh_Quận 3_Võ Thị Sáu": null,
+  "Hồ Chí Minh_Quận 4_1": {
+    "lat": 10.7640269,
+    "lng": 106.7488015,
+    "province": "Hồ Chí Minh",
+    "district": "Quận 4",
+    "ward": "1"
+  },
+  "Hồ Chí Minh_Quận 4_13": {
+    "lat": 10.7202095,
+    "lng": 106.7284071,
+    "province": "Hồ Chí Minh",
+    "district": "Quận 4",
+    "ward": "13"
+  },
+  "Hồ Chí Minh_Quận 4_15": {
+    "lat": 10.7803088,
+    "lng": 106.7054885,
+    "province": "Hồ Chí Minh",
+    "district": "Quận 4",
+    "ward": "15"
+  },
+  "Hồ Chí Minh_Quận 4_16": {
+    "lat": 10.7659945,
+    "lng": 106.7042805,
+    "province": "Hồ Chí Minh",
+    "district": "Quận 4",
+    "ward": "16"
+  },
+  "Hồ Chí Minh_Quận 4_18": {
+    "lat": 10.7721864,
+    "lng": 106.6903094,
+    "province": "Hồ Chí Minh",
+    "district": "Quận 4",
+    "ward": "18"
+  },
+  "Hồ Chí Minh_Quận 4_2": {
+    "lat": 10.7632768,
+    "lng": 106.7016196,
+    "province": "Hồ Chí Minh",
+    "district": "Quận 4",
+    "ward": "2"
+  },
+  "Hồ Chí Minh_Quận 4_3": {
+    "lat": 10.7808592,
+    "lng": 106.6946027,
+    "province": "Hồ Chí Minh",
+    "district": "Quận 4",
+    "ward": "3"
+  },
+  "Hồ Chí Minh_Quận 4_4": {
+    "lat": 10.835817,
+    "lng": 106.658993,
+    "province": "Hồ Chí Minh",
+    "district": "Quận 4",
+    "ward": "4"
+  },
+  "Hồ Chí Minh_Quận 4_8": {
+    "lat": 10.8079428,
+    "lng": 106.6634764,
+    "province": "Hồ Chí Minh",
+    "district": "Quận 4",
+    "ward": "8"
+  },
+  "Hồ Chí Minh_Quận 4_9": {
+    "lat": 10.8060049,
+    "lng": 106.6638135,
+    "province": "Hồ Chí Minh",
+    "district": "Quận 4",
+    "ward": "9"
+  },
+  "Hồ Chí Minh_Quận 5_1": {
+    "lat": 10.768614,
+    "lng": 106.688957,
+    "province": "Hồ Chí Minh",
+    "district": "Quận 5",
+    "ward": "1"
+  },
+  "Hồ Chí Minh_Quận 5_11": {
+    "lat": 10.7412212,
+    "lng": 106.6664075,
+    "province": "Hồ Chí Minh",
+    "district": "Quận 5",
+    "ward": "11"
+  },
+  "Hồ Chí Minh_Quận 5_12": {
+    "lat": 10.7722402,
+    "lng": 106.6472416,
+    "province": "Hồ Chí Minh",
+    "district": "Quận 5",
+    "ward": "12"
+  },
+  "Hồ Chí Minh_Quận 5_13": {
+    "lat": 10.7729237,
+    "lng": 106.7052196,
+    "province": "Hồ Chí Minh",
+    "district": "Quận 5",
+    "ward": "13"
+  },
+  "Hồ Chí Minh_Quận 5_14": {
+    "lat": 10.7689226,
+    "lng": 106.6455343,
+    "province": "Hồ Chí Minh",
+    "district": "Quận 5",
+    "ward": "14"
+  },
+  "Hồ Chí Minh_Quận 5_2": {
+    "lat": 10.7416082,
+    "lng": 106.6649389,
+    "province": "Hồ Chí Minh",
+    "district": "Quận 5",
+    "ward": "2"
+  },
+  "Hồ Chí Minh_Quận 5_4": {
+    "lat": 10.7497682,
+    "lng": 106.6736256,
+    "province": "Hồ Chí Minh",
+    "district": "Quận 5",
+    "ward": "4"
+  },
+  "Hồ Chí Minh_Quận 5_5": {
+    "lat": 10.7421366,
+    "lng": 106.666184,
+    "province": "Hồ Chí Minh",
+    "district": "Quận 5",
+    "ward": "5"
+  },
+  "Hồ Chí Minh_Quận 5_7": {
+    "lat": 10.7767437,
+    "lng": 106.7032488,
+    "province": "Hồ Chí Minh",
+    "district": "Quận 5",
+    "ward": "7"
+  },
+  "Hồ Chí Minh_Quận 5_9": {
+    "lat": 10.7589554,
+    "lng": 106.6730492,
+    "province": "Hồ Chí Minh",
+    "district": "Quận 5",
+    "ward": "9"
+  },
+  "Hồ Chí Minh_Quận 6_1": {
+    "lat": 10.7444857,
+    "lng": 106.6298582,
+    "province": "Hồ Chí Minh",
+    "district": "Quận 6",
+    "ward": "1"
+  },
+  "Hồ Chí Minh_Quận 6_10": {
+    "lat": 10.7765833,
+    "lng": 106.6913559,
+    "province": "Hồ Chí Minh",
+    "district": "Quận 6",
+    "ward": "10"
+  },
+  "Hồ Chí Minh_Quận 6_11": {
+    "lat": 10.7685419,
+    "lng": 106.6452583,
+    "province": "Hồ Chí Minh",
+    "district": "Quận 6",
+    "ward": "11"
+  },
+  "Hồ Chí Minh_Quận 6_12": {
+    "lat": 10.7766343,
+    "lng": 106.69135,
+    "province": "Hồ Chí Minh",
+    "district": "Quận 6",
+    "ward": "12"
+  },
+  "Hồ Chí Minh_Quận 6_13": {
+    "lat": 10.7681949,
+    "lng": 106.645307,
+    "province": "Hồ Chí Minh",
+    "district": "Quận 6",
+    "ward": "13"
+  },
+  "Hồ Chí Minh_Quận 6_14": {
+    "lat": 10.7766983,
+    "lng": 106.6912637,
+    "province": "Hồ Chí Minh",
+    "district": "Quận 6",
+    "ward": "14"
+  },
+  "Hồ Chí Minh_Quận 6_2": {
+    "lat": 10.7359972,
+    "lng": 106.626503,
+    "province": "Hồ Chí Minh",
+    "district": "Quận 6",
+    "ward": "2"
+  },
+  "Hồ Chí Minh_Quận 6_7": {
+    "lat": 10.8003967,
+    "lng": 106.6597746,
+    "province": "Hồ Chí Minh",
+    "district": "Quận 6",
+    "ward": "7"
+  },
+  "Hồ Chí Minh_Quận 6_8": {
+    "lat": 10.7682054,
+    "lng": 106.6450739,
+    "province": "Hồ Chí Minh",
+    "district": "Quận 6",
+    "ward": "8"
+  },
+  "Hồ Chí Minh_Quận 6_9": {
+    "lat": 10.7681949,
+    "lng": 106.645307,
+    "province": "Hồ Chí Minh",
+    "district": "Quận 6",
+    "ward": "9"
+  },
+  "Hồ Chí Minh_Quận 7_Bình Thuận": null,
+  "Hồ Chí Minh_Quận 7_Phú Mỹ": {
+    "lat": 10.7291854,
+    "lng": 106.7195474,
+    "province": "Hồ Chí Minh",
+    "district": "Quận 7",
+    "ward": "Phú Mỹ"
+  },
+  "Hồ Chí Minh_Quận 7_Phú Thuận": {
+    "lat": 10.7323681,
+    "lng": 106.7346706,
+    "province": "Hồ Chí Minh",
+    "district": "Quận 7",
+    "ward": "Phú Thuận"
+  },
+  "Hồ Chí Minh_Quận 7_Tân Hưng": {
+    "lat": 10.7301154,
+    "lng": 106.7041639,
+    "province": "Hồ Chí Minh",
+    "district": "Quận 7",
+    "ward": "Tân Hưng"
+  },
+  "Hồ Chí Minh_Quận 7_Tân Kiểng": null,
+  "Hồ Chí Minh_Quận 7_Tân Phong": {
+    "lat": 10.7301154,
+    "lng": 106.7041639,
+    "province": "Hồ Chí Minh",
+    "district": "Quận 7",
+    "ward": "Tân Phong"
+  },
+  "Hồ Chí Minh_Quận 7_Tân Phú": {
+    "lat": 10.7162517,
+    "lng": 106.7376503,
+    "province": "Hồ Chí Minh",
+    "district": "Quận 7",
+    "ward": "Tân Phú"
+  },
+  "Hồ Chí Minh_Quận 7_Tân Quy": {
+    "lat": 10.7426478,
+    "lng": 106.7098108,
+    "province": "Hồ Chí Minh",
+    "district": "Quận 7",
+    "ward": "Tân Quy"
+  },
+  "Hồ Chí Minh_Quận 7_Tân Thuận Tây": null,
+  "Hồ Chí Minh_Quận 7_Tân Thuận Đông": {
+    "lat": 10.7681937,
+    "lng": 106.7389621,
+    "province": "Hồ Chí Minh",
+    "district": "Quận 7",
+    "ward": "Tân Thuận Đông"
+  },
+  "Hồ Chí Minh_Quận 8_14": {
+    "lat": 10.7328918,
+    "lng": 106.6438982,
+    "province": "Hồ Chí Minh",
+    "district": "Quận 8",
+    "ward": "14"
+  },
+  "Hồ Chí Minh_Quận 8_15": {
+    "lat": 10.7472059,
+    "lng": 106.6589504,
+    "province": "Hồ Chí Minh",
+    "district": "Quận 8",
+    "ward": "15"
+  },
+  "Hồ Chí Minh_Quận 8_16": {
+    "lat": 10.7106025,
+    "lng": 106.6280142,
+    "province": "Hồ Chí Minh",
+    "district": "Quận 8",
+    "ward": "16"
+  },
+  "Hồ Chí Minh_Quận 8_4": {
+    "lat": 10.718371,
+    "lng": 106.6247644,
+    "province": "Hồ Chí Minh",
+    "district": "Quận 8",
+    "ward": "4"
+  },
+  "Hồ Chí Minh_Quận 8_5": {
+    "lat": 10.7421366,
+    "lng": 106.666184,
+    "province": "Hồ Chí Minh",
+    "district": "Quận 8",
+    "ward": "5"
+  },
+  "Hồ Chí Minh_Quận 8_6": {
+    "lat": 10.7390739,
+    "lng": 106.6659208,
+    "province": "Hồ Chí Minh",
+    "district": "Quận 8",
+    "ward": "6"
+  },
+  "Hồ Chí Minh_Quận 8_7": {
+    "lat": 10.7417794,
+    "lng": 106.6662335,
+    "province": "Hồ Chí Minh",
+    "district": "Quận 8",
+    "ward": "7"
+  },
+  "Hồ Chí Minh_Quận 8_Rạch Ông": {
+    "lat": 10.7468059,
+    "lng": 106.6864536,
+    "province": "Hồ Chí Minh",
+    "district": "Quận 8",
+    "ward": "Rạch Ông"
+  },
+  "Hồ Chí Minh_Quận 8_Xóm Củi": {
+    "lat": 10.7465057,
+    "lng": 106.6605679,
+    "province": "Hồ Chí Minh",
+    "district": "Quận 8",
+    "ward": "Xóm Củi"
+  },
+  "Hồ Chí Minh_Thủ Đức_An Khánh": {
+    "lat": 10.8590193,
+    "lng": 106.7060482,
+    "province": "Hồ Chí Minh",
+    "district": "Thủ Đức",
+    "ward": "An Khánh"
+  },
+  "Hồ Chí Minh_Thủ Đức_An Lợi Đông": null,
+  "Hồ Chí Minh_Thủ Đức_An Phú": {
+    "lat": 10.8036654,
+    "lng": 106.7472268,
+    "province": "Hồ Chí Minh",
+    "district": "Thủ Đức",
+    "ward": "An Phú"
+  },
+  "Hồ Chí Minh_Thủ Đức_Bình Chiểu": {
+    "lat": 10.878552,
+    "lng": 106.723798,
+    "province": "Hồ Chí Minh",
+    "district": "Thủ Đức",
+    "ward": "Bình Chiểu"
+  },
+  "Hồ Chí Minh_Thủ Đức_Bình Thọ": {
+    "lat": 10.8493783,
+    "lng": 106.7692018,
+    "province": "Hồ Chí Minh",
+    "district": "Thủ Đức",
+    "ward": "Bình Thọ"
+  },
+  "Hồ Chí Minh_Thủ Đức_Bình Trưng Tây": {
+    "lat": 10.783647,
+    "lng": 106.7658051,
+    "province": "Hồ Chí Minh",
+    "district": "Thủ Đức",
+    "ward": "Bình Trưng Tây"
+  },
+  "Hồ Chí Minh_Thủ Đức_Bình Trưng Đông": {
+    "lat": 10.7904061,
+    "lng": 106.7721272,
+    "province": "Hồ Chí Minh",
+    "district": "Thủ Đức",
+    "ward": "Bình Trưng Đông"
+  },
+  "Hồ Chí Minh_Thủ Đức_Cát Lái": {
+    "lat": 10.7743137,
+    "lng": 106.7709411,
+    "province": "Hồ Chí Minh",
+    "district": "Thủ Đức",
+    "ward": "Cát Lái"
+  },
+  "Hồ Chí Minh_Thủ Đức_Hiệp Bình Chánh": {
+    "lat": 10.8308263,
+    "lng": 106.7290709,
+    "province": "Hồ Chí Minh",
+    "district": "Thủ Đức",
+    "ward": "Hiệp Bình Chánh"
+  },
+  "Hồ Chí Minh_Thủ Đức_Hiệp Bình Phước": {
+    "lat": 10.863161,
+    "lng": 106.7210254,
+    "province": "Hồ Chí Minh",
+    "district": "Thủ Đức",
+    "ward": "Hiệp Bình Phước"
+  },
+  "Hồ Chí Minh_Thủ Đức_Hiệp Phú": {
+    "lat": 10.7771065,
+    "lng": 106.6395044,
+    "province": "Hồ Chí Minh",
+    "district": "Thủ Đức",
+    "ward": "Hiệp Phú"
+  },
+  "Hồ Chí Minh_Thủ Đức_Linh Chiểu": {
+    "lat": 10.8550204,
+    "lng": 106.763694,
+    "province": "Hồ Chí Minh",
+    "district": "Thủ Đức",
+    "ward": "Linh Chiểu"
+  },
+  "Hồ Chí Minh_Thủ Đức_Linh Trung": {
+    "lat": 10.8512669,
+    "lng": 106.7645501,
+    "province": "Hồ Chí Minh",
+    "district": "Thủ Đức",
+    "ward": "Linh Trung"
+  },
+  "Hồ Chí Minh_Thủ Đức_Linh Tây": {
+    "lat": 10.8618741,
+    "lng": 106.7582924,
+    "province": "Hồ Chí Minh",
+    "district": "Thủ Đức",
+    "ward": "Linh Tây"
+  },
+  "Hồ Chí Minh_Thủ Đức_Linh Xuân": {
+    "lat": 10.8601617,
+    "lng": 106.7602565,
+    "province": "Hồ Chí Minh",
+    "district": "Thủ Đức",
+    "ward": "Linh Xuân"
+  },
+  "Hồ Chí Minh_Thủ Đức_Linh Đông": {
+    "lat": 10.8533044,
+    "lng": 106.760229,
+    "province": "Hồ Chí Minh",
+    "district": "Thủ Đức",
+    "ward": "Linh Đông"
+  },
+  "Hồ Chí Minh_Thủ Đức_Long Bình": {
+    "lat": 10.7881368,
+    "lng": 106.6188503,
+    "province": "Hồ Chí Minh",
+    "district": "Thủ Đức",
+    "ward": "Long Bình"
+  },
+  "Hồ Chí Minh_Thủ Đức_Long Phước": {
+    "lat": 10.8214282,
+    "lng": 106.7581599,
+    "province": "Hồ Chí Minh",
+    "district": "Thủ Đức",
+    "ward": "Long Phước"
+  },
+  "Hồ Chí Minh_Thủ Đức_Long Thạnh Mỹ": null,
+  "Hồ Chí Minh_Thủ Đức_Long Trường": {
+    "lat": 10.8129687,
+    "lng": 106.7845083,
+    "province": "Hồ Chí Minh",
+    "district": "Thủ Đức",
+    "ward": "Long Trường"
+  },
+  "Hồ Chí Minh_Thủ Đức_Phú Hữu": {
+    "lat": 10.797528,
+    "lng": 106.7852347,
+    "province": "Hồ Chí Minh",
+    "district": "Thủ Đức",
+    "ward": "Phú Hữu"
+  },
+  "Hồ Chí Minh_Thủ Đức_Phước Bình": {
+    "lat": 10.8618941,
+    "lng": 106.7170366,
+    "province": "Hồ Chí Minh",
+    "district": "Thủ Đức",
+    "ward": "Phước Bình"
+  },
+  "Hồ Chí Minh_Thủ Đức_Phước Long A": null,
+  "Hồ Chí Minh_Thủ Đức_Phước Long B": null,
+  "Hồ Chí Minh_Thủ Đức_Tam Bình": {
+    "lat": 10.8287659,
+    "lng": 106.705898,
+    "province": "Hồ Chí Minh",
+    "district": "Thủ Đức",
+    "ward": "Tam Bình"
+  },
+  "Hồ Chí Minh_Thủ Đức_Tam Phú": {
+    "lat": 10.862635,
+    "lng": 106.7437481,
+    "province": "Hồ Chí Minh",
+    "district": "Thủ Đức",
+    "ward": "Tam Phú"
+  },
+  "Hồ Chí Minh_Thủ Đức_Thạnh Mỹ Lợi": {
+    "lat": 10.765031,
+    "lng": 106.7579961,
+    "province": "Hồ Chí Minh",
+    "district": "Thủ Đức",
+    "ward": "Thạnh Mỹ Lợi"
+  },
+  "Hồ Chí Minh_Thủ Đức_Thảo Điền": {
+    "lat": 10.8027781,
+    "lng": 106.7414821,
+    "province": "Hồ Chí Minh",
+    "district": "Thủ Đức",
+    "ward": "Thảo Điền"
+  },
+  "Hồ Chí Minh_Thủ Đức_Thủ Thiêm": {
+    "lat": 10.7903686,
+    "lng": 106.7448171,
+    "province": "Hồ Chí Minh",
+    "district": "Thủ Đức",
+    "ward": "Thủ Thiêm"
+  },
+  "Hồ Chí Minh_Thủ Đức_Trường Thạnh": {
+    "lat": 10.8527907,
+    "lng": 106.7725584,
+    "province": "Hồ Chí Minh",
+    "district": "Thủ Đức",
+    "ward": "Trường Thạnh"
+  },
+  "Hồ Chí Minh_Thủ Đức_Trường Thọ": {
+    "lat": 10.8236924,
+    "lng": 106.7536786,
+    "province": "Hồ Chí Minh",
+    "district": "Thủ Đức",
+    "ward": "Trường Thọ"
+  },
+  "Hồ Chí Minh_Thủ Đức_Tân Phú": {
+    "lat": 10.7840176,
+    "lng": 106.6255263,
+    "province": "Hồ Chí Minh",
+    "district": "Thủ Đức",
+    "ward": "Tân Phú"
+  },
+  "Hồ Chí Minh_Thủ Đức_Tăng Nhơn Phú A": null,
+  "Hồ Chí Minh_Thủ Đức_Tăng Nhơn Phú B": null,
+  "Hồ Chí Minh_Tân Bình_1": {
+    "lat": 10.8053756,
+    "lng": 106.6469127,
+    "province": "Hồ Chí Minh",
+    "district": "Tân Bình",
+    "ward": "1"
+  },
+  "Hồ Chí Minh_Tân Bình_10": {
+    "lat": 10.8073542,
+    "lng": 106.6681529,
+    "province": "Hồ Chí Minh",
+    "district": "Tân Bình",
+    "ward": "10"
+  },
+  "Hồ Chí Minh_Tân Bình_11": {
+    "lat": 10.8008299,
+    "lng": 106.6437341,
+    "province": "Hồ Chí Minh",
+    "district": "Tân Bình",
+    "ward": "11"
+  },
+  "Hồ Chí Minh_Tân Bình_12": {
+    "lat": 10.7995218,
+    "lng": 106.6412817,
+    "province": "Hồ Chí Minh",
+    "district": "Tân Bình",
+    "ward": "12"
+  },
+  "Hồ Chí Minh_Tân Bình_13": {
+    "lat": 10.7982162,
+    "lng": 106.641246,
+    "province": "Hồ Chí Minh",
+    "district": "Tân Bình",
+    "ward": "13"
+  },
+  "Hồ Chí Minh_Tân Bình_14": {
+    "lat": 10.8007633,
+    "lng": 106.6399787,
+    "province": "Hồ Chí Minh",
+    "district": "Tân Bình",
+    "ward": "14"
+  },
+  "Hồ Chí Minh_Tân Bình_15": {
+    "lat": 10.7867978,
+    "lng": 106.6539429,
+    "province": "Hồ Chí Minh",
+    "district": "Tân Bình",
+    "ward": "15"
+  },
+  "Hồ Chí Minh_Tân Bình_2": {
+    "lat": 10.8140826,
+    "lng": 106.6664469,
+    "province": "Hồ Chí Minh",
+    "district": "Tân Bình",
+    "ward": "2"
+  },
+  "Hồ Chí Minh_Tân Bình_3": {
+    "lat": 10.8036484,
+    "lng": 106.6660918,
+    "province": "Hồ Chí Minh",
+    "district": "Tân Bình",
+    "ward": "3"
+  },
+  "Hồ Chí Minh_Tân Bình_4": {
+    "lat": 10.7995218,
+    "lng": 106.6412817,
+    "province": "Hồ Chí Minh",
+    "district": "Tân Bình",
+    "ward": "4"
+  },
+  "Hồ Chí Minh_Tân Bình_5": {
+    "lat": 10.7939599,
+    "lng": 106.6518789,
+    "province": "Hồ Chí Minh",
+    "district": "Tân Bình",
+    "ward": "5"
+  },
+  "Hồ Chí Minh_Tân Bình_6": {
+    "lat": 10.7843554,
+    "lng": 106.6568912,
+    "province": "Hồ Chí Minh",
+    "district": "Tân Bình",
+    "ward": "6"
+  },
+  "Hồ Chí Minh_Tân Bình_7": {
+    "lat": 10.7995218,
+    "lng": 106.6412817,
+    "province": "Hồ Chí Minh",
+    "district": "Tân Bình",
+    "ward": "7"
+  },
+  "Hồ Chí Minh_Tân Bình_8": {
+    "lat": 10.7863092,
+    "lng": 106.6594822,
+    "province": "Hồ Chí Minh",
+    "district": "Tân Bình",
+    "ward": "8"
+  },
+  "Hồ Chí Minh_Tân Bình_9": {
+    "lat": 10.7975825,
+    "lng": 106.6652236,
+    "province": "Hồ Chí Minh",
+    "district": "Tân Bình",
+    "ward": "9"
+  },
+  "Hồ Chí Minh_Tân Phú_Hiệp Tân": {
+    "lat": 10.7720261,
+    "lng": 106.6297009,
+    "province": "Hồ Chí Minh",
+    "district": "Tân Phú",
+    "ward": "Hiệp Tân"
+  },
+  "Hồ Chí Minh_Tân Phú_Hòa Thạnh": {
+    "lat": 10.7764325,
+    "lng": 106.6342181,
+    "province": "Hồ Chí Minh",
+    "district": "Tân Phú",
+    "ward": "Hòa Thạnh"
+  },
+  "Hồ Chí Minh_Tân Phú_Phú Thạnh": {
+    "lat": 10.7900154,
+    "lng": 106.6335997,
+    "province": "Hồ Chí Minh",
+    "district": "Tân Phú",
+    "ward": "Phú Thạnh"
+  },
+  "Hồ Chí Minh_Tân Phú_Phú Thọ Hòa": {
+    "lat": 10.7831155,
+    "lng": 106.6363238,
+    "province": "Hồ Chí Minh",
+    "district": "Tân Phú",
+    "ward": "Phú Thọ Hòa"
+  },
+  "Hồ Chí Minh_Tân Phú_Phú Trung": {
+    "lat": 10.7829983,
+    "lng": 106.64,
+    "province": "Hồ Chí Minh",
+    "district": "Tân Phú",
+    "ward": "Phú Trung"
+  },
+  "Hồ Chí Minh_Tân Phú_Sơn Kỳ": {
+    "lat": 10.808978,
+    "lng": 106.6079566,
+    "province": "Hồ Chí Minh",
+    "district": "Tân Phú",
+    "ward": "Sơn Kỳ"
+  },
+  "Hồ Chí Minh_Tân Phú_Tân Quý": {
+    "lat": 10.7992085,
+    "lng": 106.6185662,
+    "province": "Hồ Chí Minh",
+    "district": "Tân Phú",
+    "ward": "Tân Quý"
+  },
+  "Hồ Chí Minh_Tân Phú_Tân Sơn Nhì": {
+    "lat": 10.7900154,
+    "lng": 106.6335997,
+    "province": "Hồ Chí Minh",
+    "district": "Tân Phú",
+    "ward": "Tân Sơn Nhì"
+  },
+  "Hồ Chí Minh_Tân Phú_Tân Thành": {
+    "lat": 10.7870324,
+    "lng": 106.6391919,
+    "province": "Hồ Chí Minh",
+    "district": "Tân Phú",
+    "ward": "Tân Thành"
+  },
+  "Hồ Chí Minh_Tân Phú_Tân Thới Hòa": {
+    "lat": 10.7601873,
+    "lng": 106.6306612,
+    "province": "Hồ Chí Minh",
+    "district": "Tân Phú",
+    "ward": "Tân Thới Hòa"
+  },
+  "Hồ Chí Minh_Tân Phú_Tây Thạnh": {
+    "lat": 10.9324273,
+    "lng": 106.6036221,
+    "province": "Hồ Chí Minh",
+    "district": "Tân Phú",
+    "ward": "Tây Thạnh"
+  },
+  "Khánh Hòa_Cam Lâm_Cam Hiệp Bắc": {
+    "lat": 12.0565911,
+    "lng": 109.1249193,
+    "province": "Khánh Hòa",
+    "district": "Cam Lâm",
+    "ward": "Cam Hiệp Bắc"
+  },
+  "Khánh Hòa_Cam Lâm_Cam Hiệp Nam": {
+    "lat": 12.0307331,
+    "lng": 109.1291988,
+    "province": "Khánh Hòa",
+    "district": "Cam Lâm",
+    "ward": "Cam Hiệp Nam"
+  },
+  "Khánh Hòa_Cam Lâm_Cam Hòa": {
+    "lat": 12.1014038,
+    "lng": 109.1522654,
+    "province": "Khánh Hòa",
+    "district": "Cam Lâm",
+    "ward": "Cam Hòa"
+  },
+  "Khánh Hòa_Cam Lâm_Cam Hải Tây": {
+    "lat": 12.0985639,
+    "lng": 109.1529597,
+    "province": "Khánh Hòa",
+    "district": "Cam Lâm",
+    "ward": "Cam Hải Tây"
+  },
+  "Khánh Hòa_Cam Lâm_Cam Hải Đông": {
+    "lat": 12.0956457,
+    "lng": 109.1920606,
+    "province": "Khánh Hòa",
+    "district": "Cam Lâm",
+    "ward": "Cam Hải Đông"
+  },
+  "Khánh Hòa_Cam Lâm_Cam Phước Tây": null,
+  "Khánh Hòa_Cam Lâm_Cam Thành Bắc": {
+    "lat": 12.0399383,
+    "lng": 109.1557325,
+    "province": "Khánh Hòa",
+    "district": "Cam Lâm",
+    "ward": "Cam Thành Bắc"
+  },
+  "Khánh Hòa_Cam Lâm_Cam Tân": {
+    "lat": 12.1216641,
+    "lng": 109.1023447,
+    "province": "Khánh Hòa",
+    "district": "Cam Lâm",
+    "ward": "Cam Tân"
+  },
+  "Khánh Hòa_Cam Lâm_Cam Đức": {
+    "lat": 12.054021,
+    "lng": 109.1605852,
+    "province": "Khánh Hòa",
+    "district": "Cam Lâm",
+    "ward": "Cam Đức"
+  },
+  "Khánh Hòa_Cam Lâm_Suối Cát": {
+    "lat": 12.0266826,
+    "lng": 109.1239033,
+    "province": "Khánh Hòa",
+    "district": "Cam Lâm",
+    "ward": "Suối Cát"
+  },
+  "Khánh Hòa_Cam Ranh_Cam Linh": {
+    "lat": 11.9071996,
+    "lng": 109.1485532,
+    "province": "Khánh Hòa",
+    "district": "Cam Ranh",
+    "ward": "Cam Linh"
+  },
+  "Khánh Hòa_Cam Ranh_Cam Lập": null,
+  "Khánh Hòa_Cam Ranh_Cam Lộc": {
+    "lat": 11.920552,
+    "lng": 109.1397152,
+    "province": "Khánh Hòa",
+    "district": "Cam Ranh",
+    "ward": "Cam Lộc"
+  },
+  "Khánh Hòa_Cam Ranh_Cam Nghĩa": {
+    "lat": 11.9923882,
+    "lng": 109.1906383,
+    "province": "Khánh Hòa",
+    "district": "Cam Ranh",
+    "ward": "Cam Nghĩa"
+  },
+  "Khánh Hòa_Cam Ranh_Cam Phúc Bắc": {
+    "lat": 11.9670307,
+    "lng": 109.1927525,
+    "province": "Khánh Hòa",
+    "district": "Cam Ranh",
+    "ward": "Cam Phúc Bắc"
+  },
+  "Khánh Hòa_Diên Khánh_Diên An": {
+    "lat": 12.2563099,
+    "lng": 109.0939541,
+    "province": "Khánh Hòa",
+    "district": "Diên Khánh",
+    "ward": "Diên An"
+  },
+  "Khánh Hòa_Diên Khánh_Diên Hòa": {
+    "lat": 12.2535021,
+    "lng": 109.0978389,
+    "province": "Khánh Hòa",
+    "district": "Diên Khánh",
+    "ward": "Diên Hòa"
+  },
+  "Khánh Hòa_Diên Khánh_Diên Khánh": {
+    "lat": 12.2535021,
+    "lng": 109.0978389,
+    "province": "Khánh Hòa",
+    "district": "Diên Khánh",
+    "ward": "Diên Khánh"
+  },
+  "Khánh Hòa_Diên Khánh_Diên Lạc": {
+    "lat": 12.2535021,
+    "lng": 109.0978389,
+    "province": "Khánh Hòa",
+    "district": "Diên Khánh",
+    "ward": "Diên Lạc"
+  },
+  "Khánh Hòa_Diên Khánh_Diên Phú": {
+    "lat": 12.2753744,
+    "lng": 109.1205198,
+    "province": "Khánh Hòa",
+    "district": "Diên Khánh",
+    "ward": "Diên Phú"
+  },
+  "Khánh Hòa_Diên Khánh_Diên Phước": {
+    "lat": 12.2724714,
+    "lng": 109.0955022,
+    "province": "Khánh Hòa",
+    "district": "Diên Khánh",
+    "ward": "Diên Phước"
+  },
+  "Khánh Hòa_Diên Khánh_Diên Sơn": {
+    "lat": 12.2693456,
+    "lng": 109.10019,
+    "province": "Khánh Hòa",
+    "district": "Diên Khánh",
+    "ward": "Diên Sơn"
+  },
+  "Khánh Hòa_Diên Khánh_Diên Thạnh": {
+    "lat": 12.2575085,
+    "lng": 109.0998074,
+    "province": "Khánh Hòa",
+    "district": "Diên Khánh",
+    "ward": "Diên Thạnh"
+  },
+  "Khánh Hòa_Diên Khánh_Diên Toàn": {
+    "lat": 12.2479072,
+    "lng": 109.0990555,
+    "province": "Khánh Hòa",
+    "district": "Diên Khánh",
+    "ward": "Diên Toàn"
+  },
+  "Khánh Hòa_Diên Khánh_Diên Điền": {
+    "lat": 12.2381122,
+    "lng": 109.0950557,
+    "province": "Khánh Hòa",
+    "district": "Diên Khánh",
+    "ward": "Diên Điền"
+  },
+  "Khánh Hòa_Diên Khánh_Suối Hiệp": null,
+  "Khánh Hòa_Diên Khánh_Suối Tiên": null,
+  "Khánh Hòa_Khánh Vĩnh_Sông Cầu": {
+    "lat": 12.2184401,
+    "lng": 108.9224366,
+    "province": "Khánh Hòa",
+    "district": "Khánh Vĩnh",
+    "ward": "Sông Cầu"
+  },
+  "Khánh Hòa_Nha Trang_Lộc Thọ": {
+    "lat": 12.2441173,
+    "lng": 109.192515,
+    "province": "Khánh Hòa",
+    "district": "Nha Trang",
+    "ward": "Lộc Thọ"
+  },
+  "Khánh Hòa_Nha Trang_Ngọc Hiệp": {
+    "lat": 12.2644477,
+    "lng": 109.1732925,
+    "province": "Khánh Hòa",
+    "district": "Nha Trang",
+    "ward": "Ngọc Hiệp"
+  },
+  "Khánh Hòa_Nha Trang_Phương Sài": {
+    "lat": 12.2537024,
+    "lng": 109.1818496,
+    "province": "Khánh Hòa",
+    "district": "Nha Trang",
+    "ward": "Phương Sài"
+  },
+  "Khánh Hòa_Nha Trang_Phước Hòa": {
+    "lat": 12.2366373,
+    "lng": 109.1852254,
+    "province": "Khánh Hòa",
+    "district": "Nha Trang",
+    "ward": "Phước Hòa"
+  },
+  "Khánh Hòa_Nha Trang_Phước Hải": {
+    "lat": 12.2414109,
+    "lng": 109.1763386,
+    "province": "Khánh Hòa",
+    "district": "Nha Trang",
+    "ward": "Phước Hải"
+  },
+  "Khánh Hòa_Nha Trang_Phước Long": {
+    "lat": 12.2096709,
+    "lng": 109.1912487,
+    "province": "Khánh Hòa",
+    "district": "Nha Trang",
+    "ward": "Phước Long"
+  },
+  "Khánh Hòa_Nha Trang_Phước Đồng": {
+    "lat": 12.2406506,
+    "lng": 109.1811229,
+    "province": "Khánh Hòa",
+    "district": "Nha Trang",
+    "ward": "Phước Đồng"
+  },
+  "Khánh Hòa_Nha Trang_Tân Tiến": {
+    "lat": 12.2518861,
+    "lng": 109.187874,
+    "province": "Khánh Hòa",
+    "district": "Nha Trang",
+    "ward": "Tân Tiến"
+  },
+  "Khánh Hòa_Nha Trang_Vĩnh Hiệp": {
+    "lat": 12.2552447,
+    "lng": 109.1595137,
+    "province": "Khánh Hòa",
+    "district": "Nha Trang",
+    "ward": "Vĩnh Hiệp"
+  },
+  "Khánh Hòa_Nha Trang_Vĩnh Hòa": {
+    "lat": 12.2244626,
+    "lng": 109.1753345,
+    "province": "Khánh Hòa",
+    "district": "Nha Trang",
+    "ward": "Vĩnh Hòa"
+  },
+  "Khánh Hòa_Nha Trang_Vĩnh Hải": {
+    "lat": 12.2378755,
+    "lng": 109.1788273,
+    "province": "Khánh Hòa",
+    "district": "Nha Trang",
+    "ward": "Vĩnh Hải"
+  },
+  "Khánh Hòa_Nha Trang_Vĩnh Lương": {
+    "lat": 12.2164756,
+    "lng": 109.1929727,
+    "province": "Khánh Hòa",
+    "district": "Nha Trang",
+    "ward": "Vĩnh Lương"
+  },
+  "Khánh Hòa_Nha Trang_Vĩnh Nguyên": {
+    "lat": 12.2751875,
+    "lng": 109.1471923,
+    "province": "Khánh Hòa",
+    "district": "Nha Trang",
+    "ward": "Vĩnh Nguyên"
+  },
+  "Khánh Hòa_Nha Trang_Vĩnh Ngọc": {
+    "lat": 12.2866735,
+    "lng": 109.1838996,
+    "province": "Khánh Hòa",
+    "district": "Nha Trang",
+    "ward": "Vĩnh Ngọc"
+  },
+  "Khánh Hòa_Nha Trang_Vĩnh Phương": {
+    "lat": 12.2744421,
+    "lng": 109.1472897,
+    "province": "Khánh Hòa",
+    "district": "Nha Trang",
+    "ward": "Vĩnh Phương"
+  },
+  "Khánh Hòa_Nha Trang_Vĩnh Phước": {
+    "lat": 12.2703854,
+    "lng": 109.1923405,
+    "province": "Khánh Hòa",
+    "district": "Nha Trang",
+    "ward": "Vĩnh Phước"
+  },
+  "Khánh Hòa_Nha Trang_Vĩnh Thái": {
+    "lat": 12.2347389,
+    "lng": 109.1594567,
+    "province": "Khánh Hòa",
+    "district": "Nha Trang",
+    "ward": "Vĩnh Thái"
+  },
+  "Khánh Hòa_Nha Trang_Vĩnh Thạnh": {
+    "lat": 12.2496595,
+    "lng": 109.1823727,
+    "province": "Khánh Hòa",
+    "district": "Nha Trang",
+    "ward": "Vĩnh Thạnh"
+  },
+  "Khánh Hòa_Nha Trang_Vĩnh Thọ": {
+    "lat": 12.2570901,
+    "lng": 109.130543,
+    "province": "Khánh Hòa",
+    "district": "Nha Trang",
+    "ward": "Vĩnh Thọ"
+  },
+  "Khánh Hòa_Nha Trang_Vĩnh Trung": {
+    "lat": 12.2534758,
+    "lng": 109.1697243,
+    "province": "Khánh Hòa",
+    "district": "Nha Trang",
+    "ward": "Vĩnh Trung"
+  },
+  "Khánh Hòa_Nha Trang_Vĩnh Trường": {
+    "lat": 12.2036905,
+    "lng": 109.1782959,
+    "province": "Khánh Hòa",
+    "district": "Nha Trang",
+    "ward": "Vĩnh Trường"
+  },
+  "Khánh Hòa_Nha Trang_Vạn Thạnh": {
+    "lat": 12.2518503,
+    "lng": 109.1893479,
+    "province": "Khánh Hòa",
+    "district": "Nha Trang",
+    "ward": "Vạn Thạnh"
+  },
+  "Khánh Hòa_Ninh Hòa_Ninh An": {
+    "lat": 12.5513479,
+    "lng": 109.164978,
+    "province": "Khánh Hòa",
+    "district": "Ninh Hòa",
+    "ward": "Ninh An"
+  },
+  "Khánh Hòa_Ninh Hòa_Ninh Bình": {
+    "lat": 12.5339297,
+    "lng": 109.1824154,
+    "province": "Khánh Hòa",
+    "district": "Ninh Hòa",
+    "ward": "Ninh Bình"
+  },
+  "Khánh Hòa_Ninh Hòa_Ninh Giang": null,
+  "Khánh Hòa_Ninh Hòa_Ninh Hiệp": {
+    "lat": 12.4842143,
+    "lng": 109.1260568,
+    "province": "Khánh Hòa",
+    "district": "Ninh Hòa",
+    "ward": "Ninh Hiệp"
+  },
+  "Khánh Hòa_Ninh Hòa_Ninh Hải": {
+    "lat": 11.6165456,
+    "lng": 109.0626156,
+    "province": "Khánh Hòa",
+    "district": "Ninh Hòa",
+    "ward": "Ninh Hải"
+  },
+  "Khánh Hòa_Ninh Hòa_Ninh Quang": {
+    "lat": 12.4970465,
+    "lng": 109.1325313,
+    "province": "Khánh Hòa",
+    "district": "Ninh Hòa",
+    "ward": "Ninh Quang"
+  },
+  "Khánh Hòa_Ninh Hòa_Ninh Thọ": {
+    "lat": 12.5339297,
+    "lng": 109.1824154,
+    "province": "Khánh Hòa",
+    "district": "Ninh Hòa",
+    "ward": "Ninh Thọ"
+  },
+  "Khánh Hòa_Ninh Hòa_Ninh Thủy": {
+    "lat": 16.4725895,
+    "lng": 107.5688369,
+    "province": "Khánh Hòa",
+    "district": "Ninh Hòa",
+    "ward": "Ninh Thủy"
+  },
+  "Khánh Hòa_Vạn Ninh_Vạn Giã": {
+    "lat": 12.6996814,
+    "lng": 109.2244852,
+    "province": "Khánh Hòa",
+    "district": "Vạn Ninh",
+    "ward": "Vạn Giã"
+  },
+  "Khánh Hòa_Vạn Ninh_Vạn Khánh": {
+    "lat": 12.6779063,
+    "lng": 109.2142991,
+    "province": "Khánh Hòa",
+    "district": "Vạn Ninh",
+    "ward": "Vạn Khánh"
+  },
+  "Khánh Hòa_Vạn Ninh_Vạn Lương": {
+    "lat": 12.6807651,
+    "lng": 109.2130074,
+    "province": "Khánh Hòa",
+    "district": "Vạn Ninh",
+    "ward": "Vạn Lương"
+  },
+  "Khánh Hòa_Vạn Ninh_Vạn Thắng": {
+    "lat": 12.7034594,
+    "lng": 109.2277728,
+    "province": "Khánh Hòa",
+    "district": "Vạn Ninh",
+    "ward": "Vạn Thắng"
+  },
+  "Khánh Hòa_Vạn Ninh_Vạn Thọ": {
+    "lat": 12.6997797,
+    "lng": 109.226297,
+    "province": "Khánh Hòa",
+    "district": "Vạn Ninh",
+    "ward": "Vạn Thọ"
+  },
+  "Khánh Hòa_Vạn Ninh_Đại Lãnh": null
+}

@@ -1,0 +1,2192 @@
+{
+  "Hà Nội_Nam Từ Liêm": {
+    "lat": 21.01254,
+    "lng": 105.76632,
+    "province": "Hà Nội",
+    "district": "Nam Từ Liêm"
+  },
+  "Hà Nội_Hà Đông": {
+    "lat": 20.97121,
+    "lng": 105.77701,
+    "province": "Hà Nội",
+    "district": "Hà Đông"
+  },
+  "Hồ Chí Minh_Bình Thạnh": {
+    "lat": 10.81058,
+    "lng": 106.70914,
+    "province": "Hồ Chí Minh",
+    "district": "Bình Thạnh"
+  },
+  "Đà Nẵng_Sơn Trà": {
+    "lat": 16.08861,
+    "lng": 108.24312,
+    "province": "Đà Nẵng",
+    "district": "Sơn Trà"
+  },
+  "Hồ Chí Minh_Bình Tân": {
+    "lat": 10.76543,
+    "lng": 106.59821,
+    "province": "Hồ Chí Minh",
+    "district": "Bình Tân"
+  },
+  "Hà Nội_Long Biên": {
+    "lat": 21.03622,
+    "lng": 105.89434,
+    "province": "Hà Nội",
+    "district": "Long Biên"
+  },
+  "Hồ Chí Minh_Nhà Bè": {
+    "lat": 10.69532,
+    "lng": 106.72911,
+    "province": "Hồ Chí Minh",
+    "district": "Nhà Bè"
+  },
+  "Hồ Chí Minh_Tân Bình": {
+    "lat": 10.80146,
+    "lng": 106.65342,
+    "province": "Hồ Chí Minh",
+    "district": "Tân Bình"
+  },
+  "Hà Nội_Đống Đa": {
+    "lat": 21.01824,
+    "lng": 105.82729,
+    "province": "Hà Nội",
+    "district": "Đống Đa"
+  },
+  "Long An_Đức Hòa": {
+    "lat": 10.5333,
+    "lng": 106.4,
+    "province": "Long An",
+    "district": "Đức Hòa"
+  },
+  "Quảng Ninh_Hạ Long": {
+    "lat": 20.9505,
+    "lng": 107.0734,
+    "province": "Quảng Ninh",
+    "district": "Hạ Long"
+  },
+  "Khánh Hòa_Nha Trang": {
+    "lat": 12.238791,
+    "lng": 109.196749,
+    "province": "Khánh Hòa",
+    "district": "Nha Trang"
+  },
+  "Hà Nội_Chương Mỹ": {
+    "lat": 20.88333,
+    "lng": 105.68333,
+    "province": "Hà Nội",
+    "district": "Chương Mỹ"
+  },
+  "Hà Nội_Thường Tín": {
+    "lat": 20.86667,
+    "lng": 105.86667,
+    "province": "Hà Nội",
+    "district": "Thường Tín"
+  },
+  "Bình Dương_Dĩ An": {
+    "lat": 10.90694,
+    "lng": 106.7725,
+    "province": "Bình Dương",
+    "district": "Dĩ An"
+  },
+  "Hà Nội_Đông Anh": {
+    "lat": 21.13962,
+    "lng": 105.84583,
+    "province": "Hà Nội",
+    "district": "Đông Anh"
+  },
+  "Hà Nội_Cầu Giấy": {
+    "lat": 21.03134,
+    "lng": 105.79251,
+    "province": "Hà Nội",
+    "district": "Cầu Giấy"
+  },
+  "Huế_": {
+    "lat": 16.4667,
+    "lng": 107.6,
+    "province": "Huế",
+    "district": ""
+  },
+  "Hồ Chí Minh_Thủ Đức": {
+    "lat": 10.849409,
+    "lng": 106.753706,
+    "province": "Hồ Chí Minh",
+    "district": "Thủ Đức"
+  },
+  "Đồng Nai_Nhơn Trạch": {
+    "lat": 10.9574,
+    "lng": 106.8427,
+    "province": "Đồng Nai",
+    "district": "Nhơn Trạch"
+  },
+  "Đà Nẵng_Ngũ Hành Sơn": {
+    "lat": 16.00244,
+    "lng": 108.25833,
+    "province": "Đà Nẵng",
+    "district": "Ngũ Hành Sơn"
+  },
+  "Bà Rịa - Vũng Tàu_Long Đất": {
+    "lat": 10.5422,
+    "lng": 107.2429,
+    "province": "Bà Rịa - Vũng Tàu",
+    "district": "Long Đất"
+  },
+  "Hồ Chí Minh_": {
+    "lat": 10.775659,
+    "lng": 106.700424,
+    "province": "Hồ Chí Minh",
+    "district": ""
+  },
+  "Hà Nội_Gia Lâm": {
+    "lat": 21.03333,
+    "lng": 105.95,
+    "province": "Hà Nội",
+    "district": "Gia Lâm"
+  },
+  "Hồ Chí Minh_Quận 8": {
+    "lat": 10.72408,
+    "lng": 106.62862,
+    "province": "Hồ Chí Minh",
+    "district": "Quận 8"
+  },
+  "Hà Nội_Sóc Sơn": {
+    "lat": 21.28333,
+    "lng": 105.85,
+    "province": "Hà Nội",
+    "district": "Sóc Sơn"
+  },
+  "Long An_Cần Giuộc": {
+    "lat": 10.5333,
+    "lng": 106.4,
+    "province": "Long An",
+    "district": "Cần Giuộc"
+  },
+  "Hồ Chí Minh_Quận 3": {
+    "lat": 10.78436,
+    "lng": 106.68444,
+    "province": "Hồ Chí Minh",
+    "district": "Quận 3"
+  },
+  "Hưng Yên_Văn Lâm": {
+    "lat": 20.65,
+    "lng": 106.05,
+    "province": "Hưng Yên",
+    "district": "Văn Lâm"
+  },
+  "Hà Nội_Bắc Từ Liêm": {
+    "lat": 21.06381,
+    "lng": 105.75924,
+    "province": "Hà Nội",
+    "district": "Bắc Từ Liêm"
+  },
+  "Hà Nội_Mê Linh": {
+    "lat": 21.18333,
+    "lng": 105.71667,
+    "province": "Hà Nội",
+    "district": "Mê Linh"
+  },
+  "Bình Dương_Thuận An": {
+    "lat": 10.92528,
+    "lng": 106.69806,
+    "province": "Bình Dương",
+    "district": "Thuận An"
+  },
+  "Hà Nội_Tây Hồ": {
+    "lat": 21.06643,
+    "lng": 105.81951,
+    "province": "Hà Nội",
+    "district": "Tây Hồ"
+  },
+  "Hưng Yên_Văn Giang": {
+    "lat": 20.65,
+    "lng": 106.05,
+    "province": "Hưng Yên",
+    "district": "Văn Giang"
+  },
+  "Hải Phòng_An Lão": {
+    "lat": 20.844912,
+    "lng": 106.688084,
+    "province": "Hải Phòng",
+    "district": "An Lão"
+  },
+  "Hồ Chí Minh_Phú Nhuận": {
+    "lat": 10.79919,
+    "lng": 106.68026,
+    "province": "Hồ Chí Minh",
+    "district": "Phú Nhuận"
+  },
+  "Hà Nội_Ba Đình": {
+    "lat": 21.03471,
+    "lng": 105.82823,
+    "province": "Hà Nội",
+    "district": "Ba Đình"
+  },
+  "Hồ Chí Minh_Quận 1": {
+    "lat": 10.775659,
+    "lng": 106.700424,
+    "province": "Hồ Chí Minh",
+    "district": "Quận 1"
+  },
+  "Bắc Giang_Lục Ngạn": {
+    "lat": 21.2731,
+    "lng": 106.1946,
+    "province": "Bắc Giang",
+    "district": "Lục Ngạn"
+  },
+  "Hồ Chí Minh_Gò Vấp": {
+    "lat": 10.83884,
+    "lng": 106.66579,
+    "province": "Hồ Chí Minh",
+    "district": "Gò Vấp"
+  },
+  "Hà Nội_Hoàng Mai": {
+    "lat": 20.97801,
+    "lng": 105.84583,
+    "province": "Hà Nội",
+    "district": "Hoàng Mai"
+  },
+  "Bình Dương_Thủ Dầu Một": {
+    "lat": 10.98045,
+    "lng": 106.65187,
+    "province": "Bình Dương",
+    "district": "Thủ Dầu Một"
+  },
+  "Đà Nẵng_Liên Chiểu": {
+    "lat": 16.08253,
+    "lng": 108.14652,
+    "province": "Đà Nẵng",
+    "district": "Liên Chiểu"
+  },
+  "Hồ Chí Minh_Quận 7": {
+    "lat": 10.73403,
+    "lng": 106.72183,
+    "province": "Hồ Chí Minh",
+    "district": "Quận 7"
+  },
+  "Hồ Chí Minh_Quận 6": {
+    "lat": 10.74809,
+    "lng": 106.63519,
+    "province": "Hồ Chí Minh",
+    "district": "Quận 6"
+  },
+  "Bà Rịa - Vũng Tàu_Vũng Tàu": {
+    "lat": 10.5422,
+    "lng": 107.2429,
+    "province": "Bà Rịa - Vũng Tàu",
+    "district": "Vũng Tàu"
+  },
+  "Hải Phòng_Kiến Thụy": {
+    "lat": 20.844912,
+    "lng": 106.688084,
+    "province": "Hải Phòng",
+    "district": "Kiến Thụy"
+  },
+  "Hồ Chí Minh_Tân Phú": {
+    "lat": 10.79005,
+    "lng": 106.62817,
+    "province": "Hồ Chí Minh",
+    "district": "Tân Phú"
+  },
+  "Đắk Lắk_Buôn Ma Thuột": {
+    "lat": 12.6667,
+    "lng": 108.05,
+    "province": "Đắk Lắk",
+    "district": "Buôn Ma Thuột"
+  },
+  "Hồ Chí Minh_Quận 12": {
+    "lat": 10.86715,
+    "lng": 106.64134,
+    "province": "Hồ Chí Minh",
+    "district": "Quận 12"
+  },
+  "Đà Nẵng_Cẩm Lệ": {
+    "lat": 16.01823,
+    "lng": 108.19632,
+    "province": "Đà Nẵng",
+    "district": "Cẩm Lệ"
+  },
+  "Hà Nội_Hoàn Kiếm": {
+    "lat": 21.03065,
+    "lng": 105.85244,
+    "province": "Hà Nội",
+    "district": "Hoàn Kiếm"
+  },
+  "Bà Rịa - Vũng Tàu_Bà Rịa": {
+    "lat": 10.5422,
+    "lng": 107.2429,
+    "province": "Bà Rịa - Vũng Tàu",
+    "district": "Bà Rịa"
+  },
+  "Hải Phòng_Hải An": {
+    "lat": 20.83542,
+    "lng": 106.73214,
+    "province": "Hải Phòng",
+    "district": "Hải An"
+  },
+  "Đà Nẵng_Hải Châu": {
+    "lat": 16.054407,
+    "lng": 108.219806,
+    "province": "Đà Nẵng",
+    "district": "Hải Châu"
+  },
+  "Huế_Hương Thủy": {
+    "lat": 16.4667,
+    "lng": 107.6,
+    "province": "Huế",
+    "district": "Hương Thủy"
+  },
+  "Hồ Chí Minh_Bình Chánh": {
+    "lat": 10.68739,
+    "lng": 106.59388,
+    "province": "Hồ Chí Minh",
+    "district": "Bình Chánh"
+  },
+  "Hồ Chí Minh_Củ Chi": {
+    "lat": 11.00667,
+    "lng": 106.495,
+    "province": "Hồ Chí Minh",
+    "district": "Củ Chi"
+  },
+  "Bình Dương_Tân Uyên": {
+    "lat": 11.08333,
+    "lng": 106.78333,
+    "province": "Bình Dương",
+    "district": "Tân Uyên"
+  },
+  "Hà Nội_Sơn Tây": {
+    "lat": 21.13783,
+    "lng": 105.50422,
+    "province": "Hà Nội",
+    "district": "Sơn Tây"
+  },
+  "Hà Nội_Thanh Xuân": {
+    "lat": 20.99375,
+    "lng": 105.81182,
+    "province": "Hà Nội",
+    "district": "Thanh Xuân"
+  },
+  "Lâm Đồng_Đà Lạt": {
+    "lat": 11.9416,
+    "lng": 108.4383,
+    "province": "Lâm Đồng",
+    "district": "Đà Lạt"
+  },
+  "Bắc Giang_Việt Yên": {
+    "lat": 21.2731,
+    "lng": 106.1946,
+    "province": "Bắc Giang",
+    "district": "Việt Yên"
+  },
+  "Hà Nội_Hai Bà Trưng": {
+    "lat": 21.00693,
+    "lng": 105.85442,
+    "province": "Hà Nội",
+    "district": "Hai Bà Trưng"
+  },
+  "Hà Nội_Thanh Trì": {
+    "lat": 20.94273,
+    "lng": 105.84583,
+    "province": "Hà Nội",
+    "district": "Thanh Trì"
+  },
+  "Đồng Nai_Trảng Bom": {
+    "lat": 10.9574,
+    "lng": 106.8427,
+    "province": "Đồng Nai",
+    "district": "Trảng Bom"
+  },
+  "Đồng Nai_Định Quán": {
+    "lat": 10.9574,
+    "lng": 106.8427,
+    "province": "Đồng Nai",
+    "district": "Định Quán"
+  },
+  "Hồ Chí Minh_Quận 11": {
+    "lat": 10.76293,
+    "lng": 106.65019,
+    "province": "Hồ Chí Minh",
+    "district": "Quận 11"
+  },
+  "Thanh Hóa_Quảng Xương": {
+    "lat": 19.8,
+    "lng": 105.7667,
+    "province": "Thanh Hóa",
+    "district": "Quảng Xương"
+  },
+  "Quảng Nam_Phú Ninh": {
+    "lat": 15.5667,
+    "lng": 108.4833,
+    "province": "Quảng Nam",
+    "district": "Phú Ninh"
+  },
+  "Long An_Tân An": {
+    "lat": 10.5333,
+    "lng": 106.4,
+    "province": "Long An",
+    "district": "Tân An"
+  },
+  "Cần Thơ_Cái Răng": {
+    "lat": 9.98333,
+    "lng": 105.76667,
+    "province": "Cần Thơ",
+    "district": "Cái Răng"
+  },
+  "Khánh Hòa_Cam Ranh": {
+    "lat": 11.92139,
+    "lng": 109.15917,
+    "province": "Khánh Hòa",
+    "district": "Cam Ranh"
+  },
+  "Khánh Hòa_Diên Khánh": {
+    "lat": 12.2388,
+    "lng": 109.1967,
+    "province": "Khánh Hòa",
+    "district": "Diên Khánh"
+  },
+  "Đà Nẵng_Thanh Khê": {
+    "lat": 16.06012,
+    "lng": 108.18845,
+    "province": "Đà Nẵng",
+    "district": "Thanh Khê"
+  },
+  "Long An_Bến Lức": {
+    "lat": 10.5333,
+    "lng": 106.4,
+    "province": "Long An",
+    "district": "Bến Lức"
+  },
+  "Bà Rịa - Vũng Tàu_": {
+    "lat": 10.5422,
+    "lng": 107.2429,
+    "province": "Bà Rịa - Vũng Tàu",
+    "district": ""
+  },
+  "Lâm Đồng_Bảo Lâm": {
+    "lat": 11.9416,
+    "lng": 108.4383,
+    "province": "Lâm Đồng",
+    "district": "Bảo Lâm"
+  },
+  "Hà Nội_Thanh Oai": {
+    "lat": 21.028511,
+    "lng": 105.854167,
+    "province": "Hà Nội",
+    "district": "Thanh Oai"
+  },
+  "Bình Dương_Bến Cát": {
+    "lat": 11.13444,
+    "lng": 106.60694,
+    "province": "Bình Dương",
+    "district": "Bến Cát"
+  },
+  "Hà Nội_Mỹ Đức": {
+    "lat": 21.028511,
+    "lng": 105.854167,
+    "province": "Hà Nội",
+    "district": "Mỹ Đức"
+  },
+  "Ninh Bình_Tam Điệp": {
+    "lat": 20.25,
+    "lng": 105.9667,
+    "province": "Ninh Bình",
+    "district": "Tam Điệp"
+  },
+  "Hồ Chí Minh_Quận 10": {
+    "lat": 10.77159,
+    "lng": 106.66723,
+    "province": "Hồ Chí Minh",
+    "district": "Quận 10"
+  },
+  "Lâm Đồng_Đức Trọng": {
+    "lat": 11.9416,
+    "lng": 108.4383,
+    "province": "Lâm Đồng",
+    "district": "Đức Trọng"
+  },
+  "Hồ Chí Minh_Hóc Môn": {
+    "lat": 10.88392,
+    "lng": 106.59388,
+    "province": "Hồ Chí Minh",
+    "district": "Hóc Môn"
+  },
+  "Kiên Giang_Châu Thành": {
+    "lat": 10.0125,
+    "lng": 105.0809,
+    "province": "Kiên Giang",
+    "district": "Châu Thành"
+  },
+  "Hồ Chí Minh_Quận 4": {
+    "lat": 10.76442,
+    "lng": 106.70423,
+    "province": "Hồ Chí Minh",
+    "district": "Quận 4"
+  },
+  "Đồng Nai_Biên Hòa": {
+    "lat": 10.9574,
+    "lng": 106.8427,
+    "province": "Đồng Nai",
+    "district": "Biên Hòa"
+  },
+  "Hải Phòng_Thủy Nguyên": {
+    "lat": 20.844912,
+    "lng": 106.688084,
+    "province": "Hải Phòng",
+    "district": "Thủy Nguyên"
+  },
+  "Cần Thơ_Ninh Kiều": {
+    "lat": 10.03333,
+    "lng": 105.78333,
+    "province": "Cần Thơ",
+    "district": "Ninh Kiều"
+  },
+  "Hải Phòng_Lê Chân": {
+    "lat": 20.84412,
+    "lng": 106.68045,
+    "province": "Hải Phòng",
+    "district": "Lê Chân"
+  },
+  "Hải Phòng_Dương Kinh": {
+    "lat": 20.844912,
+    "lng": 106.688084,
+    "province": "Hải Phòng",
+    "district": "Dương Kinh"
+  },
+  "Hải Phòng_Hồng Bàng": {
+    "lat": 20.86544,
+    "lng": 106.67132,
+    "province": "Hải Phòng",
+    "district": "Hồng Bàng"
+  },
+  "Long An_Thủ Thừa": {
+    "lat": 10.5333,
+    "lng": 106.4,
+    "province": "Long An",
+    "district": "Thủ Thừa"
+  },
+  "Bắc Ninh_Gia Bình": {
+    "lat": 21.1861,
+    "lng": 106.0763,
+    "province": "Bắc Ninh",
+    "district": "Gia Bình"
+  },
+  "Hà Nội_Thạch Thất": {
+    "lat": 21.01667,
+    "lng": 105.53333,
+    "province": "Hà Nội",
+    "district": "Thạch Thất"
+  },
+  "Đà Nẵng_Hòa Vang": {
+    "lat": 15.98762,
+    "lng": 108.11543,
+    "province": "Đà Nẵng",
+    "district": "Hòa Vang"
+  },
+  "Hà Nội_Hoài Đức": {
+    "lat": 21.02534,
+    "lng": 105.70612,
+    "province": "Hà Nội",
+    "district": "Hoài Đức"
+  },
+  "Bình Thuận_Tánh Linh": {
+    "lat": 10.9273,
+    "lng": 108.1017,
+    "province": "Bình Thuận",
+    "district": "Tánh Linh"
+  },
+  "Bình Định_Quy Nhơn": {
+    "lat": 13.783,
+    "lng": 109.2197,
+    "province": "Bình Định",
+    "district": "Quy Nhơn"
+  },
+  "Hồ Chí Minh_Quận 5": {
+    "lat": 10.75404,
+    "lng": 106.66341,
+    "province": "Hồ Chí Minh",
+    "district": "Quận 5"
+  },
+  "Hà Nội_Quốc Oai": {
+    "lat": 20.98333,
+    "lng": 105.63333,
+    "province": "Hà Nội",
+    "district": "Quốc Oai"
+  },
+  "Khánh Hòa_Ninh Hòa": {
+    "lat": 12.2388,
+    "lng": 109.1967,
+    "province": "Khánh Hòa",
+    "district": "Ninh Hòa"
+  },
+  "Khánh Hòa_Cam Lâm": {
+    "lat": 12.2388,
+    "lng": 109.1967,
+    "province": "Khánh Hòa",
+    "district": "Cam Lâm"
+  },
+  "Bình Dương_Bắc Tân Uyên": {
+    "lat": 11.1322,
+    "lng": 106.6667,
+    "province": "Bình Dương",
+    "district": "Bắc Tân Uyên"
+  },
+  "Thái Nguyên_Thái Nguyên": {
+    "lat": 21.5833,
+    "lng": 105.8333,
+    "province": "Thái Nguyên",
+    "district": "Thái Nguyên"
+  },
+  "Ninh Thuận_Phan Rang - Tháp Chàm": {
+    "lat": 11.5667,
+    "lng": 108.9833,
+    "province": "Ninh Thuận",
+    "district": "Phan Rang - Tháp Chàm"
+  },
+  "Tiền Giang_Mỹ Tho": {
+    "lat": 10.35,
+    "lng": 106.35,
+    "province": "Tiền Giang",
+    "district": "Mỹ Tho"
+  },
+  "Long An_Đức Huệ": {
+    "lat": 10.5333,
+    "lng": 106.4,
+    "province": "Long An",
+    "district": "Đức Huệ"
+  },
+  "Huế_Phú Vang": {
+    "lat": 16.4667,
+    "lng": 107.6,
+    "province": "Huế",
+    "district": "Phú Vang"
+  },
+  "Nghệ An_Nghi Lộc": {
+    "lat": 18.6667,
+    "lng": 105.6667,
+    "province": "Nghệ An",
+    "district": "Nghi Lộc"
+  },
+  "Bắc Ninh_Từ Sơn": {
+    "lat": 21.1861,
+    "lng": 106.0763,
+    "province": "Bắc Ninh",
+    "district": "Từ Sơn"
+  },
+  "Hưng Yên_Ân Thi": {
+    "lat": 20.65,
+    "lng": 106.05,
+    "province": "Hưng Yên",
+    "district": "Ân Thi"
+  },
+  "Hải Phòng_Cát Hải": {
+    "lat": 20.844912,
+    "lng": 106.688084,
+    "province": "Hải Phòng",
+    "district": "Cát Hải"
+  },
+  "Hà Nội_Đan Phượng": {
+    "lat": 21.09641,
+    "lng": 105.67932,
+    "province": "Hà Nội",
+    "district": "Đan Phượng"
+  },
+  "Đồng Nai_Vĩnh Cửu": {
+    "lat": 10.9574,
+    "lng": 106.8427,
+    "province": "Đồng Nai",
+    "district": "Vĩnh Cửu"
+  },
+  "Quảng Nam_Điện Bàn": {
+    "lat": 15.5667,
+    "lng": 108.4833,
+    "province": "Quảng Nam",
+    "district": "Điện Bàn"
+  },
+  "Thanh Hóa_Thanh Hóa": {
+    "lat": 19.8,
+    "lng": 105.7667,
+    "province": "Thanh Hóa",
+    "district": "Thanh Hóa"
+  },
+  "Thái Bình_Tiền Hải": {
+    "lat": 20.45,
+    "lng": 106.3333,
+    "province": "Thái Bình",
+    "district": "Tiền Hải"
+  },
+  "Hải Phòng_An Dương": {
+    "lat": 20.844912,
+    "lng": 106.688084,
+    "province": "Hải Phòng",
+    "district": "An Dương"
+  },
+  "Kiên Giang_Rạch Giá": {
+    "lat": 10.0125,
+    "lng": 105.0809,
+    "province": "Kiên Giang",
+    "district": "Rạch Giá"
+  },
+  "Thanh Hóa_Sầm Sơn": {
+    "lat": 19.8,
+    "lng": 105.7667,
+    "province": "Thanh Hóa",
+    "district": "Sầm Sơn"
+  },
+  "Quảng Ngãi_Lý Sơn": {
+    "lat": 15.1167,
+    "lng": 108.8,
+    "province": "Quảng Ngãi",
+    "district": "Lý Sơn"
+  },
+  "Hà Tĩnh_Hà Tĩnh": {
+    "lat": 18.3333,
+    "lng": 105.9,
+    "province": "Hà Tĩnh",
+    "district": "Hà Tĩnh"
+  },
+  "Nghệ An_": {
+    "lat": 18.6667,
+    "lng": 105.6667,
+    "province": "Nghệ An",
+    "district": ""
+  },
+  "Kiên Giang_Phú Quốc": {
+    "lat": 10.0125,
+    "lng": 105.0809,
+    "province": "Kiên Giang",
+    "district": "Phú Quốc"
+  },
+  "Hưng Yên_Khoái Châu": {
+    "lat": 20.65,
+    "lng": 106.05,
+    "province": "Hưng Yên",
+    "district": "Khoái Châu"
+  },
+  "Đồng Tháp_Sa Đéc": {
+    "lat": 10.4578,
+    "lng": 105.6331,
+    "province": "Đồng Tháp",
+    "district": "Sa Đéc"
+  },
+  "Lâm Đồng_Lâm Hà": {
+    "lat": 11.9416,
+    "lng": 108.4383,
+    "province": "Lâm Đồng",
+    "district": "Lâm Hà"
+  },
+  "Lạng Sơn_Lạng Sơn": {
+    "lat": 21.85,
+    "lng": 106.75,
+    "province": "Lạng Sơn",
+    "district": "Lạng Sơn"
+  },
+  "Hưng Yên_Phù Cừ": {
+    "lat": 20.65,
+    "lng": 106.05,
+    "province": "Hưng Yên",
+    "district": "Phù Cừ"
+  },
+  "Thanh Hóa_": {
+    "lat": 19.8,
+    "lng": 105.7667,
+    "province": "Thanh Hóa",
+    "district": ""
+  },
+  "Nam Định_Nam Định": {
+    "lat": 20.4333,
+    "lng": 106.1667,
+    "province": "Nam Định",
+    "district": "Nam Định"
+  },
+  "Thái Bình_Thái Bình": {
+    "lat": 20.45,
+    "lng": 106.3333,
+    "province": "Thái Bình",
+    "district": "Thái Bình"
+  },
+  "Đắk Lắk_Buôn Hồ": {
+    "lat": 12.6667,
+    "lng": 108.05,
+    "province": "Đắk Lắk",
+    "district": "Buôn Hồ"
+  },
+  "Đồng Tháp_Lai Vung": {
+    "lat": 10.4578,
+    "lng": 105.6331,
+    "province": "Đồng Tháp",
+    "district": "Lai Vung"
+  },
+  "Bà Rịa - Vũng Tàu_Châu Đức": {
+    "lat": 10.5422,
+    "lng": 107.2429,
+    "province": "Bà Rịa - Vũng Tàu",
+    "district": "Châu Đức"
+  },
+  "Vĩnh Phúc_Bình Xuyên": {
+    "lat": 21.3,
+    "lng": 105.6,
+    "province": "Vĩnh Phúc",
+    "district": "Bình Xuyên"
+  },
+  "Sơn La_Mộc Châu": {
+    "lat": 21.3167,
+    "lng": 103.9167,
+    "province": "Sơn La",
+    "district": "Mộc Châu"
+  },
+  "Bắc Ninh_Thuận Thành": {
+    "lat": 21.1861,
+    "lng": 106.0763,
+    "province": "Bắc Ninh",
+    "district": "Thuận Thành"
+  },
+  "Bình Dương_Bàu Bàng": {
+    "lat": 11.1322,
+    "lng": 106.6667,
+    "province": "Bình Dương",
+    "district": "Bàu Bàng"
+  },
+  "Nghệ An_Vinh": {
+    "lat": 18.6667,
+    "lng": 105.6667,
+    "province": "Nghệ An",
+    "district": "Vinh"
+  },
+  "Bình Thuận_Hàm Thuận Bắc": {
+    "lat": 10.9273,
+    "lng": 108.1017,
+    "province": "Bình Thuận",
+    "district": "Hàm Thuận Bắc"
+  },
+  "Quảng Nam_Hội An": {
+    "lat": 15.5667,
+    "lng": 108.4833,
+    "province": "Quảng Nam",
+    "district": "Hội An"
+  },
+  "Hải Phòng_Đồ Sơn": {
+    "lat": 20.844912,
+    "lng": 106.688084,
+    "province": "Hải Phòng",
+    "district": "Đồ Sơn"
+  },
+  "Cà Mau_Cà Mau": {
+    "lat": 9.1769,
+    "lng": 105.1501,
+    "province": "Cà Mau",
+    "district": "Cà Mau"
+  },
+  "Tây Ninh_Trảng Bàng": {
+    "lat": 11.3,
+    "lng": 106.1,
+    "province": "Tây Ninh",
+    "district": "Trảng Bàng"
+  },
+  "Bà Rịa - Vũng Tàu_Phú Mỹ": {
+    "lat": 10.5422,
+    "lng": 107.2429,
+    "province": "Bà Rịa - Vũng Tàu",
+    "district": "Phú Mỹ"
+  },
+  "Bến Tre_Bến Tre": {
+    "lat": 10.2433,
+    "lng": 106.3756,
+    "province": "Bến Tre",
+    "district": "Bến Tre"
+  },
+  "Hải Phòng_Ngô Quyền": {
+    "lat": 20.85423,
+    "lng": 106.69912,
+    "province": "Hải Phòng",
+    "district": "Ngô Quyền"
+  },
+  "Hà Nam_Phủ Lý": {
+    "lat": 20.5833,
+    "lng": 105.9167,
+    "province": "Hà Nam",
+    "district": "Phủ Lý"
+  },
+  "Bắc Ninh_Bắc Ninh": {
+    "lat": 21.1861,
+    "lng": 106.0763,
+    "province": "Bắc Ninh",
+    "district": "Bắc Ninh"
+  },
+  "Long An_Cần Đước": {
+    "lat": 10.5333,
+    "lng": 106.4,
+    "province": "Long An",
+    "district": "Cần Đước"
+  },
+  "Phú Thọ_Việt Trì": {
+    "lat": 21.3167,
+    "lng": 105.4,
+    "province": "Phú Thọ",
+    "district": "Việt Trì"
+  },
+  "Nam Định_Giao Thủy": {
+    "lat": 20.4333,
+    "lng": 106.1667,
+    "province": "Nam Định",
+    "district": "Giao Thủy"
+  },
+  "Quảng Ninh_Vân Đồn": {
+    "lat": 20.9505,
+    "lng": 107.0734,
+    "province": "Quảng Ninh",
+    "district": "Vân Đồn"
+  },
+  "Hà Nam_Duy Tiên": {
+    "lat": 20.5833,
+    "lng": 105.9167,
+    "province": "Hà Nam",
+    "district": "Duy Tiên"
+  },
+  "Bình Thuận_Phan Thiết": {
+    "lat": 10.9273,
+    "lng": 108.1017,
+    "province": "Bình Thuận",
+    "district": "Phan Thiết"
+  },
+  "Bình Dương_Phú Giáo": {
+    "lat": 11.1322,
+    "lng": 106.6667,
+    "province": "Bình Dương",
+    "district": "Phú Giáo"
+  },
+  "Vĩnh Phúc_Vĩnh Yên": {
+    "lat": 21.3,
+    "lng": 105.6,
+    "province": "Vĩnh Phúc",
+    "district": "Vĩnh Yên"
+  },
+  "Hà Nội_Phúc Thọ": {
+    "lat": 21.028511,
+    "lng": 105.854167,
+    "province": "Hà Nội",
+    "district": "Phúc Thọ"
+  },
+  "Bắc Giang_Hiệp Hòa": {
+    "lat": 21.2731,
+    "lng": 106.1946,
+    "province": "Bắc Giang",
+    "district": "Hiệp Hòa"
+  },
+  "Thái Nguyên_Phổ Yên": {
+    "lat": 21.5833,
+    "lng": 105.8333,
+    "province": "Thái Nguyên",
+    "district": "Phổ Yên"
+  },
+  "Bắc Giang_Tân Yên": {
+    "lat": 21.2731,
+    "lng": 106.1946,
+    "province": "Bắc Giang",
+    "district": "Tân Yên"
+  },
+  "Thái Bình_Kiến Xương": {
+    "lat": 20.45,
+    "lng": 106.3333,
+    "province": "Thái Bình",
+    "district": "Kiến Xương"
+  },
+  "Đồng Nai_Long Thành": {
+    "lat": 10.9574,
+    "lng": 106.8427,
+    "province": "Đồng Nai",
+    "district": "Long Thành"
+  },
+  "Phú Thọ_Thanh Sơn": {
+    "lat": 21.3167,
+    "lng": 105.4,
+    "province": "Phú Thọ",
+    "district": "Thanh Sơn"
+  },
+  "Lâm Đồng_Bảo Lộc": {
+    "lat": 11.9416,
+    "lng": 108.4383,
+    "province": "Lâm Đồng",
+    "district": "Bảo Lộc"
+  },
+  "Sóc Trăng_Sóc Trăng": {
+    "lat": 9.6,
+    "lng": 105.9667,
+    "province": "Sóc Trăng",
+    "district": "Sóc Trăng"
+  },
+  "Phú Thọ_Tân Sơn": {
+    "lat": 21.3167,
+    "lng": 105.4,
+    "province": "Phú Thọ",
+    "district": "Tân Sơn"
+  },
+  "Hải Dương_Hải Dương": {
+    "lat": 20.9333,
+    "lng": 106.3167,
+    "province": "Hải Dương",
+    "district": "Hải Dương"
+  },
+  "Quảng Ninh_Cẩm Phả": {
+    "lat": 20.9505,
+    "lng": 107.0734,
+    "province": "Quảng Ninh",
+    "district": "Cẩm Phả"
+  },
+  "Bà Rịa - Vũng Tàu_Xuyên Mộc": {
+    "lat": 10.5422,
+    "lng": 107.2429,
+    "province": "Bà Rịa - Vũng Tàu",
+    "district": "Xuyên Mộc"
+  },
+  "Hồ Chí Minh_Cần Giờ": {
+    "lat": 10.41142,
+    "lng": 106.95467,
+    "province": "Hồ Chí Minh",
+    "district": "Cần Giờ"
+  },
+  "Khánh Hòa_Vạn Ninh": {
+    "lat": 12.2388,
+    "lng": 109.1967,
+    "province": "Khánh Hòa",
+    "district": "Vạn Ninh"
+  },
+  "Quảng Ninh_Móng Cái": {
+    "lat": 20.9505,
+    "lng": 107.0734,
+    "province": "Quảng Ninh",
+    "district": "Móng Cái"
+  },
+  "Đồng Tháp_Cao Lãnh": {
+    "lat": 10.4578,
+    "lng": 105.6331,
+    "province": "Đồng Tháp",
+    "district": "Cao Lãnh"
+  },
+  "Bắc Ninh_Yên Phong": {
+    "lat": 21.1861,
+    "lng": 106.0763,
+    "province": "Bắc Ninh",
+    "district": "Yên Phong"
+  },
+  "Đồng Nai_Long Khánh": {
+    "lat": 10.9574,
+    "lng": 106.8427,
+    "province": "Đồng Nai",
+    "district": "Long Khánh"
+  },
+  "Vĩnh Phúc_Phúc Yên": {
+    "lat": 21.3,
+    "lng": 105.6,
+    "province": "Vĩnh Phúc",
+    "district": "Phúc Yên"
+  },
+  "Hải Phòng_Vĩnh Bảo": {
+    "lat": 20.844912,
+    "lng": 106.688084,
+    "province": "Hải Phòng",
+    "district": "Vĩnh Bảo"
+  },
+  "Quảng Trị_Đông Hà": {
+    "lat": 16.75,
+    "lng": 107.1833,
+    "province": "Quảng Trị",
+    "district": "Đông Hà"
+  },
+  "Hòa Bình_Lạc Thủy": {
+    "lat": 20.8133,
+    "lng": 105.3383,
+    "province": "Hòa Bình",
+    "district": "Lạc Thủy"
+  },
+  "Vĩnh Long_Vĩnh Long": {
+    "lat": 10.25,
+    "lng": 105.9667,
+    "province": "Vĩnh Long",
+    "district": "Vĩnh Long"
+  },
+  "Hà Nội_Ba Vì": {
+    "lat": 21.028511,
+    "lng": 105.854167,
+    "province": "Hà Nội",
+    "district": "Ba Vì"
+  },
+  "Lào Cai_Lào Cai": {
+    "lat": 22.4833,
+    "lng": 103.9667,
+    "province": "Lào Cai",
+    "district": "Lào Cai"
+  },
+  "Phú Thọ_Thanh Thủy": {
+    "lat": 21.3167,
+    "lng": 105.4,
+    "province": "Phú Thọ",
+    "district": "Thanh Thủy"
+  },
+  "Hòa Bình_Lương Sơn": {
+    "lat": 20.8133,
+    "lng": 105.3383,
+    "province": "Hòa Bình",
+    "district": "Lương Sơn"
+  },
+  "Bình Phước_Đồng Xoài": {
+    "lat": 11.7512,
+    "lng": 106.8837,
+    "province": "Bình Phước",
+    "district": "Đồng Xoài"
+  },
+  "Bình Định_Phù Cát": {
+    "lat": 13.783,
+    "lng": 109.2197,
+    "province": "Bình Định",
+    "district": "Phù Cát"
+  },
+  "Hưng Yên_Mỹ Hào": {
+    "lat": 20.65,
+    "lng": 106.05,
+    "province": "Hưng Yên",
+    "district": "Mỹ Hào"
+  },
+  "Nam Định_Trực Ninh": {
+    "lat": 20.4333,
+    "lng": 106.1667,
+    "province": "Nam Định",
+    "district": "Trực Ninh"
+  },
+  "Nam Định_Hải Hậu": {
+    "lat": 20.4333,
+    "lng": 106.1667,
+    "province": "Nam Định",
+    "district": "Hải Hậu"
+  },
+  "Phú Yên_Tuy Hòa": {
+    "lat": 13.0833,
+    "lng": 109.3,
+    "province": "Phú Yên",
+    "district": "Tuy Hòa"
+  },
+  "Quảng Ninh_Cô Tô": {
+    "lat": 20.9505,
+    "lng": 107.0734,
+    "province": "Quảng Ninh",
+    "district": "Cô Tô"
+  },
+  "Hải Phòng_Kiến An": {
+    "lat": 20.844912,
+    "lng": 106.688084,
+    "province": "Hải Phòng",
+    "district": "Kiến An"
+  },
+  "Quảng Nam_Tam Kỳ": {
+    "lat": 15.5667,
+    "lng": 108.4833,
+    "province": "Quảng Nam",
+    "district": "Tam Kỳ"
+  },
+  "Tiền Giang_Gò Công": {
+    "lat": 10.35,
+    "lng": 106.35,
+    "province": "Tiền Giang",
+    "district": "Gò Công"
+  },
+  "Bình Định_Tuy Phước": {
+    "lat": 13.783,
+    "lng": 109.2197,
+    "province": "Bình Định",
+    "district": "Tuy Phước"
+  },
+  "Hải Dương_Nam Sách": {
+    "lat": 20.9333,
+    "lng": 106.3167,
+    "province": "Hải Dương",
+    "district": "Nam Sách"
+  },
+  "Bình Phước_Chơn Thành": {
+    "lat": 11.7512,
+    "lng": 106.8837,
+    "province": "Bình Phước",
+    "district": "Chơn Thành"
+  },
+  "Bắc Giang_Bắc Giang": {
+    "lat": 21.2731,
+    "lng": 106.1946,
+    "province": "Bắc Giang",
+    "district": "Bắc Giang"
+  },
+  "Phú Thọ_Phú Thọ": {
+    "lat": 21.3167,
+    "lng": 105.4,
+    "province": "Phú Thọ",
+    "district": "Phú Thọ"
+  },
+  "Ninh Thuận_Ninh Hải": {
+    "lat": 11.5667,
+    "lng": 108.9833,
+    "province": "Ninh Thuận",
+    "district": "Ninh Hải"
+  },
+  "Đồng Nai_Tân Phú": {
+    "lat": 10.79005,
+    "lng": 106.62817,
+    "province": "Đồng Nai",
+    "district": "Tân Phú"
+  },
+  "Bình Định_An Nhơn": {
+    "lat": 13.783,
+    "lng": 109.2197,
+    "province": "Bình Định",
+    "district": "An Nhơn"
+  },
+  "Huế_Hương Trà": {
+    "lat": 16.4667,
+    "lng": 107.6,
+    "province": "Huế",
+    "district": "Hương Trà"
+  },
+  "Nam Định_Nam Trực": {
+    "lat": 20.4333,
+    "lng": 106.1667,
+    "province": "Nam Định",
+    "district": "Nam Trực"
+  },
+  "An Giang_Chợ Mới": {
+    "lat": 10.3759,
+    "lng": 105.4185,
+    "province": "An Giang",
+    "district": "Chợ Mới"
+  },
+  "Hà Giang_Hà Giang": {
+    "lat": 22.8233,
+    "lng": 104.9836,
+    "province": "Hà Giang",
+    "district": "Hà Giang"
+  },
+  "Phú Thọ_Tam Nông": {
+    "lat": 21.3167,
+    "lng": 105.4,
+    "province": "Phú Thọ",
+    "district": "Tam Nông"
+  },
+  "Hòa Bình_Kim Bôi": {
+    "lat": 20.8133,
+    "lng": 105.3383,
+    "province": "Hòa Bình",
+    "district": "Kim Bôi"
+  },
+  "Hưng Yên_Yên Mỹ": {
+    "lat": 20.65,
+    "lng": 106.05,
+    "province": "Hưng Yên",
+    "district": "Yên Mỹ"
+  },
+  "Quảng Bình_Đồng Hới": {
+    "lat": 17.4833,
+    "lng": 106.6,
+    "province": "Quảng Bình",
+    "district": "Đồng Hới"
+  },
+  "Thái Bình_Đông Hưng": {
+    "lat": 20.45,
+    "lng": 106.3333,
+    "province": "Thái Bình",
+    "district": "Đông Hưng"
+  },
+  "Hải Dương_Cẩm Giàng": {
+    "lat": 20.9333,
+    "lng": 106.3167,
+    "province": "Hải Dương",
+    "district": "Cẩm Giàng"
+  },
+  "Quảng Ngãi_Sơn Tịnh": {
+    "lat": 15.1167,
+    "lng": 108.8,
+    "province": "Quảng Ngãi",
+    "district": "Sơn Tịnh"
+  },
+  "Quảng Trị_Hải Lăng": {
+    "lat": 16.75,
+    "lng": 107.1833,
+    "province": "Quảng Trị",
+    "district": "Hải Lăng"
+  },
+  "Hưng Yên_Hưng Yên": {
+    "lat": 20.65,
+    "lng": 106.05,
+    "province": "Hưng Yên",
+    "district": "Hưng Yên"
+  },
+  "Quảng Ngãi_Quảng Ngãi": {
+    "lat": 15.1167,
+    "lng": 108.8,
+    "province": "Quảng Ngãi",
+    "district": "Quảng Ngãi"
+  },
+  "Đồng Tháp_Thanh Bình": {
+    "lat": 10.4578,
+    "lng": 105.6331,
+    "province": "Đồng Tháp",
+    "district": "Thanh Bình"
+  },
+  "Hà Nam_Thanh Liêm": {
+    "lat": 20.5833,
+    "lng": 105.9167,
+    "province": "Hà Nam",
+    "district": "Thanh Liêm"
+  },
+  "Phú Thọ_Thanh Ba": {
+    "lat": 21.3167,
+    "lng": 105.4,
+    "province": "Phú Thọ",
+    "district": "Thanh Ba"
+  },
+  "Bến Tre_Châu Thành": {
+    "lat": 10.2433,
+    "lng": 106.3756,
+    "province": "Bến Tre",
+    "district": "Châu Thành"
+  },
+  "Hậu Giang_Châu Thành": {
+    "lat": 9.7833,
+    "lng": 105.4667,
+    "province": "Hậu Giang",
+    "district": "Châu Thành"
+  },
+  "Bến Tre_Thạnh Phú": {
+    "lat": 10.2433,
+    "lng": 106.3756,
+    "province": "Bến Tre",
+    "district": "Thạnh Phú"
+  },
+  "Hậu Giang_Vị Thanh": {
+    "lat": 9.7833,
+    "lng": 105.4667,
+    "province": "Hậu Giang",
+    "district": "Vị Thanh"
+  },
+  "Hà Tĩnh_Nghi Xuân": {
+    "lat": 18.3333,
+    "lng": 105.9,
+    "province": "Hà Tĩnh",
+    "district": "Nghi Xuân"
+  },
+  "Đồng Nai_Thống Nhất": {
+    "lat": 10.9574,
+    "lng": 106.8427,
+    "province": "Đồng Nai",
+    "district": "Thống Nhất"
+  },
+  "Quảng Ninh_Đông Triều": {
+    "lat": 20.9505,
+    "lng": 107.0734,
+    "province": "Quảng Ninh",
+    "district": "Đông Triều"
+  },
+  "Gia Lai_Pleiku": {
+    "lat": 13.9833,
+    "lng": 108.0,
+    "province": "Gia Lai",
+    "district": "Pleiku"
+  },
+  "An Giang_Long Xuyên": {
+    "lat": 10.3759,
+    "lng": 105.4185,
+    "province": "An Giang",
+    "district": "Long Xuyên"
+  },
+  "Quảng Ninh_Uông Bí": {
+    "lat": 20.9505,
+    "lng": 107.0734,
+    "province": "Quảng Ninh",
+    "district": "Uông Bí"
+  },
+  "Hà Nam_Kim Bảng": {
+    "lat": 20.5833,
+    "lng": 105.9167,
+    "province": "Hà Nam",
+    "district": "Kim Bảng"
+  },
+  "Bắc Ninh_Tiên Du": {
+    "lat": 21.1861,
+    "lng": 106.0763,
+    "province": "Bắc Ninh",
+    "district": "Tiên Du"
+  },
+  "Hà Nội_Phú Xuyên": {
+    "lat": 21.028511,
+    "lng": 105.854167,
+    "province": "Hà Nội",
+    "district": "Phú Xuyên"
+  },
+  "Vĩnh Phúc_Lập Thạch": {
+    "lat": 21.3,
+    "lng": 105.6,
+    "province": "Vĩnh Phúc",
+    "district": "Lập Thạch"
+  },
+  "Bình Dương_Dầu Tiếng": {
+    "lat": 11.1322,
+    "lng": 106.6667,
+    "province": "Bình Dương",
+    "district": "Dầu Tiếng"
+  },
+  "Khánh Hòa_Khánh Vĩnh": {
+    "lat": 12.2388,
+    "lng": 109.1967,
+    "province": "Khánh Hòa",
+    "district": "Khánh Vĩnh"
+  },
+  "Thanh Hóa_Thọ Xuân": {
+    "lat": 19.8,
+    "lng": 105.7667,
+    "province": "Thanh Hóa",
+    "district": "Thọ Xuân"
+  },
+  "Thái Bình_Vũ Thư": {
+    "lat": 20.45,
+    "lng": 106.3333,
+    "province": "Thái Bình",
+    "district": "Vũ Thư"
+  },
+  "Hải Dương_Thanh Hà": {
+    "lat": 20.9333,
+    "lng": 106.3167,
+    "province": "Hải Dương",
+    "district": "Thanh Hà"
+  },
+  "Đồng Nai_Xuân Lộc": {
+    "lat": 10.9574,
+    "lng": 106.8427,
+    "province": "Đồng Nai",
+    "district": "Xuân Lộc"
+  },
+  "Vĩnh Phúc_Tam Đảo": {
+    "lat": 21.3,
+    "lng": 105.6,
+    "province": "Vĩnh Phúc",
+    "district": "Tam Đảo"
+  },
+  "Lào Cai_Sa Pa": {
+    "lat": 22.4833,
+    "lng": 103.9667,
+    "province": "Lào Cai",
+    "district": "Sa Pa"
+  },
+  "Bắc Giang_Lục Nam": {
+    "lat": 21.2731,
+    "lng": 106.1946,
+    "province": "Bắc Giang",
+    "district": "Lục Nam"
+  },
+  "Ninh Bình_Yên Khánh": {
+    "lat": 20.25,
+    "lng": 105.9667,
+    "province": "Ninh Bình",
+    "district": "Yên Khánh"
+  },
+  "Tây Ninh_Gò Dầu": {
+    "lat": 11.3,
+    "lng": 106.1,
+    "province": "Tây Ninh",
+    "district": "Gò Dầu"
+  },
+  "Bắc Ninh_Lương Tài": {
+    "lat": 21.1861,
+    "lng": 106.0763,
+    "province": "Bắc Ninh",
+    "district": "Lương Tài"
+  },
+  "Vĩnh Phúc_Tam Dương": {
+    "lat": 21.3,
+    "lng": 105.6,
+    "province": "Vĩnh Phúc",
+    "district": "Tam Dương"
+  },
+  "Bạc Liêu_Bạc Liêu": {
+    "lat": 9.2941,
+    "lng": 105.7278,
+    "province": "Bạc Liêu",
+    "district": "Bạc Liêu"
+  },
+  "Vĩnh Long_Long Hồ": {
+    "lat": 10.25,
+    "lng": 105.9667,
+    "province": "Vĩnh Long",
+    "district": "Long Hồ"
+  },
+  "Quảng Nam_Thăng Bình": {
+    "lat": 15.5667,
+    "lng": 108.4833,
+    "province": "Quảng Nam",
+    "district": "Thăng Bình"
+  },
+  "Tiền Giang_Cai Lậy": {
+    "lat": 10.35,
+    "lng": 106.35,
+    "province": "Tiền Giang",
+    "district": "Cai Lậy"
+  },
+  "Nghệ An_Nghĩa Đàn": {
+    "lat": 18.6667,
+    "lng": 105.6667,
+    "province": "Nghệ An",
+    "district": "Nghĩa Đàn"
+  },
+  "Hà Nội_Ứng Hòa": {
+    "lat": 21.028511,
+    "lng": 105.854167,
+    "province": "Hà Nội",
+    "district": "Ứng Hòa"
+  },
+  "Vĩnh Phúc_Sông Lô": {
+    "lat": 21.3,
+    "lng": 105.6,
+    "province": "Vĩnh Phúc",
+    "district": "Sông Lô"
+  },
+  "Ninh Bình_Nho Quan": {
+    "lat": 20.25,
+    "lng": 105.9667,
+    "province": "Ninh Bình",
+    "district": "Nho Quan"
+  },
+  "Bắc Giang_Lạng Giang": {
+    "lat": 21.2731,
+    "lng": 106.1946,
+    "province": "Bắc Giang",
+    "district": "Lạng Giang"
+  },
+  "Cần Thơ_Phong Điền": {
+    "lat": 10.045162,
+    "lng": 105.746853,
+    "province": "Cần Thơ",
+    "district": "Phong Điền"
+  },
+  "Bình Thuận_La Gi": {
+    "lat": 10.9273,
+    "lng": 108.1017,
+    "province": "Bình Thuận",
+    "district": "La Gi"
+  },
+  "Phú Yên_Tuy An": {
+    "lat": 13.0833,
+    "lng": 109.3,
+    "province": "Phú Yên",
+    "district": "Tuy An"
+  },
+  "Tây Ninh_Tây Ninh": {
+    "lat": 11.3,
+    "lng": 106.1,
+    "province": "Tây Ninh",
+    "district": "Tây Ninh"
+  },
+  "Phú Yên_Phú Hòa": {
+    "lat": 13.0833,
+    "lng": 109.3,
+    "province": "Phú Yên",
+    "district": "Phú Hòa"
+  },
+  "Tiền Giang_Chợ Gạo": {
+    "lat": 10.35,
+    "lng": 106.35,
+    "province": "Tiền Giang",
+    "district": "Chợ Gạo"
+  },
+  "Cần Thơ_Bình Thủy": {
+    "lat": 10.07167,
+    "lng": 105.73833,
+    "province": "Cần Thơ",
+    "district": "Bình Thủy"
+  },
+  "Ninh Bình_Gia Viễn": {
+    "lat": 20.25,
+    "lng": 105.9667,
+    "province": "Ninh Bình",
+    "district": "Gia Viễn"
+  },
+  "Hải Dương_Chí Linh": {
+    "lat": 20.9333,
+    "lng": 106.3167,
+    "province": "Hải Dương",
+    "district": "Chí Linh"
+  },
+  "Hậu Giang_Châu Thành A": {
+    "lat": 9.7833,
+    "lng": 105.4667,
+    "province": "Hậu Giang",
+    "district": "Châu Thành A"
+  },
+  "Đồng Tháp_Hồng Ngự": {
+    "lat": 10.4578,
+    "lng": 105.6331,
+    "province": "Đồng Tháp",
+    "district": "Hồng Ngự"
+  },
+  "Quảng Nam_Duy Xuyên": {
+    "lat": 15.5667,
+    "lng": 108.4833,
+    "province": "Quảng Nam",
+    "district": "Duy Xuyên"
+  },
+  "Bắc Ninh_Quế Võ": {
+    "lat": 21.1861,
+    "lng": 106.0763,
+    "province": "Bắc Ninh",
+    "district": "Quế Võ"
+  },
+  "Yên Bái_Yên Bái": {
+    "lat": 21.7167,
+    "lng": 104.8667,
+    "province": "Yên Bái",
+    "district": "Yên Bái"
+  },
+  "Yên Bái_Lục Yên": {
+    "lat": 21.7167,
+    "lng": 104.8667,
+    "province": "Yên Bái",
+    "district": "Lục Yên"
+  },
+  "Thanh Hóa_Thiệu Hóa": {
+    "lat": 19.8,
+    "lng": 105.7667,
+    "province": "Thanh Hóa",
+    "district": "Thiệu Hóa"
+  },
+  "Tây Ninh_Hòa Thành": {
+    "lat": 11.3,
+    "lng": 106.1,
+    "province": "Tây Ninh",
+    "district": "Hòa Thành"
+  },
+  "Thanh Hóa_Hoằng Hóa": {
+    "lat": 19.8,
+    "lng": 105.7667,
+    "province": "Thanh Hóa",
+    "district": "Hoằng Hóa"
+  },
+  "Quảng Ninh_Quảng Yên": {
+    "lat": 20.9505,
+    "lng": 107.0734,
+    "province": "Quảng Ninh",
+    "district": "Quảng Yên"
+  },
+  "Lâm Đồng_Lạc Dương": {
+    "lat": 11.9416,
+    "lng": 108.4383,
+    "province": "Lâm Đồng",
+    "district": "Lạc Dương"
+  },
+  "Bình Thuận_Tuy Phong": {
+    "lat": 10.9273,
+    "lng": 108.1017,
+    "province": "Bình Thuận",
+    "district": "Tuy Phong"
+  },
+  "Trà Vinh_Trà Vinh": {
+    "lat": 9.9333,
+    "lng": 106.3333,
+    "province": "Trà Vinh",
+    "district": "Trà Vinh"
+  },
+  "Hà Tĩnh_Thạch Hà": {
+    "lat": 18.3333,
+    "lng": 105.9,
+    "province": "Hà Tĩnh",
+    "district": "Thạch Hà"
+  },
+  "Lâm Đồng_Di Linh": {
+    "lat": 11.9416,
+    "lng": 108.4383,
+    "province": "Lâm Đồng",
+    "district": "Di Linh"
+  },
+  "Thái Nguyên_Phú Bình": {
+    "lat": 21.5833,
+    "lng": 105.8333,
+    "province": "Thái Nguyên",
+    "district": "Phú Bình"
+  },
+  "Lạng Sơn_Bắc Sơn": {
+    "lat": 21.85,
+    "lng": 106.75,
+    "province": "Lạng Sơn",
+    "district": "Bắc Sơn"
+  },
+  "Vĩnh Long_Trà Ôn": {
+    "lat": 10.25,
+    "lng": 105.9667,
+    "province": "Vĩnh Long",
+    "district": "Trà Ôn"
+  },
+  "Long An_Châu Thành": {
+    "lat": 10.5333,
+    "lng": 106.4,
+    "province": "Long An",
+    "district": "Châu Thành"
+  },
+  "Hòa Bình_Hòa Bình": {
+    "lat": 20.8133,
+    "lng": 105.3383,
+    "province": "Hòa Bình",
+    "district": "Hòa Bình"
+  },
+  "Quảng Trị_Cam Lộ": {
+    "lat": 16.75,
+    "lng": 107.1833,
+    "province": "Quảng Trị",
+    "district": "Cam Lộ"
+  },
+  "Cà Mau_Trần Văn Thời": {
+    "lat": 9.1769,
+    "lng": 105.1501,
+    "province": "Cà Mau",
+    "district": "Trần Văn Thời"
+  },
+  "Đồng Tháp_Tháp Mười": {
+    "lat": 10.4578,
+    "lng": 105.6331,
+    "province": "Đồng Tháp",
+    "district": "Tháp Mười"
+  },
+  "Ninh Bình_Hoa Lư": {
+    "lat": 20.25,
+    "lng": 105.9667,
+    "province": "Ninh Bình",
+    "district": "Hoa Lư"
+  },
+  "Quảng Trị_Triệu Phong": {
+    "lat": 16.75,
+    "lng": 107.1833,
+    "province": "Quảng Trị",
+    "district": "Triệu Phong"
+  },
+  "Đồng Nai_Cẩm Mỹ": {
+    "lat": 10.9574,
+    "lng": 106.8427,
+    "province": "Đồng Nai",
+    "district": "Cẩm Mỹ"
+  },
+  "Vĩnh Long_Bình Minh": {
+    "lat": 10.25,
+    "lng": 105.9667,
+    "province": "Vĩnh Long",
+    "district": "Bình Minh"
+  },
+  "Vĩnh Phúc_Yên Lạc": {
+    "lat": 21.3,
+    "lng": 105.6,
+    "province": "Vĩnh Phúc",
+    "district": "Yên Lạc"
+  },
+  "Bến Tre_Mỏ Cày Nam": {
+    "lat": 10.2433,
+    "lng": 106.3756,
+    "province": "Bến Tre",
+    "district": "Mỏ Cày Nam"
+  },
+  "Hà Tĩnh_": {
+    "lat": 18.3333,
+    "lng": 105.9,
+    "province": "Hà Tĩnh",
+    "district": ""
+  },
+  "An Giang_Châu Đốc": {
+    "lat": 10.3759,
+    "lng": 105.4185,
+    "province": "An Giang",
+    "district": "Châu Đốc"
+  },
+  "Tây Ninh_Dương Minh Châu": {
+    "lat": 11.3,
+    "lng": 106.1,
+    "province": "Tây Ninh",
+    "district": "Dương Minh Châu"
+  },
+  "Bình Phước_Bình Long": {
+    "lat": 11.7512,
+    "lng": 106.8837,
+    "province": "Bình Phước",
+    "district": "Bình Long"
+  },
+  "Quảng Nam_Đại Lộc": {
+    "lat": 15.5667,
+    "lng": 108.4833,
+    "province": "Quảng Nam",
+    "district": "Đại Lộc"
+  },
+  "Đắk Lắk_Ea Kar": {
+    "lat": 12.6667,
+    "lng": 108.05,
+    "province": "Đắk Lắk",
+    "district": "Ea Kar"
+  },
+  "Hải Phòng_Tiên Lãng": {
+    "lat": 20.844912,
+    "lng": 106.688084,
+    "province": "Hải Phòng",
+    "district": "Tiên Lãng"
+  },
+  "Đắk Lắk_Cư M'gar": {
+    "lat": 12.6667,
+    "lng": 108.05,
+    "province": "Đắk Lắk",
+    "district": "Cư M'gar"
+  },
+  "Cần Thơ_Thới Lai": {
+    "lat": 10.045162,
+    "lng": 105.746853,
+    "province": "Cần Thơ",
+    "district": "Thới Lai"
+  },
+  "Quảng Nam_Quế Sơn": {
+    "lat": 15.5667,
+    "lng": 108.4833,
+    "province": "Quảng Nam",
+    "district": "Quế Sơn"
+  },
+  "Phú Yên_Đông Hòa": {
+    "lat": 13.0833,
+    "lng": 109.3,
+    "province": "Phú Yên",
+    "district": "Đông Hòa"
+  },
+  "Hà Tĩnh_Kỳ Anh": {
+    "lat": 18.3333,
+    "lng": 105.9,
+    "province": "Hà Tĩnh",
+    "district": "Kỳ Anh"
+  },
+  "Đắk Nông_Đắk R'Lấp": {
+    "lat": 12.0,
+    "lng": 107.6833,
+    "province": "Đắk Nông",
+    "district": "Đắk R'Lấp"
+  },
+  "Hà Nam_Bình Lục": {
+    "lat": 20.5833,
+    "lng": 105.9167,
+    "province": "Hà Nam",
+    "district": "Bình Lục"
+  },
+  "Vĩnh Phúc_Vĩnh Tường": {
+    "lat": 21.3,
+    "lng": 105.6,
+    "province": "Vĩnh Phúc",
+    "district": "Vĩnh Tường"
+  },
+  "Kiên Giang_Hà Tiên": {
+    "lat": 10.0125,
+    "lng": 105.0809,
+    "province": "Kiên Giang",
+    "district": "Hà Tiên"
+  },
+  "Bắc Giang_": {
+    "lat": 21.2731,
+    "lng": 106.1946,
+    "province": "Bắc Giang",
+    "district": ""
+  },
+  "Phú Thọ_Yên Lập": {
+    "lat": 21.3167,
+    "lng": 105.4,
+    "province": "Phú Thọ",
+    "district": "Yên Lập"
+  },
+  "Bình Phước_Đồng Phú": {
+    "lat": 11.7512,
+    "lng": 106.8837,
+    "province": "Bình Phước",
+    "district": "Đồng Phú"
+  },
+  "Hòa Bình_Cao Phong": {
+    "lat": 20.8133,
+    "lng": 105.3383,
+    "province": "Hòa Bình",
+    "district": "Cao Phong"
+  },
+  "Hải Dương_Tứ Kỳ": {
+    "lat": 20.9333,
+    "lng": 106.3167,
+    "province": "Hải Dương",
+    "district": "Tứ Kỳ"
+  },
+  "Hưng Yên_Kim Động": {
+    "lat": 20.65,
+    "lng": 106.05,
+    "province": "Hưng Yên",
+    "district": "Kim Động"
+  },
+  "Nam Định_Vụ Bản": {
+    "lat": 20.4333,
+    "lng": 106.1667,
+    "province": "Nam Định",
+    "district": "Vụ Bản"
+  },
+  "Lạng Sơn_Cao Lộc": {
+    "lat": 21.85,
+    "lng": 106.75,
+    "province": "Lạng Sơn",
+    "district": "Cao Lộc"
+  },
+  "Đắk Nông_Gia Nghĩa": {
+    "lat": 12.0,
+    "lng": 107.6833,
+    "province": "Đắk Nông",
+    "district": "Gia Nghĩa"
+  },
+  "Thái Bình_Hưng Hà": {
+    "lat": 20.45,
+    "lng": 106.3333,
+    "province": "Thái Bình",
+    "district": "Hưng Hà"
+  },
+  "Bình Phước_Bù Đăng": {
+    "lat": 11.7512,
+    "lng": 106.8837,
+    "province": "Bình Phước",
+    "district": "Bù Đăng"
+  },
+  "Hà Nam_Lý Nhân": {
+    "lat": 20.5833,
+    "lng": 105.9167,
+    "province": "Hà Nam",
+    "district": "Lý Nhân"
+  },
+  "Cao Bằng_Cao Bằng": {
+    "lat": 22.6667,
+    "lng": 105.25,
+    "province": "Cao Bằng",
+    "district": "Cao Bằng"
+  },
+  "Thanh Hóa_Thạch Thành": {
+    "lat": 19.8,
+    "lng": 105.7667,
+    "province": "Thanh Hóa",
+    "district": "Thạch Thành"
+  },
+  "Huế_Phú Lộc": {
+    "lat": 16.4667,
+    "lng": 107.6,
+    "province": "Huế",
+    "district": "Phú Lộc"
+  },
+  "Thanh Hóa_Nghi Sơn": {
+    "lat": 19.8,
+    "lng": 105.7667,
+    "province": "Thanh Hóa",
+    "district": "Nghi Sơn"
+  },
+  "Bắc Kạn_Bắc Kạn": {
+    "lat": 22.147,
+    "lng": 105.8348,
+    "province": "Bắc Kạn",
+    "district": "Bắc Kạn"
+  },
+  "Hòa Bình_Yên Thủy": {
+    "lat": 20.8133,
+    "lng": 105.3383,
+    "province": "Hòa Bình",
+    "district": "Yên Thủy"
+  },
+  "Thanh Hóa_Nông Cống": {
+    "lat": 19.8,
+    "lng": 105.7667,
+    "province": "Thanh Hóa",
+    "district": "Nông Cống"
+  },
+  "Nam Định_": {
+    "lat": 20.4333,
+    "lng": 106.1667,
+    "province": "Nam Định",
+    "district": ""
+  },
+  "Bình Thuận_Hàm Thuận Nam": {
+    "lat": 10.9273,
+    "lng": 108.1017,
+    "province": "Bình Thuận",
+    "district": "Hàm Thuận Nam"
+  },
+  "Thanh Hóa_Hậu Lộc": {
+    "lat": 19.8,
+    "lng": 105.7667,
+    "province": "Thanh Hóa",
+    "district": "Hậu Lộc"
+  },
+  "Long An_Thạnh Hóa": {
+    "lat": 10.5333,
+    "lng": 106.4,
+    "province": "Long An",
+    "district": "Thạnh Hóa"
+  },
+  "Phú Thọ_Phù Ninh": {
+    "lat": 21.3167,
+    "lng": 105.4,
+    "province": "Phú Thọ",
+    "district": "Phù Ninh"
+  },
+  "Tiền Giang_Tân Phước": {
+    "lat": 10.35,
+    "lng": 106.35,
+    "province": "Tiền Giang",
+    "district": "Tân Phước"
+  },
+  "Quảng Nam_Núi Thành": {
+    "lat": 15.5667,
+    "lng": 108.4833,
+    "province": "Quảng Nam",
+    "district": "Núi Thành"
+  },
+  "Phú Thọ_Cẩm Khê": {
+    "lat": 21.3167,
+    "lng": 105.4,
+    "province": "Phú Thọ",
+    "district": "Cẩm Khê"
+  },
+  "Gia Lai_Mang Yang": {
+    "lat": 13.9833,
+    "lng": 108.0,
+    "province": "Gia Lai",
+    "district": "Mang Yang"
+  },
+  "Bà Rịa - Vũng Tàu_Côn Đảo": {
+    "lat": 10.5422,
+    "lng": 107.2429,
+    "province": "Bà Rịa - Vũng Tàu",
+    "district": "Côn Đảo"
+  },
+  "Cần Thơ_Ô Môn": {
+    "lat": 10.045162,
+    "lng": 105.746853,
+    "province": "Cần Thơ",
+    "district": "Ô Môn"
+  },
+  "Long An_Kiến Tường": {
+    "lat": 10.5333,
+    "lng": 106.4,
+    "province": "Long An",
+    "district": "Kiến Tường"
+  },
+  "Hòa Bình_Đà Bắc": {
+    "lat": 20.8133,
+    "lng": 105.3383,
+    "province": "Hòa Bình",
+    "district": "Đà Bắc"
+  },
+  "Quảng Ngãi_Tư Nghĩa": {
+    "lat": 15.1167,
+    "lng": 108.8,
+    "province": "Quảng Ngãi",
+    "district": "Tư Nghĩa"
+  },
+  "Gia Lai_Chư Prông": {
+    "lat": 13.9833,
+    "lng": 108.0,
+    "province": "Gia Lai",
+    "district": "Chư Prông"
+  },
+  "Hải Dương_Kinh Môn": {
+    "lat": 20.9333,
+    "lng": 106.3167,
+    "province": "Hải Dương",
+    "district": "Kinh Môn"
+  },
+  "Hải Dương_Kim Thành": {
+    "lat": 20.9333,
+    "lng": 106.3167,
+    "province": "Hải Dương",
+    "district": "Kim Thành"
+  },
+  "Lâm Đồng_": {
+    "lat": 11.9416,
+    "lng": 108.4383,
+    "province": "Lâm Đồng",
+    "district": ""
+  },
+  "Thanh Hóa_Triệu Sơn": {
+    "lat": 19.8,
+    "lng": 105.7667,
+    "province": "Thanh Hóa",
+    "district": "Triệu Sơn"
+  },
+  "Thái Bình_Thái Thụy": {
+    "lat": 20.45,
+    "lng": 106.3333,
+    "province": "Thái Bình",
+    "district": "Thái Thụy"
+  },
+  "Thái Nguyên_Sông Công": {
+    "lat": 21.5833,
+    "lng": 105.8333,
+    "province": "Thái Nguyên",
+    "district": "Sông Công"
+  },
+  "Nghệ An_Diễn Châu": {
+    "lat": 18.6667,
+    "lng": 105.6667,
+    "province": "Nghệ An",
+    "district": "Diễn Châu"
+  },
+  "Phú Yên_Sơn Hòa": {
+    "lat": 13.0833,
+    "lng": 109.3,
+    "province": "Phú Yên",
+    "district": "Sơn Hòa"
+  },
+  "Bình Thuận_Bắc Bình": {
+    "lat": 10.9273,
+    "lng": 108.1017,
+    "province": "Bình Thuận",
+    "district": "Bắc Bình"
+  },
+  "Nghệ An_Đô Lương": {
+    "lat": 18.6667,
+    "lng": 105.6667,
+    "province": "Nghệ An",
+    "district": "Đô Lương"
+  },
+  "Nghệ An_Thái Hòa": {
+    "lat": 18.6667,
+    "lng": 105.6667,
+    "province": "Nghệ An",
+    "district": "Thái Hòa"
+  },
+  "Gia Lai_Chư Sê": {
+    "lat": 13.9833,
+    "lng": 108.0,
+    "province": "Gia Lai",
+    "district": "Chư Sê"
+  },
+  "Thanh Hóa_Yên Định": {
+    "lat": 19.8,
+    "lng": 105.7667,
+    "province": "Thanh Hóa",
+    "district": "Yên Định"
+  },
+  "Bến Tre_Bình Đại": {
+    "lat": 10.2433,
+    "lng": 106.3756,
+    "province": "Bến Tre",
+    "district": "Bình Đại"
+  },
+  "Ninh Thuận_Thuận Nam": {
+    "lat": 11.5667,
+    "lng": 108.9833,
+    "province": "Ninh Thuận",
+    "district": "Thuận Nam"
+  },
+  "Kon Tum_Kon Plông": {
+    "lat": 14.35,
+    "lng": 108.0,
+    "province": "Kon Tum",
+    "district": "Kon Plông"
+  },
+  "Bắc Kạn_Chợ Đồn": {
+    "lat": 22.147,
+    "lng": 105.8348,
+    "province": "Bắc Kạn",
+    "district": "Chợ Đồn"
+  },
+  "Bình Phước_Phước Long": {
+    "lat": 11.7512,
+    "lng": 106.8837,
+    "province": "Bình Phước",
+    "district": "Phước Long"
+  }
+}
