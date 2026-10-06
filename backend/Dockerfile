@@ -30,8 +30,7 @@ COPY models/ ./models/
 COPY src/ ./src/
 COPY data/ ./data/
 COPY logomhd.png .
-# Fallback .env if not mounted or injected by orchestrator (Coolify / Docker Compose)
-RUN if [ ! -f .env ]; then cp .env.example .env; fi
+COPY .env.example .env
 
 EXPOSE 8000
 
