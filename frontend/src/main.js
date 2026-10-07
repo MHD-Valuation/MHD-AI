@@ -48,17 +48,91 @@ let currentLat = 10.775659;
             }
         }
 
-        // 2. MAP INIT
-        const map = L.map('map', { zoomControl: true, scrollWheelZoom: true }).setView([currentLat, currentLng], 16);
+        // 2. MAP INIT & HIGH-SPEED TILE ENGINE
+        const map = L.map('map', { 
+            zoomControl: true, 
+            scrollWheelZoom: true,
+            trackResize: true
+        }).setView([currentLat, currentLng], 16);
 
-        function updateMapTiles(theme) {
-            if (!activeTileLayer) {
-                activeTileLayer = L.tileLayer('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', {
-                    maxZoom: 19,
-                    subdomains: ['a', 'b', 'c'],
-                    attribution: '&copy; <a href="https://www.openstreetmap.org/copyright" target="_blank" rel="noopener">OpenStreetMap</a> | MHD AI GIS'
-                }).addTo(map);
+        let isMapFullscreen = false;
+
+        function toggleMapFullscreen() {
+            const card = document.getElementById('mapFrameCard');
+            const btn = document.getElementById('btnMapFullscreen');
+            const expandIcon = document.getElementById('fsIconExpand');
+            const compressIcon = document.getElementById('fsIconCompress');
+            const label = document.getElementById('fsBtnLabel');
+
+            if (!card) return;
+
+            isMapFullscreen = !isMapFullscreen;
+
+            if (isMapFullscreen) {
+                card.classList.add('is-fullscreen');
+                if (btn) btn.classList.add('active');
+                if (expandIcon) expandIcon.style.display = 'none';
+                if (compressIcon) compressIcon.style.display = 'inline-block';
+                if (label) label.textContent = 'Thu nhỏ';
+                document.body.style.overflow = 'hidden';
+            } else {
+                card.classList.remove('is-fullscreen');
+                if (btn) btn.classList.remove('active');
+                if (expandIcon) expandIcon.style.display = 'inline-block';
+                if (compressIcon) compressIcon.style.display = 'none';
+                if (label) label.textContent = 'Phóng to';
+                document.body.style.overflow = '';
             }
+
+            // Kích hoạt ngay invalidateSize để Leaflet vẽ lại toàn bộ tiles sắc nét
+            setTimeout(() => {
+                map.invalidateSize();
+            }, 100);
+            setTimeout(() => {
+                map.invalidateSize();
+            }, 350);
+        }
+        window.toggleMapFullscreen = toggleMapFullscreen;
+
+        // Cho phép ấn ESC để thoát Fullscreen
+        document.addEventListener('keydown', (e) => {
+            if (e.key === 'Escape' && isMapFullscreen) {
+                toggleMapFullscreen();
+            }
+        });
+
+        // Tự động tính toán lại map canvas khi xoay màn hình điện thoại hoặc resize cửa sổ
+        window.addEventListener('resize', () => {
+            if (map) map.invalidateSize();
+        });
+        window.addEventListener('orientationchange', () => {
+            setTimeout(() => {
+                if (map) map.invalidateSize();
+            }, 200);
+        });
+
+        // Bản đồ chuẩn quốc tế tải cực nhanh qua CDN toàn cầu, hoàn toàn miễn phí không bao giờ đòi API Key
+        function updateMapTiles(theme) {
+            // Nguồn gạch bản đồ mở miễn phí 100%, không bị in mờ "API KEY REQUIRED" và không bị hạn chế thiết bị
+            const tileUrl = 'https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png';
+            const attribution = '&copy; <a href="https://www.openstreetmap.org/copyright" target="_blank" rel="noopener">OpenStreetMap</a> contributors | MHD AI GIS';
+
+            if (activeTileLayer) {
+                map.removeLayer(activeTileLayer);
+                activeTileLayer = null;
+            }
+
+            activeTileLayer = L.tileLayer(tileUrl, {
+                maxZoom: 19,
+                subdomains: ['a', 'b', 'c'],
+                crossOrigin: true,
+                attribution: attribution
+            }).addTo(map);
+
+            // Invalidate size để render hoàn hảo ngay cả trên các thiết bị Android tiết kiệm RAM
+            setTimeout(() => {
+                map.invalidateSize();
+            }, 150);
         }
 
         updateMapTiles('dark');
@@ -2193,5 +2267,5 @@ window.updateFormByPropertyType = updateFormByPropertyType;
 window.updateLocationAndValuate = updateLocationAndValuate;
 window.updateMapTiles = updateMapTiles;
 window.updateRadarAssessment = updateRadarAssessment;
-window.updateThemeControls = updateThemeControls;
+window.toggleMapFullscreen = toggleMapFullscreen;
 window.map = map;

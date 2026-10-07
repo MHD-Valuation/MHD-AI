@@ -280,7 +280,8 @@ export default function ValuationForm({
                     <span>{isLoading ? 'Hệ Thống Đang Xử Lý...' : 'THẨM ĐỊNH GIÁ BẤT ĐỘNG SẢN AI'}</span>
                 </button>
                 <div className="form-security-note">
-                    🔒 Dữ liệu được bảo mật & hiệu chuẩn theo Tiêu chuẩn Thẩm định giá Việt Nam
+                    <ShieldCheck size={13} style={{ display: 'inline', verticalAlign: 'middle', marginRight: 5, color: 'var(--brand)' }} />
+                    Dữ liệu được bảo mật & hiệu chuẩn theo Tiêu chuẩn Thẩm định giá Việt Nam
                 </div>
             </div>
         </form>

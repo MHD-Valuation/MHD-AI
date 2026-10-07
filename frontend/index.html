@@ -163,7 +163,7 @@
                     <div class="hero-right">
                         <div class="hero-form-card">
                             <div class="panel-header"
-                                style="border:none; padding:18px 22px 14px; background:transparent;">
+                                style="border:none; background:transparent;">
                                 <div class="panel-title" style="font-size:15px; font-weight:800;">
                                     <div class="icon-box"
                                         style="background:var(--brand-subtle); color:var(--brand); border-color:var(--brand-border);">
@@ -181,7 +181,7 @@
                                     DÂN CƯ</span>
                             </div>
 
-                            <div class="panel-body" style="padding:0 22px 22px;">
+                            <div class="panel-body">
                                 <!-- 1. Location -->
                                 <div class="section-label">
                                     <span class="section-label-text">
@@ -350,7 +350,7 @@
                                         </div>
                                         <input type="range" min="15" max="350" step="1" value="50" class="area-slider"
                                             id="areaRangeSlider" oninput="syncAreaSlider(this.value)">
-                                        <div style="display:flex; justify-content:space-between; align-items:center;">
+                                        <div class="area-presets-row" style="display:flex; justify-content:space-between; align-items:center;">
                                             <div class="quick-presets">
                                                 <button type="button" class="preset-btn"
                                                     onclick="setAreaVal(50)">50m²</button>
@@ -363,7 +363,7 @@
                                                 <button type="button" class="preset-btn"
                                                     onclick="setAreaVal(250)">250m²</button>
                                             </div>
-                                            <div class="input-with-unit" style="width:110px;">
+                                            <div class="input-with-unit area-exact-input-wrap" style="width:110px;">
                                                 <input type="number" step="0.1" id="area" class="form-control" value=""
                                                     placeholder="Nhập DT" style="padding:4px 6px; font-size:11px;"
                                                     oninput="syncAreaInput(this.value)">
@@ -550,40 +550,58 @@
                     </div>
                 </div>
 
-                <div class="map-frame-card">
-<!-- Floating Map Action Buttons & Heatmap Legend -->
-                    <div class="map-floating-actions-bar">
-                        <button type="button" id="btnToggleHeatmap" class="map-floating-heat-btn"
-                            onclick="togglePriceHeatmap()"
-                            title="Bật/Tắt Bản đồ nhiệt mật độ đơn giá đất khu vực (Heatmap)">
-                            <svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.2">
-                                <circle cx="12" cy="12" r="10"></circle>
-                                <circle cx="12" cy="12" r="4"></circle>
-                                <line x1="4.93" y1="4.93" x2="9.17" y2="9.17"></line>
-                                <line x1="14.83" y1="14.83" x2="19.07" y2="19.07"></line>
-                            </svg>
-                            <span id="btnHeatmapText">Bản đồ nhiệt giá</span>
-                            <span class="heatmap-live-chip">MỚI</span>
-                        </button>
+                <div class="map-frame-card" id="mapFrameCard">
+                    <!-- Integrated Map Header Controls Bar (Compact, Responsive, Touch-Friendly) -->
+                    <div class="map-top-control-bar">
+                        <div class="map-controls-left">
+                            <span class="map-status-indicator">
+                                <span class="coord-live-dot"></span>
+                                <span class="map-status-text">GIS Live</span>
+                            </span>
+                        </div>
+                        <div class="map-controls-right">
+                            <button type="button" id="btnToggleHeatmap" class="map-control-btn"
+                                onclick="togglePriceHeatmap()"
+                                title="Bật/Tắt Bản đồ nhiệt mật độ đơn giá đất (Heatmap)">
+                                <svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.2">
+                                    <circle cx="12" cy="12" r="10"></circle>
+                                    <circle cx="12" cy="12" r="4"></circle>
+                                </svg>
+                                <span id="btnHeatmapText" class="map-btn-label">Bản đồ nhiệt</span>
+                                <span class="heatmap-live-chip">MỚI</span>
+                            </button>
 
-                        <button type="button" id="btnToggleCluster" class="map-floating-heat-btn"
-                            onclick="togglePriceCluster()"
-                            title="Bật/Tắt hiển thị điểm giá BĐS thực tế (Marker Cluster)">
-                            <svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.2">
-                                <circle cx="12" cy="12" r="3"></circle>
-                                <circle cx="5" cy="7" r="2"></circle>
-                                <circle cx="19" cy="7" r="2"></circle>
-                                <circle cx="5" cy="17" r="2"></circle>
-                                <circle cx="19" cy="17" r="2"></circle>
-                                <line x1="7" y1="7.5" x2="9.5" y2="10.5"></line>
-                                <line x1="14.5" y1="10.5" x2="17" y2="7.5"></line>
-                                <line x1="7" y1="16.5" x2="9.5" y2="13.5"></line>
-                                <line x1="14.5" y1="13.5" x2="17" y2="16.5"></line>
-                            </svg>
-                            <span id="btnClusterText">Điểm giá BĐS</span>
-                        </button>
+                            <button type="button" id="btnToggleCluster" class="map-control-btn active"
+                                onclick="togglePriceCluster()"
+                                title="Bật/Tắt hiển thị 35.000 điểm giá BĐS thực tế">
+                                <svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.2">
+                                    <circle cx="12" cy="12" r="3"></circle>
+                                    <circle cx="5" cy="7" r="2"></circle>
+                                    <circle cx="19" cy="7" r="2"></circle>
+                                    <circle cx="5" cy="17" r="2"></circle>
+                                    <circle cx="19" cy="17" r="2"></circle>
+                                </svg>
+                                <span id="btnClusterText" class="map-btn-label">Điểm giá</span>
+                            </button>
 
-                        
+                            <button type="button" id="btnMapFullscreen" class="map-control-btn btn-fullscreen-toggle"
+                                onclick="toggleMapFullscreen()"
+                                title="Phóng to toàn màn hình bản đồ (Fullscreen)">
+                                <svg id="fsIconExpand" width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.2">
+                                    <polyline points="15 3 21 3 21 9"></polyline>
+                                    <polyline points="9 21 3 21 3 15"></polyline>
+                                    <line x1="21" y1="3" x2="14" y2="10"></line>
+                                    <line x1="3" y1="21" x2="10" y2="14"></line>
+                                </svg>
+                                <svg id="fsIconCompress" width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.2" style="display:none;">
+                                    <polyline points="4 14 10 14 10 20"></polyline>
+                                    <polyline points="20 10 14 10 14 4"></polyline>
+                                    <line x1="14" y1="10" x2="21" y2="3"></line>
+                                    <line x1="3" y1="21" x2="10" y2="14"></line>
+                                </svg>
+                                <span id="fsBtnLabel" class="map-btn-label">Phóng to</span>
+                            </button>
+                        </div>
                     </div>
 
                     <!-- Floating Heatmap Legend on Bottom Right of Map -->
@@ -615,7 +633,7 @@
                         </div>
                         <div class="legend-data-source">Nguồn: 34.955 giao dịch thực tế · PostGIS</div>
                     </div>
-                    <div id="map" style="width:100%; height:520px; border-radius:0 0 12px 12px;"></div>
+                    <div id="map" class="mhd-leaflet-canvas"></div>
                 </div>
             </div>
         </section>
@@ -1111,11 +1129,26 @@
             Tech</div>
         <div
             style="margin-top:6px; color:var(--text-3); font-size:11px; display:flex; justify-content:center; align-items:center; gap:16px; flex-wrap:wrap;">
-            <span>📍 52 Trần Bình Trọng, Phường Bình Lợi Trung, TP. Hồ Chí Minh</span>
-            <span>📞 Hotline: <a href="tel:02835153516"
-                    style="color:var(--brand); text-decoration:none; font-weight:700;">028 3515 3516</a></span>
-            <span>✉️ Email: <a href="mailto:info@mhd.com.vn"
-                    style="color:var(--brand); text-decoration:none; font-weight:700;">info@mhd.com.vn</a></span>
+            <span style="display:inline-flex; align-items:center; gap:5px;">
+                <svg width="13" height="13" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" style="color:var(--brand); flex-shrink:0;">
+                    <path d="M21 10c0 7-9 13-9 13s-9-6-9-13a9 9 0 0 1 18 0z"></path>
+                    <circle cx="12" cy="10" r="3"></circle>
+                </svg>
+                52 Trần Bình Trọng, Phường Bình Lợi Trung, TP. Hồ Chí Minh
+            </span>
+            <span style="display:inline-flex; align-items:center; gap:5px;">
+                <svg width="13" height="13" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" style="color:var(--brand); flex-shrink:0;">
+                    <path d="M22 16.92v3a2 2 0 0 1-2.18 2 19.79 19.79 0 0 1-8.63-3.07 19.5 19.5 0 0 1-6-6 19.79 19.79 0 0 1-3.07-8.67A2 2 0 0 1 4.11 2h3a2 2 0 0 1 2 1.72 12.84 12.84 0 0 0 .7 2.81 2 2 0 0 1-.45 2.11L8.09 9.91a16 16 0 0 0 6 6l1.27-1.27a2 2 0 0 1 2.11-.45 12.84 12.84 0 0 0 2.81.7A2 2 0 0 1 22 16.92z"></path>
+                </svg>
+                Hotline: <a href="tel:02835153516" style="color:var(--brand); text-decoration:none; font-weight:700;">028 3515 3516</a>
+            </span>
+            <span style="display:inline-flex; align-items:center; gap:5px;">
+                <svg width="13" height="13" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" style="color:var(--brand); flex-shrink:0;">
+                    <rect x="2" y="4" width="20" height="16" rx="2"></rect>
+                    <path d="m22 7-8.97 5.7a1.94 1.94 0 0 1-2.06 0L2 7"></path>
+                </svg>
+                Email: <a href="mailto:info@mhd.com.vn" style="color:var(--brand); text-decoration:none; font-weight:700;">info@mhd.com.vn</a>
+            </span>
         </div>
     </footer>
 

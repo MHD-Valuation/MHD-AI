@@ -28,8 +28,12 @@ if not is_in_venv:
             env["PYTHONUTF8"] = "1"
             print(f"[MHD Backend] Phat hien .venv tai: {venv_py}")
             print(f"[MHD Backend] Dang khoi chay bang moi truong ao .venv...")
-            result = subprocess.run([str(venv_py), str(Path(__file__).resolve())] + sys.argv[1:], env=env)
-            sys.exit(result.returncode)
+            try:
+                result = subprocess.run([str(venv_py), str(Path(__file__).resolve())] + sys.argv[1:], env=env)
+                sys.exit(result.returncode)
+            except KeyboardInterrupt:
+                print("\n[MHD Backend] Da dung server thanh cong.")
+                sys.exit(0)
 
 # Đảm bảo UTF-8 cho Windows console
 if hasattr(sys.stdout, 'reconfigure'):

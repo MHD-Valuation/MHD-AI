@@ -156,7 +156,8 @@ export default function CompareView({
                                                             {comp.property_type || 'Nhà phố'} • {comp.area || '--'} m²
                                                         </div>
                                                         <div className="comp-address">
-                                                            📍 {comp.address || comp.street_name || comp.district_name || 'Vị trí lân cận'}
+                                                            <MapPin size={13} style={{ display: 'inline', verticalAlign: 'middle', marginRight: 4, color: 'var(--brand)' }} />
+                                                            {comp.address || comp.street_name || comp.district_name || 'Vị trí lân cận'}
                                                         </div>
                                                         <div className="comp-specs-row">
                                                             <span>Mặt tiền: {comp.frontage_width || comp.frontage || '--'}m</span>
