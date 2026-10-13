@@ -57,32 +57,25 @@ def save_valuation_history_task(
     model_version: str
 ):
     try:
-        conn = psycopg2.connect(
-            host=settings.POSTGRES_HOST,
-            port=settings.POSTGRES_PORT,
-            dbname=settings.POSTGRES_DB,
-            user=settings.POSTGRES_USER,
-            password=settings.POSTGRES_PASSWORD
-        )
-        with conn.cursor() as cur:
-            cur.execute("""
-                INSERT INTO valuation_history (
+        with spatial_service.get_db_connection() as conn:
+            with conn.cursor() as cur:
+                cur.execute("""
+                    INSERT INTO valuation_history (
+                        client_ip, customer_phone, property_type, area,
+                        geom, input_payload, predicted_price, price_low,
+                        price_high, confidence_score, model_version
+                    ) VALUES (
+                        %s, %s, %s, %s,
+                        ST_SetSRID(ST_MakePoint(%s, %s), 4326),
+                        %s, %s, %s, %s, %s, %s
+                    );
+                """, (
                     client_ip, customer_phone, property_type, area,
-                    geom, input_payload, predicted_price, price_low,
-                    price_high, confidence_score, model_version
-                ) VALUES (
-                    %s, %s, %s, %s,
-                    ST_SetSRID(ST_MakePoint(%s, %s), 4326),
-                    %s, %s, %s, %s, %s, %s
-                );
-            """, (
-                client_ip, customer_phone, property_type, area,
-                longitude, latitude, json.dumps(input_payload),
-                predicted_price, price_low, price_high,
-                confidence_score, model_version
-            ))
-            conn.commit()
-        conn.close()
+                    longitude, latitude, json.dumps(input_payload),
+                    predicted_price, price_low, price_high,
+                    confidence_score, model_version
+                ))
+                conn.commit()
     except Exception as e:
         print(f"[CẢNH BÁO] Không thể lưu lịch sử định giá: {e}")
 

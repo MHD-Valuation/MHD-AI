@@ -730,52 +730,50 @@ class SpatialService:
 
         # 1. Thử truy vấn thực tế từ PostgreSQL
         try:
-            conn = psycopg2.connect(**self.db_config)
-            cur = conn.cursor()
-            
-            # 1.1 District monthly medians
-            d_query = """
-                SELECT 
-                    to_char(published_at, 'YYYY-MM') as ym,
-                    count(*) as count,
-                    round(percentile_cont(0.5) within group (order by price_per_m2)::numeric / 1000000, 1) as med_m2,
-                    round(avg(price_per_m2)/1000000, 1) as avg_m2
-                FROM real_estate_listings
-                WHERE district_name ILIKE %s
-                GROUP BY 1
-                ORDER BY 1 ASC;
-            """
-            cur.execute(d_query, (f"%{search_dist}%",))
-            d_rows = cur.fetchall()
+            with self.get_db_connection() as conn:
+                with conn.cursor() as cur:
+                    # 1.1 District monthly medians
+                    d_query = """
+                        SELECT 
+                            to_char(published_at, 'YYYY-MM') as ym,
+                            count(*) as count,
+                            round(percentile_cont(0.5) within group (order by price_per_m2)::numeric / 1000000, 1) as med_m2,
+                            round(avg(price_per_m2)/1000000, 1) as avg_m2
+                        FROM real_estate_listings
+                        WHERE district_name ILIKE %s
+                        GROUP BY 1
+                        ORDER BY 1 ASC;
+                    """
+                    cur.execute(d_query, (f"%{search_dist}%",))
+                    d_rows = cur.fetchall()
 
-            # Nếu quận không có đủ dữ liệu, truy vấn theo toàn tỉnh/thành
-            if len(d_rows) < 6:
-                cur.execute("""
-                    SELECT 
-                        to_char(published_at, 'YYYY-MM') as ym,
-                        count(*) as count,
-                        round(percentile_cont(0.5) within group (order by price_per_m2)::numeric / 1000000, 1) as med_m2,
-                        round(avg(price_per_m2)/1000000, 1) as avg_m2
-                    FROM real_estate_listings
-                    WHERE province_name ILIKE %s
-                    GROUP BY 1
-                    ORDER BY 1 ASC;
-                """, (f"%{clean_prov}%",))
-                d_rows = cur.fetchall()
+                    # Nếu quận không có đủ dữ liệu, truy vấn theo toàn tỉnh/thành
+                    if len(d_rows) < 6:
+                        cur.execute("""
+                            SELECT 
+                                to_char(published_at, 'YYYY-MM') as ym,
+                                count(*) as count,
+                                round(percentile_cont(0.5) within group (order by price_per_m2)::numeric / 1000000, 1) as med_m2,
+                                round(avg(price_per_m2)/1000000, 1) as avg_m2
+                            FROM real_estate_listings
+                            WHERE province_name ILIKE %s
+                            GROUP BY 1
+                            ORDER BY 1 ASC;
+                        """, (f"%{clean_prov}%",))
+                        d_rows = cur.fetchall()
 
-            # 1.2 Citywide monthly medians
-            cur.execute("""
-                SELECT 
-                    to_char(published_at, 'YYYY-MM') as ym,
-                    count(*) as count,
-                    round(percentile_cont(0.5) within group (order by price_per_m2)::numeric / 1000000, 1) as med_m2
-                FROM real_estate_listings
-                WHERE province_name ILIKE %s
-                GROUP BY 1
-                ORDER BY 1 ASC;
-            """, (f"%{clean_prov}%",))
-            c_rows = cur.fetchall()
-            conn.close()
+                    # 1.2 Citywide monthly medians
+                    cur.execute("""
+                        SELECT 
+                            to_char(published_at, 'YYYY-MM') as ym,
+                            count(*) as count,
+                            round(percentile_cont(0.5) within group (order by price_per_m2)::numeric / 1000000, 1) as med_m2
+                        FROM real_estate_listings
+                        WHERE province_name ILIKE %s
+                        GROUP BY 1
+                        ORDER BY 1 ASC;
+                    """, (f"%{clean_prov}%",))
+                    c_rows = cur.fetchall()
 
             if len(d_rows) >= 6:
                 month_labels = ['T' + r[0].split('-')[1] + '/' + r[0].split('-')[0][2:] for r in d_rows]

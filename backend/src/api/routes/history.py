@@ -8,7 +8,7 @@ from typing import Optional, Dict, Any
 from fastapi import APIRouter, Query, HTTPException, Request
 from pydantic import BaseModel, Field
 from config.settings import settings
-import psycopg2
+from src.services.spatial_service import spatial_service
 from psycopg2.extras import RealDictCursor
 import json
 
@@ -34,16 +34,10 @@ async def create_consultation_lead(payload: ConsultationLeadRequest, request: Re
     Lưu vết trực tiếp vào cơ sở dữ liệu để bộ phận Thẩm định viên MHD liên hệ
     """
     client_ip = request.client.host if request.client else "127.0.0.1"
-    conn = psycopg2.connect(
-        host=settings.POSTGRES_HOST,
-        port=settings.POSTGRES_PORT,
-        dbname=settings.POSTGRES_DB,
-        user=settings.POSTGRES_USER,
-        password=settings.POSTGRES_PASSWORD
-    )
     try:
-        with conn.cursor() as cur:
-            geom_expr = "ST_SetSRID(ST_MakePoint(%s, %s), 4326)" if (payload.longitude and payload.latitude) else "NULL"
+        with spatial_service.get_db_connection() as conn:
+            with conn.cursor() as cur:
+                geom_expr = "ST_SetSRID(ST_MakePoint(%s, %s), 4326)" if (payload.longitude and payload.latitude) else "NULL"
             
             lead_info = {
                 "customer_name": payload.customer_name,
@@ -93,10 +87,7 @@ async def create_consultation_lead(payload: ConsultationLeadRequest, request: Re
                 "created_at": str(row[1])
             }
     except Exception as e:
-        conn.rollback()
         raise HTTPException(status_code=500, detail=f"Lỗi tiếp nhận tư vấn: {str(e)}")
-    finally:
-        conn.close()
 
 
 @router.get("/history")
@@ -104,38 +95,32 @@ async def get_valuation_history(
     limit: int = Query(default=20, ge=1, le=100),
     phone: Optional[str] = None
 ):
-    conn = psycopg2.connect(
-        host=settings.POSTGRES_HOST,
-        port=settings.POSTGRES_PORT,
-        dbname=settings.POSTGRES_DB,
-        user=settings.POSTGRES_USER,
-        password=settings.POSTGRES_PASSWORD
-    )
     try:
-        with conn.cursor(cursor_factory=RealDictCursor) as cur:
-            if phone:
-                cur.execute("""
-                    SELECT id, client_ip, customer_phone, property_type, area,
-                           predicted_price, price_low, price_high, confidence_score,
-                           model_version, created_at,
-                           ST_X(geom) as longitude, ST_Y(geom) as latitude
-                    FROM valuation_history
-                    WHERE customer_phone = %s
-                    ORDER BY created_at DESC
-                    LIMIT %s;
-                """, (phone, limit))
-            else:
-                cur.execute("""
-                    SELECT id, client_ip, customer_phone, property_type, area,
-                           predicted_price, price_low, price_high, confidence_score,
-                           model_version, created_at,
-                           ST_X(geom) as longitude, ST_Y(geom) as latitude
-                    FROM valuation_history
-                    ORDER BY created_at DESC
-                    LIMIT %s;
-                """, (limit,))
-            
-            rows = cur.fetchall()
-            return {"status": "success", "count": len(rows), "data": [dict(r) for r in rows]}
-    finally:
-        conn.close()
+        with spatial_service.get_db_connection() as conn:
+            with conn.cursor(cursor_factory=RealDictCursor) as cur:
+                if phone:
+                    cur.execute("""
+                        SELECT id, client_ip, customer_phone, property_type, area,
+                               predicted_price, price_low, price_high, confidence_score,
+                               model_version, created_at,
+                               ST_X(geom) as longitude, ST_Y(geom) as latitude
+                        FROM valuation_history
+                        WHERE customer_phone = %s
+                        ORDER BY created_at DESC
+                        LIMIT %s;
+                    """, (phone, limit))
+                else:
+                    cur.execute("""
+                        SELECT id, client_ip, customer_phone, property_type, area,
+                               predicted_price, price_low, price_high, confidence_score,
+                               model_version, created_at,
+                               ST_X(geom) as longitude, ST_Y(geom) as latitude
+                        FROM valuation_history
+                        ORDER BY created_at DESC
+                        LIMIT %s;
+                    """, (limit,))
+                
+                rows = cur.fetchall()
+                return {"status": "success", "count": len(rows), "data": [dict(r) for r in rows]}
+    except Exception as e:
+        raise HTTPException(status_code=500, detail=f"Lỗi lấy lịch sử: {str(e)}")
